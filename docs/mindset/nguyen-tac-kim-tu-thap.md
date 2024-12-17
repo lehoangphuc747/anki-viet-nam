@@ -4,7 +4,7 @@ keywords:
    - "nguyên tắc kim tự tháp"
 ---
 
-## Tổng Quan
+## Tổng Quan hello
 - **Nguyên tắc Kim Tự Tháp** là phương pháp sắp xếp thông tin từ tổng quát đến chi tiết.
 - **Ý tưởng chính**: Bắt đầu với khái niệm rộng, sau đó chia nhỏ thành các phần chi tiết hơn, tạo cấu trúc rõ ràng và dễ hiểu.
 - **Lợi ích**:
