@@ -34,8 +34,14 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'vi', // Đặt ngôn ngữ mặc định là tiếng Việt
+    locales: ['vi'],     // Chỉ hỗ trợ tiếng Việt
+    localeConfigs: {
+      vi: {
+        label: 'Tiếng Việt',
+        direction: 'ltr', // Hướng văn bản từ trái sang phải
+      },
+    },
   },
 
   markdown: {
@@ -120,17 +126,17 @@ const config = {
             label: 'Bộ thẻ (Deck)',
             position: 'left',
             items: [
-              { label: 'Ngoại ngữ - Tiếng Anh', to: '/decks/english' },
-              { label: 'Ngoại ngữ - Tiếng Trung', to: '/decks/chinese' },
-              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/decks/japanese' },
-              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/decks/korean' },
-              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/decks/french' },
-              { label: 'Y Dược', to: '/decks/medicine' },
-              { label: 'THPT', to: '/decks/thpt' },
-              { label: 'THCS', to: '/decks/thcs' },
+              { label: 'Ngoại ngữ - Tiếng Anh', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Trung', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/blog' },
+              { label: 'Y Dược', to: '/blog' },
+              { label: 'THPT', to: '/blog' },
+              { label: 'THCS', to: '/blog' },
             ],
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Bộ thẻ', position: 'left' },
         ],
       },
 
