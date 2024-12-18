@@ -1,6 +1,8 @@
 > [!TIP]
 > `simple_docusaurus` là mẫu website đơn giản cho dự án Docusaurus kèm một số hướng dẫn cơ bản để minh hoạ tính năng website giúp bạn sử dụng nhanh chóng. Hãy sao chép dự án này về tài khoản của mình để bắt đầu thực hành.
 
+
+
 ## Sao chép repo
 
 Từ giao diện kho chứa mã nguồn simple_docusaurus, chọn Use template để sao chép về tài khoản của bạn.

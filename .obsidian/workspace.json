@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3a4aa3551225d2",
+        "id": "881e4b3021fd9424",
         "type": "tabs",
         "children": [
           {
-            "id": "6976a29cecd8155f",
+            "id": "8d6adc7c45552a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blog/2024-12-18-test-hai.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2024-12-18-test-hai"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "blog/2024-12-18-test-hai.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2024-12-18-test-hai"
             }
           }
         ],
@@ -159,23 +159,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "marp:Marp: Open Preview": false
     }
   },
-  "active": "6976a29cecd8155f",
+  "active": "8d6adc7c45552a47",
   "lastOpenFiles": [
-    "static/images/anh_chup_man_hinh_mau.png",
-    "docs/Untitled.md",
-    "README.md",
-    "static/images/start_editting_simple_browser.png",
-    "static/images/Pasted image 20241115224653.png",
-    "static/images/sync_change_git_codespace.png",
-    "static/images/commit_changes_codespaces.png",
-    "static/images/docusaurus_first_impression.png",
-    "static/images/docusaurus_preview.png",
-    "static/images/git_pull_terminal.png",
-    "static/images/codespaces_vscode_ui_layout.png",
-    "static/images/open_codespaces.png",
-    "static/images/clone_a_repo_as_templae.png"
+    "static/images/Pasted image 20241217220319.jpg",
+    "blog/2024-12-17-test-thu.md",
+    "blog/2024-12-18-test-hai.md",
+    "node_modules/uuid/dist/esm-browser/native.js",
+    "node_modules/postcss-font-variant/index.js",
+    "node_modules/@csstools/utilities/dist/index.mjs",
+    "node_modules/@csstools/utilities/dist/index.d.ts",
+    "node_modules/@csstools/utilities/dist/index.cjs",
+    "node_modules/@csstools/utilities/dist",
+    "node_modules/@csstools/postcss-progressive-custom-properties/dist/index.mjs",
+    "node_modules/@csstools/postcss-progressive-custom-properties/dist/index.d.ts",
+    "node_modules/@csstools/postcss-progressive-custom-properties/dist/index.cjs",
+    "node_modules/@csstools/postcss-progressive-custom-properties/dist",
+    "node_modules/update-notifier/node_modules/ansi-regex/readme.md",
+    "node_modules/unist-util-find-after/node_modules/unist-util-is/readme.md",
+    "node_modules/side-channel-weakmap/README.md",
+    "node_modules/side-channel-weakmap/CHANGELOG.md",
+    "node_modules/update-notifier/node_modules/emoji-regex/README.md",
+    "node_modules/update-notifier/node_modules/strip-ansi/readme.md",
+    "node_modules/wrap-ansi/node_modules/emoji-regex/README.md",
+    "node_modules/update-notifier/node_modules/string-width/readme.md",
+    "blog/2019-05-28-first-blog-post.md",
+    "blog/2019-05-29-long-blog-post.md",
+    "templates/newpost.md",
+    "node_modules/@csstools/selector-resolve-nested/LICENSE.md",
+    "node_modules/@csstools/selector-resolve-nested/README.md",
+    "node_modules/@csstools/selector-resolve-nested/CHANGELOG.md",
+    "node_modules/pkg-dir/node_modules/yocto-queue/readme.md",
+    "node_modules/pkg-dir/node_modules/path-exists/readme.md",
+    "node_modules/pkg-dir/node_modules/p-locate/readme.md",
+    "node_modules/pkg-dir/node_modules/p-limit/readme.md",
+    "node_modules/pkg-dir/node_modules/locate-path/readme.md",
+    "node_modules/pkg-dir/node_modules/find-up/readme.md",
+    "node_modules/dunder-proto/README.md",
+    "node_modules/dunder-proto/CHANGELOG.md",
+    "node_modules/math-intrinsics/README.md",
+    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/logo.svg",
+    "build/img/docusaurus.png",
+    "build/img/docusaurus-social-card.jpg",
+    "node_modules/@docusaurus/bundler/node_modules/@docusaurus/logger/demo.png",
+    "node_modules/@docusaurus/core/node_modules/@docusaurus/logger/demo.png",
+    "build/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png"
   ]
 }

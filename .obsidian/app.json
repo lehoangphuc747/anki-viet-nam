@@ -5,5 +5,8 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true,
+  "livePreview": false,
+  "spellcheck": false,
+  "trashOption": "local"
 }

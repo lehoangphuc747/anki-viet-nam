@@ -12,12 +12,12 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Awesome Docusaurus',
-  tagline: 'Dinosaurs thật tuyệt vời!',
-  favicon: 'img/favicon.ico',
+  title: 'Anki Việt Nam',
+  tagline: 'Cộng đồng Anki Việt Nam',
+  favicon: 'img/logo-ankivn.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ankivn.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -73,6 +73,8 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 0,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -84,20 +86,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-
-      // announcementBar: {
-      //   id: 'announcementBar-v3.2', // Increment on change
-      //   content: `🎉️ <b>Khai giảng khoá học Python chứng khoán K9 từ 8/12/2024 <a target="_blank" href="https://vnstocks.com/lp-khoa-hoc-python-chung-khoan/"></a></b>. Đăng ký ngay! 🥳️`,
-      // },
-
-      announcementBar: {
-        id: 'image_banner', // Any value that will identify this message.
-        content:
-          '<a href="https://vnstocks.com/lp-khoa-hoc-python-chung-khoan"><img src="https://vnstocks.com/img/python_chung_khoan_banner.png" alt="Banner" class="announcement-bar-image" /></a>',
-        backgroundColor: '#fafbfc', // Defaults to `#fff`.
-        textColor: '#091E42', // Defaults to `#000`.
-        isCloseable: true, // Defaults to `true`.
-      },
 
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -115,10 +103,10 @@ const config = {
       },
 
       navbar: {
-        title: 'Awesome Docusaurus',
+        title: 'Anki Việt Nam',
         logo: {
-          alt: 'Awesome Docusaurus Logo',
-          src: 'img/logo.svg',
+          alt: 'Anki Việt Nam Logo',
+          src: 'img/logo-ankivn.ico',
         },
         items: [
           {
@@ -127,15 +115,25 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn',
           },
-          {to: '/markdown-page', label: 'Trang Markdown', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            type: 'dropdown',
+            label: 'Bộ thẻ (Deck)',
+            position: 'left',
+            items: [
+              { label: 'Ngoại ngữ - Tiếng Anh', to: '/decks/english' },
+              { label: 'Ngoại ngữ - Tiếng Trung', to: '/decks/chinese' },
+              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/decks/japanese' },
+              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/decks/korean' },
+              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/decks/french' },
+              { label: 'Y Dược', to: '/decks/medicine' },
+              { label: 'THPT', to: '/decks/thpt' },
+              { label: 'THCS', to: '/decks/thcs' },
+            ],
           },
+          { to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
+
       footer: {
         style: 'dark',
         links: [
@@ -162,19 +160,6 @@ const config = {
               {
                 label: 'X',
                 href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },

@@ -13,20 +13,21 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Anki Việt Nam
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          Cùng nhau học hỏi và chia sẻ kinh nghiệm sử dụng Anki
+        </p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            5 Phút làm quen với Docusaurus ⏱️
+          <Link className="button button--secondary button--lg" to="/docs/intro">
+            Bắt đầu tìm hiểu ngay
           </Link>
         </div>
       </div>
     </header>
   );
 }
+
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();

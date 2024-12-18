@@ -4,36 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Dễ sử dụng',
+    title: 'Tự động hóa học tập',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus được thiết kế để làm cho việc viết tài liệu và blog dễ dàng, thú vị với chi phí tối thiểu.
-        Bạn có thể chia sẻ website của mình hoàn toàn miễn phí với Github Pages, Google Firebase, Netlify hoàn toàn không tốn phí.
+        Anki giúp bạn học tập hiệu quả thông qua phương pháp lặp lại cách quãng, giúp bạn nhớ lâu dài.
       </>
     ),
   },
   {
-    title: 'Tập trung vào nội dung',
+    title: 'Cộng đồng hỗ trợ mạnh mẽ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus cho phép bạn tập trung vào tài liệu của mình mà không phải bận tâm những tác vụ cài đặt nhàm chán. 
-        Hãy bắt đầu soạn thảo tài liệu của bạn vào thư mục <code>docs</code>.
+        Cộng đồng Anki Việt Nam luôn sẵn sàng hỗ trợ bạn trong việc học và sử dụng phần mềm.
       </>
     ),
   },
   {
-    title: 'Mạnh mẽ với React',
+    title: 'Tài nguyên phong phú',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Mở rộng hoặc tùy chỉnh bố cục trang web của bạn với React, sử dụng ChatGPT để tạo ra bố cục giao diện dễ dàng. 
-        Docusaurus có thể được mở rộng trong khi tái sử dụng cùng một header (đầu trang) và footer (chân trang).
+        Cộng đồng Anki Việt Nam cung cấp các tài nguyên học tập miễn phí và hữu ích để bạn bắt đầu học ngay.
       </>
     ),
   },
 ];
+
 
 function Feature({Svg, title, description}) {
   return (

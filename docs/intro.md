@@ -45,3 +45,6 @@ Lệnh `cd` thay đổi thư mục mà bạn đang làm việc. Để làm việ
 Lệnh `npm run start` xây dựng trang web của bạn cục bộ và phục vụ nó thông qua một máy chủ phát triển, sẵn sàng cho bạn xem tại http://localhost:3000/.
 
 Mở `docs/intro.md` (trang này) và chỉnh sửa một số dòng: trang web sẽ **tự động tải lại** và hiển thị các thay đổi của bạn.
+
+Nhập 1 số dòng trang web có tự động tải lại không nhỉ?
+abc
