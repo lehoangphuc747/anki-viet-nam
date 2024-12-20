@@ -26,14 +26,6 @@
       "key": "G"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -177,16 +169,6 @@
         "Shift"
       ],
       "key": "P"
-    }
-  ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
     }
   ],
   "file-explorer:move-file": [
@@ -611,6 +593,31 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }

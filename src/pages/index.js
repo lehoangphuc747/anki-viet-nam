@@ -8,7 +8,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -19,8 +19,13 @@ function HomepageHeader() {
           Cùng nhau học hỏi và chia sẻ kinh nghiệm sử dụng Anki
         </p>
         <div className={styles.buttons}>
+          {/* Nút đầu tiên */}
           <Link className="button button--secondary button--lg" to="/docs/intro">
             Bắt đầu tìm hiểu ngay
+          </Link>
+          {/* Nút thứ hai */}
+          <Link className="button button--secondary button--lg" to="/blog" style={{ marginLeft: '10px' }}>
+            Xem các bộ thẻ hiện có
           </Link>
         </div>
       </div>

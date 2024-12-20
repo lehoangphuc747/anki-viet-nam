@@ -66,11 +66,9 @@ const config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
+          showReadingTime: true, // When set to false, the "x min read" won't be shown
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            defaultReadingTime({content, options: {wordsPerMinute: 300}}),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -115,28 +113,30 @@ const config = {
           src: 'img/logo-ankivn.ico',
         },
         items: [
+          { to: '/phuc-lee', label: 'Về tui', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Hướng dẫn',
           },
+          { to: '/blog', label: 'Tất cả bộ thẻ', position: 'left' },
           {
             type: 'dropdown',
             label: 'Bộ thẻ (Deck)',
             position: 'left',
+            to: '/blog/tags/deck',
             items: [
-              { label: 'Ngoại ngữ - Tiếng Anh', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Anh', to: '/blog/tags/english' },
               { label: 'Ngoại ngữ - Tiếng Trung', to: '/blog' },
               { label: 'Ngoại ngữ - Tiếng Nhật', to: '/blog' },
               { label: 'Ngoại ngữ - Tiếng Hàn', to: '/blog' },
               { label: 'Ngoại ngữ - Tiếng Pháp', to: '/blog' },
-              { label: 'Y Dược', to: '/blog' },
-              { label: 'THPT', to: '/blog' },
-              { label: 'THCS', to: '/blog' },
+              { label: 'Y Dược', to: '/blog/tags/medical' },
+              { label: 'THPT', to: '/blog/tags/thpt' },
+              { label: 'THCS', to: '/blog/tags/thcs' },
             ],
           },
-          { to: '/blog', label: 'Bộ thẻ', position: 'left' },
         ],
       },
 

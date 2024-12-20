@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "881e4b3021fd9424",
+        "id": "3110f94eca1e814b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6adc7c45552a47",
+            "id": "1945f363ae657255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-12-18-test-hai.md",
+                "file": "docs/tutorial-basics/create-a-page.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "create-a-page"
+            }
+          },
+          {
+            "id": "da1654a0ec069f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-12-18-test-hai"
+              "title": "2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business"
+            }
+          },
+          {
+            "id": "9611e559b14ee998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa.mdx",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024-12-18-test-hai.md"
+                "file": "blog/2022-07-23-625-tu-vung-tieng-Anh-co-ban.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-18-test-hai"
+              "title": "Outline of 2022-07-23-625-tu-vung-tieng-Anh-co-ban"
             }
           }
         ],
@@ -150,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,56 +190,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "marp:Marp: Open Preview": false
+      "marp:Marp: Open Preview": false,
+      "edit-mdx:New .mdx file": false
     }
   },
-  "active": "8d6adc7c45552a47",
+  "active": "57a2b4a1b7088189",
   "lastOpenFiles": [
+    "blog/english/2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa.mdx",
+    "blog/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
+    "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
+    "docs/tutorial-basics/create-a-page.md",
+    "blog/english",
+    "docs/mindset/index.md",
+    "docs/intro.md",
+    "blog/2022-01-19-Tieng-Anh-lop-9.md",
     "firebase-debug.log",
-    "build/lunr-index-1734454994622.json",
-    "build/search-doc-1734454994622.json",
-    "build/__server/assets/js/978.b8cef743.js",
-    "build/__server/assets/js/890.391e8293.js",
-    "build/__server/assets/js/825.4ccd6df0.js",
-    "build/__server/assets/js/732.8b4347a7.js",
-    "build/__server/assets/js/723.7d229e96.js",
-    "build/__server/assets/js/720.b89d8a4b.js",
-    "build/__server/assets/js/697.0b0b1cab.js",
-    "build/__server/assets/js/691.60291856.js",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/logo.svg",
-    "build/img/docusaurus.png",
-    "build/img/docusaurus-social-card.jpg",
-    "build/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
-    "build/assets/images/Pasted image 20241217220319-c4ea1167931b2a6b302349d39b60ae9f.jpg",
-    "build/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png",
-    "build/assets/images/docsVersionDropdown-35e13cbe46c9923327f30a76a90bff3b.png",
-    "blog/2024-12-17-test-thu.md",
-    "blog/2024-12-18-test-hai.md",
-    "node_modules/update-notifier/node_modules/ansi-regex/readme.md",
-    "node_modules/unist-util-find-after/node_modules/unist-util-is/readme.md",
-    "node_modules/side-channel-weakmap/README.md",
-    "node_modules/side-channel-weakmap/CHANGELOG.md",
-    "node_modules/update-notifier/node_modules/emoji-regex/README.md",
-    "node_modules/update-notifier/node_modules/strip-ansi/readme.md",
-    "node_modules/wrap-ansi/node_modules/emoji-regex/README.md",
-    "node_modules/update-notifier/node_modules/string-width/readme.md",
-    "blog/2019-05-28-first-blog-post.md",
-    "blog/2019-05-29-long-blog-post.md",
+    "build/lunr-index-1734550470722.json",
+    "build/search-doc-1734550470722.json",
+    "build/blog/tags/deck/page/2/index.html",
+    "build/blog/tags/deck/page/2",
+    "build/blog/tags/deck/page",
+    "build/blog/tags/english/page/2/index.html",
+    "build/blog/tags/english/page/2",
+    "build/blog/tags/english/page",
+    "build/assets/images/Preview-Tiếng-Anh-THPT-3517707882241f9d1b38e3b9d43b63de.png",
+    "build/assets/images/Pasted-image-20241218155006-7eabf6dab9a1fce0a25c0e63858bec02.png",
+    "build/assets/images/Pasted-image-20241219023148-3614ed5599928932eb78fd98c0fc9cce.png",
+    "static/images/Pasted-image-20241219023152.png",
+    "static/images/Pasted-image-20241219023148.png",
+    "static/images/Pasted-image-20241219023138.png",
+    "blog/2022-07-12-Tieng-Anh-THPT.md",
+    "static/images/Preview-Tiếng-Anh-THPT.png",
+    "blog/english/2022-07-23-625-tu-vung-tieng-Anh-co-ban.md",
+    "blog/english/2022-06-30-4000-Essential-English-Words.md",
+    "blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
+    "blog/english/2022-07-04-200-Common-English-Expression-English-Vietnamese.md",
+    "blog/2022-07-04-Cau-truc-tieng-Anh-THPTQG.md",
+    "blog/2024-12-18-bo-the-thi-Vien-chuc-nganh-Y-te.md",
+    "blog/english/2022-07-04-LDOCE6-with-Pictures.md",
+    "static/images/Pasted-image-20241219020713.png",
     "templates/newpost.md",
-    "node_modules/@csstools/selector-resolve-nested/LICENSE.md",
-    "node_modules/@csstools/selector-resolve-nested/README.md",
-    "node_modules/@csstools/selector-resolve-nested/CHANGELOG.md",
-    "node_modules/pkg-dir/node_modules/yocto-queue/readme.md",
-    "node_modules/pkg-dir/node_modules/path-exists/readme.md",
-    "node_modules/pkg-dir/node_modules/p-locate/readme.md",
-    "node_modules/pkg-dir/node_modules/p-limit/readme.md",
-    "node_modules/pkg-dir/node_modules/locate-path/readme.md",
-    "node_modules/pkg-dir/node_modules/find-up/readme.md",
-    "node_modules/dunder-proto/README.md",
-    "node_modules/dunder-proto/CHANGELOG.md",
-    "node_modules/math-intrinsics/README.md"
+    "static/images/Pasted-image-20241219015656.png",
+    "static/images/Pasted-image-20241219015638.png",
+    "templates/link.md",
+    "templates/taixuong.md",
+    "templates/ggdrive.md",
+    "blog/2022-06-26-Close-up-Word-List-A1-C2.md",
+    "templates/Ytb.md",
+    "blog/2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa.md",
+    "docs/Untitled.md",
+    "blog/2021-08-26-welcome/index.md",
+    "blog/2019-05-28-first-blog-post.md",
+    "blog/2019-05-29-long-blog-post.md"
   ]
 }

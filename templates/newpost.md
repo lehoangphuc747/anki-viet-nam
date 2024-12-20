@@ -1,13 +1,22 @@
 ---
-title: First Blog Post
-slug: first-blog-post
-author:
-  - phuc-lee
-date: 2024-12-17
-description: 
+title: "{{title}}"
+slug: "{{title}}"
+date: "{{date:YYYY-MM-DD}}"
+description: ""
 domain: ankivn.com
-image: http://learn-anything.vn/images/learn-anything-social-card-journey.png keywords:
-  - 
-tags:
+keywords:
   - ankivn
+tags:
+  - deck
 ---
+
+
+
+<!--truncate-->
+
+## Nguồn: []()
+
+
+## 🔗 Tải xuống
+
+### [⏬ Google Drive (ankivn)]()
