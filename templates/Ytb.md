@@ -1,3 +1,3 @@
 import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
-<YouTubeEmbed videoId="4LeYLKAidHE" />
+<YouTubeEmbed videoId="đây_là_id_của_video_youtube" />

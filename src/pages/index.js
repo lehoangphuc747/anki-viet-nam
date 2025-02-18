@@ -21,11 +21,11 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           {/* Nút đầu tiên */}
           <Link className="button button--secondary button--lg" to="/docs/intro">
-            Bắt đầu tìm hiểu ngay
+            Hướng dẫn 
           </Link>
           {/* Nút thứ hai */}
           <Link className="button button--secondary button--lg" to="/blog" style={{ marginLeft: '10px' }}>
-            Xem các bộ thẻ hiện có
+            Bộ thẻ
           </Link>
         </div>
       </div>

@@ -128,17 +128,19 @@ const config = {
             to: '/blog/tags/deck',
             items: [
               { label: 'Ngoại ngữ - Tiếng Anh', to: '/blog/tags/english' },
-              { label: 'Ngoại ngữ - Tiếng Trung', to: '/blog' },
-              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/blog' },
-              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/blog' },
-              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/blog' },
+              { label: 'Ngoại ngữ - Tiếng Trung', to: '/blog/tags/chinese' },
+              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/blog/tags/japanese' },
+              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/blog/tags/korean' },
+              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/blog/tags/france' },
               { label: 'Y Dược', to: '/blog/tags/medical' },
               { label: 'THPT', to: '/blog/tags/thpt' },
               { label: 'THCS', to: '/blog/tags/thcs' },
             ],
           },
+          { to: '/blog/tags/addons', label: 'Addons', position: 'left', to: '/addons' },
         ],
       },
+      
 
       footer: {
         style: 'dark',

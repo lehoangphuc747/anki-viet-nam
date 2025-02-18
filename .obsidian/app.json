@@ -8,5 +8,6 @@
   "showUnsupportedFiles": true,
   "livePreview": false,
   "spellcheck": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "promptDelete": false
 }

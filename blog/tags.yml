@@ -52,3 +52,8 @@ thpt:
   label: THPT
   permalink: /thpt
   description: "Các bộ thẻ bậc Trung học Phổ thông"
+
+thcs:
+  label: THCS
+  permalink: /thcs
+  description: "Các bộ thẻ bậc Trung học Cơ sở"

@@ -4,30 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "3110f94eca1e814b",
+        "id": "e7edb1833cd11487",
         "type": "tabs",
         "children": [
           {
-            "id": "1945f363ae657255",
+            "id": "36db2342c83164ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tutorial-basics/create-a-page.md",
-                "mode": "preview",
+                "file": "blog/medical/2022-07-06-bo-on-noi-tru-y-ha-noi.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "create-a-page"
+              "title": "2022-07-06-bo-on-noi-tru-y-ha-noi"
             }
           },
           {
-            "id": "da1654a0ec069f41",
+            "id": "f984ec3d9acb3060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
+                "file": "blog/thpt/2024-07-05-thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia-CHUAXONG.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-07-05-thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia-CHUAXONG"
+            }
+          },
+          {
+            "id": "f1651995233e5511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
                 "mode": "source",
                 "source": true
               },
@@ -36,7 +50,21 @@
             }
           },
           {
-            "id": "9611e559b14ee998",
+            "id": "0e4b32399f4a8f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-06-22-Oxford-3000-Words-CEFR-A1"
+            }
+          },
+          {
+            "id": "0261e188569140d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +76,541 @@
               "icon": "lucide-file",
               "title": "2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa"
             }
+          },
+          {
+            "id": "3839e140462967ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-06-26-Close-up-Word-List-A1-C2.mdx",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-06-26-Close-up-Word-List-A1-C2"
+            }
+          },
+          {
+            "id": "351635d7bdeb2ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-06-30-4000-Essential-English-Words.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-06-30-4000-Essential-English-Words"
+            }
+          },
+          {
+            "id": "b016341d5290ad4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-04-30-Chu-de-tu-vung-tieng-Anh"
+            }
+          },
+          {
+            "id": "fc26ec588d925fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-04-200-Common-English-Expression-English-Vietnamese.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-04-200-Common-English-Expression-English-Vietnamese"
+            }
+          },
+          {
+            "id": "9ecc16f14526d9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-04-LDOCE6-with-Pictures.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-04-LDOCE6-with-Pictures"
+            }
+          },
+          {
+            "id": "dc077e6e11dd1251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-23-625-tu-vung-tieng-Anh-co-ban.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-23-625-tu-vung-tieng-Anh-co-ban"
+            }
+          },
+          {
+            "id": "a27d44ebca6573fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-30-Outcomes-Vocabulary-Builder.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-30-Outcomes-Vocabulary-Builder"
+            }
+          },
+          {
+            "id": "19424cd71bf7327d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-07-31-4000-essential-english-words-1-6-giao-dien-moi-chon-dap-an.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-07-31-4000-essential-english-words-1-6-giao-dien-moi-chon-dap-an"
+            }
+          },
+          {
+            "id": "5abd885f4dac47df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-08-01-4000 Essential Words + Close-up Word List (Online hoá).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-08-01-4000 Essential Words + Close-up Word List (Online hoá)"
+            }
+          },
+          {
+            "id": "5f5fe685c3b7925e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-08-01-destination-b1-and-b2-with-phrasal-verb-and-vietnamese.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-08-01-destination-b1-and-b2-with-phrasal-verb-and-vietnamese"
+            }
+          },
+          {
+            "id": "3d747e8a4a631ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-08-20-600-essential-english-words-for-the-toeic-vietnamese.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-08-20-600-essential-english-words-for-the-toeic-vietnamese"
+            }
+          },
+          {
+            "id": "5353ab5919467dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-01-16-target-listening-with-dictation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-01-16-target-listening-with-dictation"
+            }
+          },
+          {
+            "id": "d8fa76a4ac58294d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-01-16-target-listening-with-dictation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-01-16-target-listening-with-dictation"
+            }
+          },
+          {
+            "id": "232fa70e5c498d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-01-30-625-common-words-english.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-01-30-625-common-words-english"
+            }
+          },
+          {
+            "id": "546145dbb81dea99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-02-27-advanced-english-vocabulary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-02-27-advanced-english-vocabulary"
+            }
+          },
+          {
+            "id": "b1e31cc5abba0713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-02-27-bo-the-cambridge-vocabulary-for-ielts-20-lessons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-02-27-bo-the-cambridge-vocabulary-for-ielts-20-lessons"
+            }
+          },
+          {
+            "id": "1ed1c197c0cb4333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-02-27-lifelong-learning-advanced-english-vocabulary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-02-27-lifelong-learning-advanced-english-vocabulary"
+            }
+          },
+          {
+            "id": "c2ae6cec85c23226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-03-24-anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-03-24-anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver"
+            }
+          },
+          {
+            "id": "d5e3148775fe7468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-04-06-3000-tu-tieng-anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-04-06-3000-tu-tieng-anh"
+            }
+          },
+          {
+            "id": "c04496adbe178b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-04-06-3000-tu-tieng-anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-04-06-3000-tu-tieng-anh"
+            }
+          },
+          {
+            "id": "780ce35c4a6eb59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-06-15-tieng-anh-chuyen-nganh-cong-nghe-thong-tin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-15-tieng-anh-chuyen-nganh-cong-nghe-thong-tin"
+            }
+          },
+          {
+            "id": "721641d6d45b1ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-06-15-tieng-anh-kinh-te.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-15-tieng-anh-kinh-te"
+            }
+          },
+          {
+            "id": "fa2c13486995779f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-06-17-tu-cung-truong-nghia-co-trang-anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-17-tu-cung-truong-nghia-co-trang-anh"
+            }
+          },
+          {
+            "id": "9d5e735a80933fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-06-24-english-collocations-in-use-advanced-1000-collocations.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-24-english-collocations-in-use-advanced-1000-collocations"
+            }
+          },
+          {
+            "id": "37f846310b058c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-06-24-tai-nguyen-anki-ted-ed-song-ngu-anh-viet-part-3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-24-tai-nguyen-anki-ted-ed-song-ngu-anh-viet-part-3"
+            }
+          },
+          {
+            "id": "33c0b86887e46318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-07-17-cam-nang-cau-truc-tieng-anh-trang-anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-07-17-cam-nang-cau-truc-tieng-anh-trang-anh"
+            }
+          },
+          {
+            "id": "b9144a407d06fb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-07-17-learn-english-with-movies-house-of-cards.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-07-17-learn-english-with-movies-house-of-cards"
+            }
+          },
+          {
+            "id": "8b1232160964cdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-07-17-ted-ed-part-2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-07-17-ted-ed-part-2"
+            }
+          },
+          {
+            "id": "ae6a36277b8e5cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-09-09-close-up-word-list-a1-c2-version-trieu-minh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-09-09-close-up-word-list-a1-c2-version-trieu-minh"
+            }
+          },
+          {
+            "id": "ff74e0645b6b892d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-10-08-essential-idioms-in-english.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-10-08-essential-idioms-in-english"
+            }
+          },
+          {
+            "id": "0bd7fb7909066e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-10-03-cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-10-03-cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh"
+            }
+          },
+          {
+            "id": "c1f1edd9575133dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-10-08-essential-idioms-in-english.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-10-08-essential-idioms-in-english"
+            }
+          },
+          {
+            "id": "cfdaf43fea571eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-10-10-1000-basic-english-words.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-10-10-1000-basic-english-words"
+            }
+          },
+          {
+            "id": "5982d2c506f5a988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2023-10-12-english-grammar-in-use-activities.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-10-12-english-grammar-in-use-activities"
+            }
+          },
+          {
+            "id": "a0832ba99362fde3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2024-01-06-3000-common-english-words.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-06-3000-common-english-words"
+            }
+          },
+          {
+            "id": "ba3fc78848f22b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2024-05-20-tao-bo-the-grammar-in-use-tich-hop-ai.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-20-tao-bo-the-grammar-in-use-tich-hop-ai"
+            }
+          },
+          {
+            "id": "e45a732fa94d58b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2024-06-01-ets-toeic-2016.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-01-ets-toeic-2016"
+            }
+          },
+          {
+            "id": "b5ccc383511db2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2024-06-12-destination-b1-full-version.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-12-destination-b1-full-version"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -69,7 +629,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +642,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tieng-anh-chuyen-nganh-y-duoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +667,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "right": {
     "id": "d9e292ba45a0cba4",
@@ -194,53 +755,53 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "57a2b4a1b7088189",
+  "active": "b5ccc383511db2f6",
   "lastOpenFiles": [
-    "blog/english/2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa.mdx",
-    "blog/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
-    "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
-    "docs/tutorial-basics/create-a-page.md",
-    "blog/english",
-    "docs/mindset/index.md",
-    "docs/intro.md",
-    "blog/2022-01-19-Tieng-Anh-lop-9.md",
-    "firebase-debug.log",
-    "build/lunr-index-1734550470722.json",
-    "build/search-doc-1734550470722.json",
-    "build/blog/tags/deck/page/2/index.html",
-    "build/blog/tags/deck/page/2",
-    "build/blog/tags/deck/page",
+    "build/addons/index.html",
+    "build/addons",
+    "build/blog/tags/english/page/5/index.html",
+    "build/blog/tags/english/page/4/index.html",
+    "build/blog/tags/english/page/3/index.html",
     "build/blog/tags/english/page/2/index.html",
-    "build/blog/tags/english/page/2",
-    "build/blog/tags/english/page",
+    "build/blog/tags/deck/page/5/index.html",
+    "build/blog/tags/deck/page/4/index.html",
+    "build/blog/tags/deck/page/3/index.html",
+    "build/blog/tags/deck/page/2/index.html",
+    "build/blog/tags/english/page/5",
+    "blog/english/2024-06-01-ets-toeic-2016.md",
+    "blog/english/2024-05-20-tao-bo-the-grammar-in-use-tich-hop-ai.md",
+    "blog/english/2024-01-06-3000-common-english-words.md",
+    "blog/english/2023-10-12-english-grammar-in-use-activities.md",
+    "blog/english/2023-10-10-1000-basic-english-words.md",
+    "blog/english/2023-10-08-essential-idioms-in-english.md",
+    "blog/english/2023-09-16-2000-core-english-words-book-1-level-a1-plus.md",
+    "blog/english/2023-10-03-cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh.md",
+    "blog/english/2023-09-09-close-up-word-list-a1-c2-version-trieu-minh.md",
+    "blog/english/2023-07-17-ted-ed-part-2.md",
+    "blog/english/2023-07-17-learn-english-with-movies-house-of-cards.md",
+    "blog/english/2023-07-17-cam-nang-cau-truc-tieng-anh-trang-anh.md",
+    "blog/english/2023-06-24-tai-nguyen-anki-ted-ed-song-ngu-anh-viet-part-3.md",
+    "blog/english/2023-06-17-tu-cung-truong-nghia-co-trang-anh.md",
+    "blog/english/2023-06-15-tieng-anh-kinh-te.md",
+    "blog/english/2023-04-06-3000-tu-tieng-anh.md",
+    "blog/english/2023-04-26-30-chu-de-tu-vung-co-trang-anh-made-by-hoang-xuan.md",
+    "blog/english/2023-06-15-tieng-anh-chuyen-nganh-cong-nghe-thong-tin.md",
+    "blog/english/2023-06-24-english-collocations-in-use-advanced-1000-collocations.md",
+    "blog/english/2023-03-24-anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver.md",
+    "blog/english/2023-02-27-lifelong-learning-advanced-english-vocabulary.md",
+    "blog/english/2023-02-27-bo-the-cambridge-vocabulary-for-ielts-20-lessons.md",
+    "blog/english/2023-02-27-advanced-english-vocabulary.md",
+    "blog/english/2023-01-30-625-common-words-english.md",
+    "blog/english/2023-01-16-target-listening-with-dictation.md",
+    "build/assets/images/zk9p4gd-ff827efa6d2d76db6d9301ee87b4d156.gif",
+    "build/assets/images/x4DQ1ms-30aa7b837f32424cef8e9c7ff30174ba.gif",
     "build/assets/images/Preview-Tiếng-Anh-THPT-3517707882241f9d1b38e3b9d43b63de.png",
-    "build/assets/images/Pasted-image-20241218155006-7eabf6dab9a1fce0a25c0e63858bec02.png",
+    "build/assets/images/pasted-image-20250108140547-69ae4002c74762717e347dbf059addf6.png",
+    "build/assets/images/pasted-image-20241220231653-0c23c9514816e4573427a4ed8090187d.png",
+    "build/assets/images/pasted-image-20241220231649-887012e5d37acc51f422ec8551db1931.png",
+    "build/assets/images/Pasted-image-20241219023152-ee05e0cf723a2e77f2a431a4c000512f.png",
     "build/assets/images/Pasted-image-20241219023148-3614ed5599928932eb78fd98c0fc9cce.png",
-    "static/images/Pasted-image-20241219023152.png",
-    "static/images/Pasted-image-20241219023148.png",
-    "static/images/Pasted-image-20241219023138.png",
-    "blog/2022-07-12-Tieng-Anh-THPT.md",
-    "static/images/Preview-Tiếng-Anh-THPT.png",
-    "blog/english/2022-07-23-625-tu-vung-tieng-Anh-co-ban.md",
-    "blog/english/2022-06-30-4000-Essential-English-Words.md",
-    "blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
-    "blog/english/2022-07-04-200-Common-English-Expression-English-Vietnamese.md",
-    "blog/2022-07-04-Cau-truc-tieng-Anh-THPTQG.md",
-    "blog/2024-12-18-bo-the-thi-Vien-chuc-nganh-Y-te.md",
-    "blog/english/2022-07-04-LDOCE6-with-Pictures.md",
-    "static/images/Pasted-image-20241219020713.png",
-    "templates/newpost.md",
-    "static/images/Pasted-image-20241219015656.png",
-    "static/images/Pasted-image-20241219015638.png",
-    "templates/link.md",
-    "templates/taixuong.md",
-    "templates/ggdrive.md",
-    "blog/2022-06-26-Close-up-Word-List-A1-C2.md",
-    "templates/Ytb.md",
-    "blog/2022-06-24-bo-the-hoc-phien-am-quoc-te-ipa.md",
-    "docs/Untitled.md",
-    "blog/2021-08-26-welcome/index.md",
-    "blog/2019-05-28-first-blog-post.md",
-    "blog/2019-05-29-long-blog-post.md"
+    "build/assets/images/Pasted-image-20241219023138-9346169ed967dcddfca1a78f106771b1.png",
+    "build/assets/images/Pasted-image-20241219020713-30e2ec3c7d6f381967c631b2b6115422.png"
   ]
 }

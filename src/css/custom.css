@@ -104,3 +104,41 @@ div[class^='announcementBar_'] {
 }
 
 /* KẾT THÚC THIẾT LẬP BANNER THÔNG BÁO */
+
+
+/* nút tải xuống */
+.buttonPrimary {
+  background-color: #0088d1;
+  color: #ffffff;
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 50px;
+  border-color: transparent;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 10px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.buttonPrimary:hover {
+  background-color: #8C52FF;
+  color: #ffffff;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 2rem auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-video {
+  width: 100%;
+  height: auto;
+  display: block;
+}

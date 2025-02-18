@@ -171,16 +171,6 @@
       "key": "P"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -616,6 +606,15 @@
     {
       "modifiers": [
         "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
       ],
       "key": "D"
     }
