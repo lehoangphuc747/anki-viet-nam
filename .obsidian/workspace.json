@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
+                "file": "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business"
+              "title": "2022-06-22-Oxford-3000-Words-CEFR-A1"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
+                "file": "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2022-06-22-Oxford-3000-Words-CEFR-A1"
+              "title": "2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business"
             }
           },
           {
@@ -601,16 +601,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/english/2024-06-12-destination-b1-full-version.md",
+                "file": "blog/english/PTE.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PTE"
+            }
+          },
+          {
+            "id": "2b46ba19882130a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-06-12-destination-b1-full-version"
+              "title": "2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business"
+            }
+          },
+          {
+            "id": "8f44440974efacf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/english/PTE.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PTE"
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -755,19 +783,35 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "b5ccc383511db2f6",
+  "active": "2b46ba19882130a3",
   "lastOpenFiles": [
+    "build/markdown-page/index.html",
+    "build/markdown-page",
+    "build/phuc-lee/index.html",
+    "build/phuc-lee",
     "build/addons/index.html",
     "build/addons",
-    "build/blog/tags/english/page/5/index.html",
-    "build/blog/tags/english/page/4/index.html",
-    "build/blog/tags/english/page/3/index.html",
-    "build/blog/tags/english/page/2/index.html",
-    "build/blog/tags/deck/page/5/index.html",
-    "build/blog/tags/deck/page/4/index.html",
-    "build/blog/tags/deck/page/3/index.html",
-    "build/blog/tags/deck/page/2/index.html",
-    "build/blog/tags/english/page/5",
+    "build/docs/tags/medical/index.html",
+    "build/docs/tags/docs/index.html",
+    "build/docs/tags/deck/index.html",
+    "build/docs/tags/medical",
+    "build/docs/tags/index.html",
+    "build/images/zk9p4gd.gif",
+    "build/images/x4DQ1ms.gif",
+    "build/images/use_as_template.png",
+    "build/images/Untitled.png",
+    "build/images/U9gw7cdMDm.gif",
+    "build/images/tags.gif",
+    "build/images/sync_change_git_codespace.png",
+    "build/images/start_editting_simple_browser.png",
+    "build/images/RYCBbHF.png",
+    "build/images/qjtbCc.jpeg",
+    "blog/english/2022-06-22-Oxford-3000-Words-CEFR-A1.md",
+    "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
+    "src/pages/addons.md",
+    "blog/english/PTE.md",
+    "fb.com/tuilaphuc747.md",
+    "blog/english/2024-06-12-destination-b1-full-version.md",
     "blog/english/2024-06-01-ets-toeic-2016.md",
     "blog/english/2024-05-20-tao-bo-the-grammar-in-use-tich-hop-ai.md",
     "blog/english/2024-01-06-3000-common-english-words.md",
@@ -786,22 +830,6 @@
     "blog/english/2023-04-06-3000-tu-tieng-anh.md",
     "blog/english/2023-04-26-30-chu-de-tu-vung-co-trang-anh-made-by-hoang-xuan.md",
     "blog/english/2023-06-15-tieng-anh-chuyen-nganh-cong-nghe-thong-tin.md",
-    "blog/english/2023-06-24-english-collocations-in-use-advanced-1000-collocations.md",
-    "blog/english/2023-03-24-anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver.md",
-    "blog/english/2023-02-27-lifelong-learning-advanced-english-vocabulary.md",
-    "blog/english/2023-02-27-bo-the-cambridge-vocabulary-for-ielts-20-lessons.md",
-    "blog/english/2023-02-27-advanced-english-vocabulary.md",
-    "blog/english/2023-01-30-625-common-words-english.md",
-    "blog/english/2023-01-16-target-listening-with-dictation.md",
-    "build/assets/images/zk9p4gd-ff827efa6d2d76db6d9301ee87b4d156.gif",
-    "build/assets/images/x4DQ1ms-30aa7b837f32424cef8e9c7ff30174ba.gif",
-    "build/assets/images/Preview-Tiếng-Anh-THPT-3517707882241f9d1b38e3b9d43b63de.png",
-    "build/assets/images/pasted-image-20250108140547-69ae4002c74762717e347dbf059addf6.png",
-    "build/assets/images/pasted-image-20241220231653-0c23c9514816e4573427a4ed8090187d.png",
-    "build/assets/images/pasted-image-20241220231649-887012e5d37acc51f422ec8551db1931.png",
-    "build/assets/images/Pasted-image-20241219023152-ee05e0cf723a2e77f2a431a4c000512f.png",
-    "build/assets/images/Pasted-image-20241219023148-3614ed5599928932eb78fd98c0fc9cce.png",
-    "build/assets/images/Pasted-image-20241219023138-9346169ed967dcddfca1a78f106771b1.png",
-    "build/assets/images/Pasted-image-20241219020713-30e2ec3c7d6f381967c631b2b6115422.png"
+    "blog/english/2023-06-24-english-collocations-in-use-advanced-1000-collocations.md"
   ]
 }

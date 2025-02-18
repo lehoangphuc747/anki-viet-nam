@@ -11,7 +11,7 @@ tags:
   - english
 ---
 
-![](../../static/images/Pasted-image-20241219015620.png)
+![](../../static/images/Pasted-image-20241219015620.webp)
 
 <!--truncate-->
 
@@ -35,9 +35,9 @@ Hoan nghênh mọi góp ý của các bạn để những bộ deck sau của m�
  
 ## Preview
 
-![](../../static/images/Pasted-image-20241219015600.png)
-![](../../static/images/Pasted-image-20241219015620.png)
-![](../../static/images/Pasted-image-20241219015638.png)
+![](../../static/images/Pasted-image-20241219015600.webp)
+![](../../static/images/Pasted-image-20241219015620.webp)
+![](../../static/images/Pasted-image-20241219015638.webp)
 
 ## 🔗 Tải xuống
 
