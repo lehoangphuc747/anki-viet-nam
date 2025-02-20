@@ -183,8 +183,8 @@ Mình học tiếng Trung vì hồi đó đu idol Trung, có bon chen làm subti
 <div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/file/d/1y_ezc1UyHvq0S3yCJ3bOzsGLg3-Z_bFc/view?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (gốc)</button> </a> </div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
-        <category label="toeic" term="toeic"/>
-        <category label="listening" term="listening"/>
+        <category label="TOEIC" term="TOEIC"/>
+        <category label="Listening" term="Listening"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tạo bộ thẻ Grammar in use tích hợp AI]]></title>
@@ -209,7 +209,7 @@ Mình học tiếng Trung vì hồi đó đu idol Trung, có bon chen làm subti
 <div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/file/d/1zfscRzkqkIbH1Vs99pnHBz8jTipUt65P/view?usp=sharing"><button class="buttonPrimary" type="button">Google Drive</button></a></div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
-        <category label="anki" term="anki"/>
+        <category label="Anki" term="Anki"/>
         <category label="AI" term="AI"/>
     </entry>
     <entry>
@@ -362,7 +362,7 @@ Mình học tiếng Trung vì hồi đó đu idol Trung, có bon chen làm subti
 <div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/drive/folders/10DRQb7-lstcvjeWb883iv-1nWV1zACyS?usp=sharing"> <button class="buttonPrimary" type="button">Bộ thẻ + Sách + Đĩa CD</button> </a> </div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
-        <category label="grammar" term="grammar"/>
+        <category label="Grammar" term="Grammar"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[1000 Basic English Words]]></title>
@@ -455,7 +455,7 @@ Mình học tiếng Trung vì hồi đó đu idol Trung, có bon chen làm subti
 <div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/drive/folders/1DGMI3j4hBigHlAKa69aLvT-k5m0Gxl9s?usp=sharing"><button class="buttonPrimary" type="button">Google Drive</button></a></div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
-        <category label="grammar" term="grammar"/>
+        <category label="Grammar" term="Grammar"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[2000 Core English Words – Book 1 (Level A1+)]]></title>
@@ -780,6 +780,6 @@ Mình học tiếng Trung vì hồi đó đu idol Trung, có bon chen làm subti
 <hr>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
-        <category label="collocations" term="collocations"/>
+        <category label="Collocations" term="Collocations"/>
     </entry>
 </feed>
