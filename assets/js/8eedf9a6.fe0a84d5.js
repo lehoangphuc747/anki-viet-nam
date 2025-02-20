@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkawesome_docusaurus=self.webpackChunkawesome_docusaurus||[]).push([[755],{93568:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/anki-viet-nam/blog/page/2","page":2,"postsPerPage":10,"totalPages":6,"totalCount":53,"previousPage":"/anki-viet-nam/blog","nextPage":"/anki-viet-nam/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
