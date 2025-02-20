@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_docusaurus=self.webpackChunkawesome_docusaurus||[]).push([[9964],{16674:a=>{a.exports=JSON.parse('{"tags":[{"label":"deck","permalink":"/anki-viet-nam/docs/tags/deck","count":1},{"label":"medical","permalink":"/anki-viet-nam/docs/tags/medical","count":1},{"label":"docs","permalink":"/anki-viet-nam/docs/tags/docs","count":1}]}')}}]);

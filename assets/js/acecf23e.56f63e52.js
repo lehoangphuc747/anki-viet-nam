@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_docusaurus=self.webpackChunkawesome_docusaurus||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/anki-viet-nam/blog","blogTitle":"Blog","authorsListPath":"/anki-viet-nam/blog/authors"}')}}]);
