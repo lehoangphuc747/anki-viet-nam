@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Anki Việt Nam</ShortName>
+  <Description>Search Anki Việt Nam</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://ankivn.com/img/logo-ankivn.ico</Image>
+  <Url type="text/html" method="get" template="https://ankivn.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ankivn.com/opensearch.xml" />
+  <moz:SearchForm>https://ankivn.com/</moz:SearchForm>
+</OpenSearchDescription>

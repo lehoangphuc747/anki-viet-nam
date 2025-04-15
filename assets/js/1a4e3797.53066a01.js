@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_docusaurus=self.webpackChunkawesome_docusaurus||[]).push([[2138],{88316:(e,s,a)=>{a.r(s),a.d(s,{default:()=>u});a(96540);var r=a(74848);function u(){return(0,r.jsxs)("div",{style:{padding:"2rem"},children:[(0,r.jsx)("h1",{children:"\ud83d\udd0d Search"}),(0,r.jsx)("p",{children:"This is a custom search page placeholder."})]})}}}]);
