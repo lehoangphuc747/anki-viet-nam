@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ankivn.com/blog</id>
     <title>Anki Việt Nam</title>
-    <updated>2025-04-14T00:00:00.000Z</updated>
+    <updated>2025-04-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ankivn.com/blog"/>
     <subtitle>Các bộ thẻ Anki được chia sẻ bởi cộng đồng</subtitle>
     <icon>https://ankivn.com/img/logo-ankivn.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bộ thẻ tiếng Pháp nhập môn cho Anki]]></title>
+        <id>https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki</id>
+        <link href="https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki"/>
+        <updated>2025-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giới thiệu bộ thẻ tiếng Pháp dạng xuôi, tối ưu cho người mới bắt đầu học qua Anki.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/bo-the-tieng-phap-nhap-mon-cho-anki-1745133894849-a7f571ab714d43f509dc52a63ee36b2c.webp" width="1920" height="1013" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nguồn">📝 Nguồn:<a href="https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki#-ngu%E1%BB%93n" class="hash-link" aria-label="Đường dẫn trực tiếp đến 📝 Nguồn:" title="Đường dẫn trực tiếp đến 📝 Nguồn:">​</a></h2>
+<p>Chia sẻ bởi <strong>Đỗ Khánh</strong><br>
+<!-- -->📘 Facebook: <a href="https://www.facebook.com/okhanh.553672" target="_blank" rel="noopener noreferrer">okhanh.553672</a><br>
+<!-- -->📧 Email: <a href="mailto:donguyenkhanh96@gmail.com" target="_blank" rel="noopener noreferrer">donguyenkhanh96@gmail.com</a></p>
+<p>Bộ thẻ được tham khảo từ <strong>5000 most frequently used French words</strong> trên AnkiWeb – một trong những bộ thẻ có đánh giá cao nhất. Anh Khánh đã thêm audio, hình ảnh và chỉnh format thẻ để dễ học hơn.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nội-dung">📚 Nội dung<a href="https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki#-n%E1%BB%99i-dung" class="hash-link" aria-label="Đường dẫn trực tiếp đến 📚 Nội dung" title="Đường dẫn trực tiếp đến 📚 Nội dung">​</a></h2>
+<p>Mình đã thử qua nhiều loại thẻ khác nhau và tìm hiểu lí do đằng sau sự hiệu quả/không hiệu quả của mỗi loại. Mình rút ra như sau:</p>
+<p>Mỗi loại thẻ có một tác dụng riêng, phù hợp với từng giai đoạn học từ vựng khác nhau:</p>
+<ul>
+<li>
+<p><strong>Thẻ xuôi</strong> (từ/âm thanh ở mặt trước, nghĩa/hình ảnh ở mặt sau): hiệu quả cao khi mới học để nhồi từ nhanh chóng. Giúp tăng khả năng nhận diện (recognition), từ đó hỗ trợ speaking về sau. Loại này dễ làm và tiết kiệm thời gian.</p>
+</li>
+<li>
+<p><strong>Thẻ ngược (cloze)</strong>: giúp nhớ sâu và hỗ trợ speaking, phù hợp với trình độ trung cấp trở lên. Tuy nhiên, làm và học loại này khá mệt, đặc biệt với người mới bắt đầu. Phù hợp khi học từ context thực tế.</p>
+</li>
+<li>
+<p><strong>Thẻ câu</strong>: khó học nhưng dễ làm. Dạng này thường là cả câu tiếng đích ở mặt trước, nghĩa ở mặt sau, có thể thêm âm thanh.</p>
+</li>
+<li>
+<p><strong>Thẻ typing</strong>: hữu ích khi học ngữ pháp, nhưng tốn công làm và học cũng rất tiêu hao năng lượng.</p>
+</li>
+</ul>
+<p>Bộ thẻ tiếng Pháp này là <strong>thẻ xuôi</strong> – cực kỳ phù hợp để <strong>nhập môn tiếng Pháp bằng Anki</strong>. Nếu bạn có nền tảng tiếng Anh, học 20 thẻ/ngày là hoàn toàn khả thi.</p>
+<p>⚠️ Khi học xong bộ này, KHÔNG nên tiếp tục thêm từ vựng kiểu này. Hãy <strong>chuyển sang thẻ ngược</strong> để tối ưu khả năng speaking và ghi nhớ sâu.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-tải-xuống">🔗 Tải xuống<a href="https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki#-t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🔗 Tải xuống" title="Đường dẫn trực tiếp đến 🔗 Tải xuống">​</a></h2>
+<div style="display:flex;justify-content:left;gap:20px"><a href="https://1drv.ms/u/c/e38e0d4bef38335b/EVszOO9LDY4ggOPlNgAAAAAB2aP2PMXxxZUk8ZnOGtLdNg?e=fDzN5O"><button class="buttonPrimary" type="button">One Drive (tác giả)</button></a></div>
+<div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/file/d/1D4Q3l7gxUAaNz6aqR17a2DWFccvRIUYR/view"><button class="buttonPrimary" type="button">Google Drive (ankivn)</button></a></div>]]></content>
+        <category label="Deck" term="Deck"/>
+        <category label="France" term="France"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anki Speaking Hackers IELTS - Bộ thẻ luyện phản xạ Speaking]]></title>
         <id>https://ankivn.com/blog/anki-speaking-hackers-ielts</id>
@@ -446,12 +485,15 @@
         <updated>2024-12-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bộ thẻ tổng hợp kiến thức ôn thi viên chức ngành Y tế.]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nguồn-tâm-an">Nguồn: <a href="https://www.facebook.com/groups/ankivocabulary/posts/1769488653810784/" target="_blank" rel="noopener noreferrer">Tâm An</a><a href="https://ankivn.com/blog/bo-the-thi-vien-chuc-nganh-y-te#ngu%E1%BB%93n-t%C3%A2m-an" class="hash-link" aria-label="Đường dẫn trực tiếp đến nguồn-tâm-an" title="Đường dẫn trực tiếp đến nguồn-tâm-an">​</a></h2>
+<hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="nội-dung">Nội dung<a href="https://ankivn.com/blog/bo-the-thi-vien-chuc-nganh-y-te#n%E1%BB%99i-dung" class="hash-link" aria-label="Đường dẫn trực tiếp đến Nội dung" title="Đường dẫn trực tiếp đến Nội dung">​</a></h2>
 <p>Mình xin chia sẻ mn bộ thi Viên chức ngành Y tế ạ. Bộ này gồm có: Luật Viên chức, Luật KCB, Luật BHYT, 12 điều Y đức, Quy tắc ứng xử trong cơ sở Y tế. Do thời gian gấp rút nên mình soạn 1 câu khá dài, 1 số mục mình thấy không cần thiết nên bỏ bớt nữa nhen.</p>
 <p>Giờ mình học mà không có Anki là không tự học được luôn :))</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-tải-xuống">📗 Tải xuống<a href="https://ankivn.com/blog/bo-the-thi-vien-chuc-nganh-y-te#-t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến 📗 Tải xuống" title="Đường dẫn trực tiếp đến 📗 Tải xuống">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-tải-xuống">🔗 Tải xuống<a href="https://ankivn.com/blog/bo-the-thi-vien-chuc-nganh-y-te#-t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🔗 Tải xuống" title="Đường dẫn trực tiếp đến 🔗 Tải xuống">​</a></h2>
 <div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/drive/u/0/folders/1Lb25-lU_KJQJPkf6ZyecDMQ4fzKNdT4t"> <button class="buttonPrimary" type="button">Google Drive (tác giả)</button> </a> </div>
-<div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/drive/folders/17JHAMqQn7lwhHfQx35H60bU4Or2-sEtl?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>]]></content>
+<div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/drive/folders/17JHAMqQn7lwhHfQx35H60bU4Or2-sEtl?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>
+<div style="display:flex;justify-content:left;gap:20px"> <a href="https://ankivn.com/blog/link_google_drive_d%C3%A1n_v%C3%A0o_%C4%91%C3%A2y"> <button class="buttonPrimary" type="button">AnkiWeb</button> </a> </div>
+<div style="display:flex;justify-content:left;gap:20px"> <a href="https://ankivn.com/blog/link_google_drive_d%C3%A1n_v%C3%A0o_%C4%91%C3%A2y"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="Y dược" term="Y dược"/>
     </entry>
@@ -661,43 +703,5 @@
         <category label="Deck" term="Deck"/>
         <category label="English" term="English"/>
         <category label="TOEIC" term="TOEIC"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THPT – Tự nhiên (Toán, Lý, Hóa, Anh) + ĐGNL (Sử, Địa)]]></title>
-        <id>https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia</id>
-        <link href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia"/>
-        <updated>2024-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bộ deck Anki THPT tổng hợp Toán, Lý, Hóa, Anh cùng bonus Sử và Địa (ĐGNL), được tạo bởi một học sinh tâm huyết, chia sẻ miễn phí cho cộng đồng học sinh THPT ôn thi đại học.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Pasted%20image%2020250208225336-b99f0d2e24910bcd9e2194a9a673c4bf.png" width="806" height="594" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nguồn-bài-viết-trên-facebook"><strong>Nguồn:</strong> <a href="https://www.facebook.com/groups/ankivocabulary/posts/1653327518760232" target="_blank" rel="noopener noreferrer">Bài viết trên Facebook</a><a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#ngu%E1%BB%93n-b%C3%A0i-vi%E1%BA%BFt-tr%C3%AAn-facebook" class="hash-link" aria-label="Đường dẫn trực tiếp đến nguồn-bài-viết-trên-facebook" title="Đường dẫn trực tiếp đến nguồn-bài-viết-trên-facebook">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-liên-hệ-nếu-gặp-vấn-đề-nhắn-tin-facebook">📝 <strong>Liên hệ nếu gặp vấn đề:</strong> <a href="https://www.facebook.com/khanh.linh.3560/" target="_blank" rel="noopener noreferrer">Nhắn tin Facebook</a><a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#-li%C3%AAn-h%E1%BB%87-n%E1%BA%BFu-g%E1%BA%B7p-v%E1%BA%A5n-%C4%91%E1%BB%81-nh%E1%BA%AFn-tin-facebook" class="hash-link" aria-label="Đường dẫn trực tiếp đến -liên-hệ-nếu-gặp-vấn-đề-nhắn-tin-facebook" title="Đường dẫn trực tiếp đến -liên-hệ-nếu-gặp-vấn-đề-nhắn-tin-facebook">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-giới-thiệu">🌟 Giới thiệu<a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#-gi%E1%BB%9Bi-thi%E1%BB%87u" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🌟 Giới thiệu" title="Đường dẫn trực tiếp đến 🌟 Giới thiệu">​</a></h2>
-<p>Xin chào mọi người!</p>
-<p>Mình là một bạn <strong>2k6</strong> vừa thi xong đại học và đã sử dụng <strong>Anki</strong> hơn 4 năm để ôn tập. Hiện tại, mình có một kho deck rất lớn, bao gồm các môn:</p>
-<ul>
-<li><strong>Toán, Lý, Hóa, Anh</strong> (Ban Tự nhiên)</li>
-<li><strong>Sử, Địa</strong> (Dành cho ôn thi đánh giá năng lực)</li>
-</ul>
-<p>Mình rất tâm huyết với bộ deck này, nhưng giờ không còn sử dụng nữa, nên muốn chia sẻ cho cộng đồng để giúp các bạn ôn thi hiệu quả hơn.</p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-tổng-quan-bộ-deck">🌟 Tổng quan bộ deck<a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#-t%E1%BB%95ng-quan-b%E1%BB%99-deck" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🌟 Tổng quan bộ deck" title="Đường dẫn trực tiếp đến 🌟 Tổng quan bộ deck">​</a></h2>
-<p>🌟 <strong>Hệ thống deck chính</strong> (Chia theo chương &amp; chuyên đề)
-<img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Pasted%20image%2020250208225336-b99f0d2e24910bcd9e2194a9a673c4bf.png" width="806" height="594" class="img_ev3q"></p>
-<p>🌟 <strong>Deck tổng hợp ôn giai đoạn cuối THPTQG</strong>
-<img decoding="async" loading="lazy" src="data:image/png;base64,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" width="495" height="119" class="img_ev3q"></p>
-<p>🌟 <strong>Deck môn Hóa – Lớp 10 - Lớp 11 - Lớp 12</strong>
-<img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Pasted%20image%2020250208225357-7ec03eb65ffbf597a4b7472d7fc8d21f.png" width="682" height="418" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-cách-thiết-kế-card">🌟 Cách thiết kế card<a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#-c%C3%A1ch-thi%E1%BA%BFt-k%E1%BA%BF-card" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🌟 Cách thiết kế card" title="Đường dẫn trực tiếp đến 🌟 Cách thiết kế card">​</a></h2>
-<p>Mình thường thiết kế thẻ theo 2 cách:</p>
-<p>1️⃣ <strong>Dạng chuẩn trên Anki</strong>
-<img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Pasted%20image%2020250208225441-3690c6226bfb4c1ff769aad30075a93d.png" width="900" height="369" class="img_ev3q"></p>
-<p>2️⃣ <strong>Dạng viết tay (tự ghi chép lại để nhớ lâu hơn)</strong>
-<img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Pasted%20image%2020250208225447-80c682221da5ec97ce92ef756d423284.png" width="845" height="462" class="img_ev3q"></p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-tải-xuống">🌟 Tải xuống<a href="https://ankivn.com/blog/thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia#-t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến 🌟 Tải xuống" title="Đường dẫn trực tiếp đến 🌟 Tải xuống">​</a></h2>
-<div style="display:flex;justify-content:left;gap:20px"> <a href="https://drive.google.com/drive/folders/1hRg__XB-Bi4kZ0OoM2SmazmTD_vzFyuZ?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>]]></content>
-        <category label="Deck" term="Deck"/>
-        <category label="THPT" term="THPT"/>
     </entry>
 </feed>
