@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ankivn.com/blog</id>
     <title>Anki Việt Nam</title>
-    <updated>2025-04-20T00:00:00.000Z</updated>
+    <updated>2025-04-21T12:34:35.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ankivn.com/blog"/>
     <subtitle>Các bộ thẻ Anki được chia sẻ bởi cộng đồng</subtitle>
     <icon>https://ankivn.com/img/vietnam-logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[template/GLASSMORPHISM]]></title>
+        <id>https://ankivn.com/blog/template/GLASSMORPHISM</id>
+        <link href="https://ankivn.com/blog/template/GLASSMORPHISM"/>
+        <updated>2025-04-21T12:34:35.790Z</updated>
+        <summary type="html"><![CDATA[TEMPLATE TỪ VỰNG THEO PHONG CÁCH GLASSMORPHISM]]></summary>
+        <content type="html"><![CDATA[<p>TEMPLATE TỪ VỰNG THEO PHONG CÁCH GLASSMORPHISM</p>
+<p>Mặc dù là mẫu thẻ tiếng Hàn nhưng mà mọi người cũng có thể sử dụng cho bất kỳ ngôn ngữ nào được nhé.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="preview">Preview<a href="https://ankivn.com/blog/template/GLASSMORPHISM#preview" class="hash-link" aria-label="Đường dẫn trực tiếp đến Preview" title="Đường dẫn trực tiếp đến Preview">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kiểu-thẻ-1-điền-từ">Kiểu thẻ 1 (Điền từ)<a href="https://ankivn.com/blog/template/GLASSMORPHISM#ki%E1%BB%83u-th%E1%BA%BB-1-%C4%91i%E1%BB%81n-t%E1%BB%AB" class="hash-link" aria-label="Đường dẫn trực tiếp đến Kiểu thẻ 1 (Điền từ)" title="Đường dẫn trực tiếp đến Kiểu thẻ 1 (Điền từ)">​</a></h3>
+<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Untitled-1745239045322-d87b070285c0f29851ab835f94a29da6.webp" width="1920" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Untitled-1745238879890-45bc605bfb04b2250cb90f99301aa66b.webp" width="1920" height="1080" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kiểu-thẻ-2-review">Kiểu thẻ 2 (Review)<a href="https://ankivn.com/blog/template/GLASSMORPHISM#ki%E1%BB%83u-th%E1%BA%BB-2-review" class="hash-link" aria-label="Đường dẫn trực tiếp đến Kiểu thẻ 2 (Review)" title="Đường dẫn trực tiếp đến Kiểu thẻ 2 (Review)">​</a></h3>
+<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Untitled-1745239192637-7907e86ab1a711e46770fa4faf109552.webp" width="1920" height="972" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/Untitled-1745239208898-fa88b107be7c9b3f20821a119efa3896.webp" width="1920" height="982" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bộ thẻ tiếng Pháp nhập môn cho Anki]]></title>
         <id>https://ankivn.com/blog/bo-the-tieng-phap-nhap-mon-cho-anki</id>
@@ -637,7 +653,7 @@
 <p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/image-13-b670c7c1343f2dc7fcb920621986104b.webp" width="1447" height="989" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/image-14-db4daebd175f2deb3827a19ae11b8c0d.webp" width="1920" height="1001" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="tải-xuống">Tải xuống<a href="https://ankivn.com/blog/4000-tu-vung-pte-collocations-vi-du#t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến Tải xuống" title="Đường dẫn trực tiếp đến Tải xuống">​</a></h2>
-<div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/drive/folders/1DGMI3j4hBigHlAKa69aLvT-k5m0Gxl9s?usp=sharing"><button class="buttonPrimary" type="button">Google Drive</button></a></div>]]></content>
+<div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/drive/folders/11iuhL2xQN68YSzpTL8EHK3-Zm-DmaUdQ?usp=sharing"><button class="buttonPrimary" type="button">Google Drive</button></a></div>]]></content>
         <category label="English" term="English"/>
         <category label="Vocabulary" term="Vocabulary"/>
     </entry>
@@ -681,30 +697,5 @@
 <div style="display:flex;justify-content:left;gap:20px"> <a href="https://ankivn.com/blog/link_google_drive_d%C3%A1n_v%C3%A0o_%C4%91%C3%A2y"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>]]></content>
         <category label="Deck" term="Deck"/>
         <category label="Tiếng Nhật" term="Tiếng Nhật"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bộ đề thi TOEIC ETS 2023]]></title>
-        <id>https://ankivn.com/blog/bo-de-thi-toeic-ets-2023</id>
-        <link href="https://ankivn.com/blog/bo-de-thi-toeic-ets-2023"/>
-        <updated>2024-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bộ đề thi TOEIC ETS 2023 với đầy đủ hướng dẫn, mẹo làm bài và link tải xuống.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/image-9-7bb70671454f83db4fbf5db070a38148.webp" width="1148" height="537" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nguồn-phạm-văn-lượng">Nguồn: <a href="https://www.facebook.com/groups/ankivocabulary/posts/1663916001034717" target="_blank" rel="noopener noreferrer">Phạm Văn Lượng</a><a href="https://ankivn.com/blog/bo-de-thi-toeic-ets-2023#ngu%E1%BB%93n-ph%E1%BA%A1m-v%C4%83n-l%C6%B0%E1%BB%A3ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến nguồn-phạm-văn-lượng" title="Đường dẫn trực tiếp đến nguồn-phạm-văn-lượng">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nội-dung">Nội dung<a href="https://ankivn.com/blog/bo-de-thi-toeic-ets-2023#n%E1%BB%99i-dung" class="hash-link" aria-label="Đường dẫn trực tiếp đến Nội dung" title="Đường dẫn trực tiếp đến Nội dung">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-các-mẹo-sử-dụng-hiệu-quả"><strong>📌 Các mẹo sử dụng hiệu quả:</strong><a href="https://ankivn.com/blog/bo-de-thi-toeic-ets-2023#-c%C3%A1c-m%E1%BA%B9o-s%E1%BB%AD-d%E1%BB%A5ng-hi%E1%BB%87u-qu%E1%BA%A3" class="hash-link" aria-label="Đường dẫn trực tiếp đến -các-mẹo-sử-dụng-hiệu-quả" title="Đường dẫn trực tiếp đến -các-mẹo-sử-dụng-hiệu-quả">​</a></h3>
-<p>🔹 <strong>Điều chỉnh tốc độ audio để phù hợp với trình độ học</strong><br>
-<!-- -->Bạn có thể tải thêm add-on hỗ trợ tăng/giảm tốc độ audio:<br>
-<!-- -->➡ <a href="https://ankiweb.net/shared/info/312734862" target="_blank" rel="noopener noreferrer">Audio Playback Controls</a></p>
-<p>🔹 <strong>Hiển thị phần dịch nghĩa linh hoạt</strong><br>
-<!-- -->Trong <strong>back</strong> của thẻ <strong>Part 7</strong>, bạn chỉ cần <strong>nhấp vào câu hỏi</strong> để hiển thị hoặc ẩn phần dịch nghĩa.</p>
-<p>🔹 <strong>Bộ đề ETS đầy đủ từ 2019 đến 2024</strong><br>
-<!-- -->Bộ thẻ đã cập nhật đầy đủ <strong>ETS2019 - ETS2024</strong>. Bạn có thể học thử trong <strong>Deck ETS2023</strong> trước khi quyết định sử dụng toàn bộ bộ đề.</p>
-<p>📢 <strong>Trải nghiệm toàn bộ bộ đề với đầy đủ tính năng chuyên sâu</strong> (<strong>có tính phí</strong>):<br>
-<!-- -->👉 <a href="https://forms.gle/uE55mYH8nZaHkriy7" target="_blank" rel="noopener noreferrer">Đăng ký tại đây</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tải-xuống">Tải xuống<a href="https://ankivn.com/blog/bo-de-thi-toeic-ets-2023#t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Đường dẫn trực tiếp đến Tải xuống" title="Đường dẫn trực tiếp đến Tải xuống">​</a></h2>
-<div style="display:flex;justify-content:left;gap:20px"><a href="https://drive.google.com/file/d/10U-4jaiQslxYsH0Zo64lObCLJYf2s5ws/view"><button class="buttonPrimary" type="button">Google Drive</button></a></div>]]></content>
-        <category label="Deck" term="Deck"/>
-        <category label="English" term="English"/>
-        <category label="TOEIC" term="TOEIC"/>
     </entry>
 </feed>
