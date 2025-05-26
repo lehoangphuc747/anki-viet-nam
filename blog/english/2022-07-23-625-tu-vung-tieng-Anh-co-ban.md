@@ -1,8 +1,9 @@
----
-title: 625 Từ vựng tiếng Anh cơ bản
+﻿---
+title: 625 từ vựng tiếng Anh cơ bản
 slug: tu-vung-tieng-anh-co-ban
 date: 2022-07-23
 description: "Bài viết tổng hợp 625 từ vựng tiếng Anh cơ bản."
+category: Tiếng Anh
 domain: ankivn.com
 image: /images/Pasted-image-20241218150647.png
 keywords:
@@ -37,10 +38,9 @@ Thích hợp để bắt đầu học tiếng Anh.
 
 ![](../../static/images/Pasted-image-20241218150707.png)
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
-### [⏬ Link Ankiweb](https://ankiweb.net/shared/info/1768936970)
+### [⬇ Link Ankiweb](https://ankiweb.net/shared/info/1768936970)
 
 
-### [⏬ Google Drive (ankivn up)](https://drive.google.com/file/d/19_jk0eq3J2b9qUaRV4c-KFexnO_jyzHB/view?usp=sharing)
-
+### [⬇ Google Drive (ankivn up)](https://drive.google.com/file/d/19_jk0eq3J2b9qUaRV4c-KFexnO_jyzHB/view?usp=sharing)

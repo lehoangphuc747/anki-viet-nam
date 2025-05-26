@@ -1,8 +1,9 @@
----
+﻿---
 title: "Lifelong Learning - Advanced English Vocabulary"
 slug: "lifelong-learning-advanced-english-vocabulary"
 date: "2023-02-27"
 description: "Bộ thẻ Anki Lifelong Learning - Advanced English Vocabulary với hơn 8.092 từ vựng nâng cao, bao gồm định nghĩa, phát âm và ví dụ minh họa."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -23,7 +24,7 @@ tags:
 
 ---
 
-## 📚 **Nội dung bộ thẻ**  
+## 📝 **Nội dung bộ thẻ**  
 
 - **8.092 từ vựng nâng cao**, bao gồm:  
   - **6.706 từ** từ danh sách GRE và SAT.  
@@ -36,7 +37,7 @@ tags:
 
 ---
 
-## 📝 **Định dạng học từ vựng**  
+## 📑 **Định dạng học từ vựng**  
 
 1. **Từ → Định nghĩa:** Học qua định nghĩa từ.  
 2. **Từ + Câu ví dụ → Định nghĩa:** Học từ qua câu ví dụ và định nghĩa.  
@@ -44,7 +45,7 @@ tags:
 
 ---
 
-## 🛠️ **Hướng dẫn sử dụng bộ thẻ**  
+## ⚛️ **Hướng dẫn sử dụng bộ thẻ**  
 
 1. **Tải xuống bộ thẻ** từ liên kết bên dưới.  
 2. Mở phần mềm **Anki** và chọn **File → Import** để tải bộ thẻ.  
@@ -52,14 +53,14 @@ tags:
 
 ---
 
-## 🔗 **Tải xuống**
+## 📗 **Tải xuống**
 
 <div style={{ display: 'flex', justifyContent: 'left', gap: '20px' }}>
   <a href="https://ankiweb.net/shared/info/1748072575" target="_blank">
-    <button class="buttonPrimary" type="button">🚀 Tải từ AnkiWeb</button>
+    <button class="buttonPrimary" type="button">🤖 Tải từ AnkiWeb</button>
   </a>
   <a href="https://drive.google.com/file/d/11eBVVT0Uyspl_gbYP6s9I61KK4J61-Jd/view?usp=drive_link" target="_blank">
-    <button class="buttonPrimary" type="button">📁 Tải từ Google Drive</button>
+    <button class="buttonPrimary" type="button">📝 Tải từ Google Drive</button>
   </a>
 </div>
 

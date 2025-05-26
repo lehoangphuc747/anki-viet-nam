@@ -1,42 +1,47 @@
 ---
-title: 2000 Core English Words – Book 1 (Level A1+)
+title: "2000 Core English Words Book 1 Level A1 Plus"
 slug: 2000-core-english-words-book-1-level-a1-plus
 date: 2023-09-16
-description: Giới thiệu và mô tả về bộ sách 2000 Core English Words – Book 1 dành cho trình độ A1+.
-domain: ankivn.com
-keywords:
-  - ankivn
+description: "Bộ thẻ 2000 Core English Words Book 1 Level A1 Plus với 1000 từ vựng cơ bản, hỗ trợ hình ảnh và âm thanh."
+category: "Tiếng Anh"
+keywords: 
+  - vocabulary
+  - "core words"
+  - deck
+tags:
   - english
   - vocabulary
-  - book
-tags:
-  - deck
-  - english
 ---
 
-![](https://b.l3n.co/i/qjtbCc.jpeg)
+![](../../static/images/anki_sigXngBVV1.webp)
 
 <!--truncate-->
 
-## Nguồn: [Nguyễn Quốc](https://www.facebook.com/groups/ankivocabulary/posts/1217654725660849/)
+## Nguồn: [Anki Việt Nam](https://www.facebook.com/groups/ankivocabulary)
 
-## Giới thiệu
+## Nội dung
 
-Giới thiệu với mọi người về bộ sách này, nó dành cho những người bắt đầu học tiếng Anh hoặc mất gốc tiếng Anh.
+Bộ thẻ **2000 Core English Words Book 1 Level A1 Plus** gồm **1000 từ vựng cơ bản**, được thiết kế đặc biệt cho người mới bắt đầu học tiếng Anh.
 
-## Mô tả bộ sách
+### **Tính năng nổi bật:**
 
-- **Số lượng từ vựng**: 2000 từ tiếng Anh cơ bản.
-- **Mục tiêu học tập**: Phù hợp với trình độ A1+, giúp người học nắm vững từ vựng cơ bản cần thiết.
-- **Cấu trúc sách**: Chia theo các chủ đề khác nhau để dễ dàng học tập.
-- **Phương pháp học**: Bao gồm các bài tập và ví dụ minh họa để tăng cường kỹ năng sử dụng từ vựng.
+✅ **Hình ảnh minh họa** - Mỗi từ vựng đều có hình ảnh minh họa trực quan
+✅ **Âm thanh** - Phát âm chuẩn cho mỗi từ vựng
+✅ **Ví dụ** - Các câu ví dụ thực tế giúp hiểu cách sử dụng từ
+✅ **Dịch nghĩa** - Giải thích chi tiết bằng tiếng Việt
 
-## 🔗 Tải xuống
+## Preview
+
+![](../../static/images/image-12.webp)
+
+![](../../static/images/image-13.webp)
+
+![](../../static/images/image-14.webp)
+
+## Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
-  <a href="https://drive.google.com/drive/folders/1FMbsEAKlyW85g3Xwmxoo6wdzv-NIQeuc">
-    <button class="buttonPrimary" type="button">Google Drive (tác giả)</button>
+  <a href="https://drive.google.com/drive/folders/1--pbnFecgjo-IbxFD2VxQwo6xOB2nRub?usp=drive_link">
+    <button class="buttonPrimary" type="button">Google Drive</button>
   </a>
 </div>
-
-<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/file/d/1--zasY7CdmrVQxsSh2D8mYiejinEjomi/view?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>

@@ -1,8 +1,9 @@
----
-title: 200 Common English Expression (English -Vietnamese)
+﻿---
+title: 200 Common English Expression (English - Vietnamese)
 slug: 200-Common-English-Expression-English-Vietnamese
 date: 2022-07-04
 description: ""
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -23,8 +24,8 @@ import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
 Chia sẻ bộ thẻ 200 câu nói thường dùng trong tiếng Anh.
 
-## 🔗 Tải xuống
+## 📥 Tải xuống
 
-### [⏬ AnkiWeb (tác giả)](https://ankiweb.net/shared/info/178816235)
+### [⬇ AnkiWeb (tác giả)](https://ankiweb.net/shared/info/178816235)
 
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/1BQAkZ3uTlaul8vJmrqDsiRdd9zHk-DRF/view?usp=sharing)
+### [⬇ Google Drive (ankivn)](https://drive.google.com/file/d/1BQAkZ3uTlaul8vJmrqDsiRdd9zHk-DRF/view?usp=sharing)

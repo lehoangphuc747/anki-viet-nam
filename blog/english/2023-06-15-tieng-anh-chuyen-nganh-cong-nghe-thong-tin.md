@@ -1,8 +1,9 @@
----
-title: Tiếng Anh Chuyên Ngành Công Nghệ Thông Tin
+﻿---
+title: "Tiếng Anh Chuyên Ngành Công Nghệ Thông Tin"
 slug: tieng-anh-chuyen-nganh-cong-nghe-thong-tin
 date: 2023-06-15
-description: Bộ flashcard Anki Tiếng Anh chuyên ngành Công Nghệ Thông Tin, phù hợp cho người học và làm việc trong lĩnh vực CNTT.
+description: "Bộ flashcard Anki Tiếng Anh chuyên ngành Công Nghệ Thông Tin, phù hợp cho người học và làm việc trong lĩnh vực CNTT."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -11,20 +12,20 @@ keywords:
 tags:
   - deck
   - english
-  - cong-nghe-thong-tin
+  - cntt
 ---
 
 ![](../../static/images/2023-06-15-tieng-anh-chuyen-nganh-cong-nghe-thong-tin-1742539774860.webp)
 
 <!--truncate-->
 
-## 📣 **Nguồn** [Hoàng Xuân](https://www.facebook.com/groups/ankivocabulary/posts/1424011565025163/?__cft__[0]=AZX5VpxeDOQxBxR1bGAfdh9UvGRa3JIT80yxjSXncTIlpva6XO0_JpaO1lFKe-SLz0sehWmOe-Pl69xwtdK6qtkiXB7EtbJRDQY78K9wduVtJmaSIqBYMqsQw9ogOxMHh3sUi2A-jcizKE_F7JGyfedd&__tn__=%2CO%2CP-R)
+## 📌 **Nguồn** [Hoàng Xuân](https://www.facebook.com/groups/ankivocabulary/posts/1424011565025163/?__cft__[0]=AZX5VpxeDOQxBxR1bGAfdh9UvGRa3JIT80yxjSXncTIlpva6XO0_JpaO1lFKe-SLz0sehWmOe-Pl69xwtdK6qtkiXB7EtbJRDQY78K9wduVtJmaSIqBYMqsQw9ogOxMHh3sUi2A-jcizKE_F7JGyfedd&__tn__=%2CO%2CP-R)
 
 ## Nội dung
 
 Chào các bạn! Hôm nay mình chia sẻ bộ flashcard **"Tiếng Anh Chuyên Ngành Công Nghệ Thông Tin"**. Đây là bộ thẻ được sưu tầm và chỉnh sửa để phù hợp với nhu cầu học tập và sử dụng trong môi trường làm việc công nghệ.
 
-### 🚀 **Giới thiệu**
+### 📚 **Giới thiệu**
 
 Bộ flashcard này cung cấp từ vựng và cấu trúc câu chuyên sâu trong lĩnh vực **Công Nghệ Thông Tin (CNTT)**. Đặc biệt, bộ này có sự kết hợp giữa:
 - **Cloze (điền khuyết)**  
@@ -44,7 +45,7 @@ Bên cạnh đó, addon **"Image Occlusion Enhance"** được tích hợp nhưn
 
 ---
 
-## 📘 **Cấu Trúc Bộ Thẻ**
+## 📝 **Cấu Trúc Bộ Thẻ**
 
 - **Từ vựng chuyên ngành:** Bao gồm các thuật ngữ CNTT thông dụng.  
 - **Cấu trúc câu:** Các cụm từ và mẫu câu sử dụng trong giao tiếp CNTT.  
@@ -63,7 +64,7 @@ Bên cạnh đó, addon **"Image Occlusion Enhance"** được tích hợp nhưn
 
 ---
 
-## 🔗 **Tải xuống**
+## 📗 **Tải xuống**
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> 
   <a href="https://drive.google.com/drive/folders/11wBI6v7WzfsTFNdAS1pvFd_BWB_T_pQh?usp=sharing" target="_blank"> 
@@ -71,7 +72,6 @@ Bên cạnh đó, addon **"Image Occlusion Enhance"** được tích hợp nhưn
   </a> 
 </div>
 
-
 ---
 
-**Chúc các bạn học tập hiệu quả và thành công!** 🚀✨
+**Chúc các bạn học tập hiệu quả và thành công!** 📚✨

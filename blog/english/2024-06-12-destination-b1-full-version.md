@@ -1,8 +1,9 @@
----
+﻿---
 title: Bộ thẻ DESTINATION B1 (bản đầy đủ hơn bộ cũ)
 slug: destination-b1-full-version
 date: 2024-06-12
 description: Bộ flashcard Destination B1 đầy đủ nhất bao gồm từ vựng, phrasal verbs, word forms và bài tập thực hành
+category: Tiếng Anh
 tags:
   - deck
   - english
@@ -39,7 +40,7 @@ Template học dưới dạng nhập đáp án đơn giản, dễ hiểu nhưng 
 
 1. Đối với từ vựng theo chủ đề của từng Unit -> Nghe từ vựng, viết lại đúng chính tả rồi đoán nghĩa.
 2. Đối với cách học cụm từ và phrasal verbs -> Nhìn nghĩa (tiếng việt, definition tiếng anh, câu gap-filling) -> đoán từ.
-3. Đối với dạng bài word form, thì đọc kĩ câu & bản dịch, để cân nhắc rồi type đúng dạng của từ loại.
+3. Đối với dạng bài word form, thì đọc kỹ câu & bản dịch, để cân nhắc rồi type đúng dạng của từ loại.
 
 Ngoài ra, mình đang finalize bộ Destination B2 (gần xong) & Bộ C1C2 đang trong quá trình soạn data (mình tự soạn theo sách, vì hiện mình cũng đang học + dạy bộ này nên data mình tự soạn để yên tâm sử dụng & với hy vọng các bạn được **học trọn vẹn giáo trình nhất có thể**)
 
@@ -57,7 +58,7 @@ Các bạn download bộ B1 này của mình trải nghiệm thử, cho mình xi
 
 À, mình biên soạn cả bộ luyện thi **CAMBRIDGE KET** **(từ cuốn 1-7)** và bộ **CAMBRIDGE** **PET** **(cuốn 1- 9)**, bạn nào có nhu cầu học, luyện theo giáo trình cambridge thì ib mình.
 
-Nếu thấy bộ deck của mình hữu ích, và công sức đáng được trân trọng thì các bạn có thể donate qua tài khoản bên dưới. Mình sẽ tiếp tục biên soạn kĩ nhất có thể và update bộ decks tiếp theo sớm.
+Nếu thấy bộ deck của mình hữu ích, và công sức đáng được trân trọng thì các bạn có thể donate qua tài khoản bên dưới. Mình sẽ tiếp tục biên soạn kỹ nhất có thể và update bộ decks tiếp theo sớm.
 
 ```
 Ngân hàng: VIETCOMBANK

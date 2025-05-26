@@ -1,0 +1,43 @@
+<div class="front-header">
+    {{#Hình ảnh}}
+      <div class="image-container">
+        {{Hình ảnh}}
+      </div>
+    {{/Hình ảnh}}
+
+    <div class="audio-playback">
+      {{#Phát âm}} {{Phát âm}} {{/Phát âm}}
+    </div>
+
+    <div class="main-term" style="letter-spacing: 2px;">
+      {{Từ vựng}}
+    </div>
+
+    {{#Từ loại}}
+      <div class="part-of-speech">
+        ({{Từ loại}})
+      </div>
+    {{/Từ loại}}
+
+    {{#Phiên âm}}
+      <div class="phonetic-script">
+        {{Phiên âm}}
+      </div>
+    {{/Phiên âm}}
+</div>
+
+<div class="back-content">
+  <div class="meaning-block">
+    <div class="field-label">Meaning:</div>
+    <div class="meaning-text">{{Nghĩa}}</div>
+  </div>
+
+  {{#Ví dụ}}
+    <div class="example-block">
+      <div class="field-label">Example:</div>
+      <div class="example-text">💬 {{Ví dụ}}</div>
+    </div>
+  {{/Ví dụ}}
+
+  <div class="file-path-display">{{Deck}}::{{Subdeck}}</div>
+</div> 

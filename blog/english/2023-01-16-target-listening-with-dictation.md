@@ -1,8 +1,9 @@
----
+﻿---
 title: "🎯 Target Listening with Dictation: Bộ Deck Học Nghe Đỉnh Cao"
 slug: target-listening-with-dictation
 date: 2023-01-16
 description: "Khám phá bộ deck học nghe Target Listening with Dictation với Wordlist chi tiết và hiệu quả, hỗ trợ luyện nghe từ trình độ B1 đến Advanced."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - listening
@@ -17,7 +18,7 @@ tags:
 
 <!--truncate-->
 
-## 📌 Nguồn:
+## 📚 Nguồn:
 - [Bài viết gốc](https://www.facebook.com/groups/ankivocabulary/posts/1336733630419624/)
 - [Tác giả: Minh Triệu](https://www.facebook.com/minh.trieu.77964201/)
 
@@ -56,14 +57,14 @@ Bộ Deck này được phát triển dựa trên **Wordlist** từ bộ **Targe
 
 ## 📥 Tải xuống
 
-### 🔗 Link tải gốc
+### 📗 Link tải gốc
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> 
   <a href="https://www.mediafire.com/folder/ohnv63kto83wj/Target_Listening_with_Dictation?fbclid=IwAR0seEpv4uvv5woje17igkl2ugBHNCTpWTgPRFMg86rN8ZGt-hicAlN_Nr0" target="_blank">
     <button class="buttonPrimary" type="button">Mediafire</button>
   </a>
 </div>
 
-### 🔗 Link Ankivn reup
+### 📗 Link Ankivn reup
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/11tnv55W9cjCZLGAkL7Z69GmE5d1tnntA?usp=drive_link"> <button class="buttonPrimary" type="button">Google Drive</button> </a> </div>
 

@@ -1,11 +1,15 @@
----
+﻿---
 title: 100 Really Learn Phrasal Verbs for Business
 slug: 100-Really-Learn-Phrasal-Verbs-for-Business
 date: 2022-04-10
-description: ""
+description: Bộ thẻ Anki 100 phrasal verbs thông dụng trong tiếng Anh thương mại, giúp học từ vựng hiệu quả.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
+  - phrasal verbs
+  - business english
+  - vocabulary
 tags:
   - deck
   - english
@@ -19,28 +23,35 @@ tags:
 
 ## Nội dung
 
-Bộ này mình làm cũng khá lâu rồi, một phần vì bận, một phần vì lúc đó chưa hoàn thiện nên bây giờ mình mới chia sẻ.
+Bộ deck này gồm 100 phrasal verbs thông dụng trong tiếng Anh thương mại, được chia thành 2 phần:
 
-Và cũng xin cảm ơn ad Lê Hoàng Phúc đã nhiệt tình giúp đỡ mình lấy audio của câu trong thời gian qua.
+- Phần 1: Nhìn cụm động từ và đoán nghĩa
+- Phần 2: Điền vào chỗ trống giới từ phù hợp
 
-Bộ deck này gồm có 2 phần:
+Xin cảm ơn admin Lê Hoàng Phúc đã nhiệt tình hỗ trợ thu âm audio cho các câu ví dụ.
 
-Phần 1 là nhìn cụm động từ đoán nghĩa
+Mong rằng bộ deck này sẽ giúp các bạn học phrasal verbs một cách hiệu quả. Mọi góp ý đều được hoan nghênh để cải thiện chất lượng các bộ deck tiếp theo.
 
-Phần 2 là điền vào chỗ trống giới từ phù hợp
-
-Hi vọng có thể giúp các bạn học được Phrasal Verb một cách hiệu quả hơn.
-
-Hoan nghênh mọi góp ý của các bạn để những bộ deck sau của mình được hoàn thiện hơn ạ.
- 
 ## Preview
 
 ![](../../static/images/Pasted-image-20241219015600.webp)
 ![](../../static/images/Pasted-image-20241219015620.webp)
 ![](../../static/images/Pasted-image-20241219015638.webp)
 
-## 🔗 Tải xuống
+## Tải xuống
 
-### [⏬ Ankiweb (tác giả)](https://ankiweb.net/shared/info/1383764229)
+### Ankiweb (tác giả)
 
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/1Bij8rAiNCBEXxug2Lt8gJEpaEb4v4K5B/view?usp=sharing)
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
+  <a href="https://ankiweb.net/shared/info/1383764229">
+    <button class="buttonPrimary" type="button">Tải từ Ankiweb</button>
+  </a>
+</div>
+
+### Google Drive (ankivn)
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
+  <a href="https://drive.google.com/file/d/1Bij8rAiNCBEXxug2Lt8gJEpaEb4v4K5B/view?usp=sharing">
+    <button class="buttonPrimary" type="button">Tải từ Google Drive</button>
+  </a>
+</div>

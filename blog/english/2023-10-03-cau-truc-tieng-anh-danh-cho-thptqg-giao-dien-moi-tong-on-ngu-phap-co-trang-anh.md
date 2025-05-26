@@ -1,10 +1,10 @@
 ---
-title: "Cấu trúc tiếng anh dành cho THPTQG (giao diện mới) - Tổng ôn ngữ pháp cô Trang Anh"
-slug: "cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh"
-date: "2023-10-03"
+title: "Cấu trúc tiếng Anh dành cho THPTQG (giao diện mới) - Tổng ôn ngữ pháp cô Trang Anh"
+slug: cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh
+date: 2023-10-03
 description: "Chia sẻ bộ thẻ Tổng Ôn Ngữ Pháp dành cho ôn thi THPTQG."
-domain: ankivn.com
-keywords:
+category: "Tiếng Anh"
+keywords: 
   - ankivn
   - grammar
   - deck
@@ -14,7 +14,7 @@ tags:
   - grammar
 ---
 
-![](../../static/images/Pasted%20image%2020250114163743.png)
+![](../../static/images/anki_sigXngBVV1.webp)
 
 <!--truncate-->
 
@@ -35,22 +35,22 @@ Nguồn: [Tuấn Trần Thanh](https://www.facebook.com/groups/ankivocabulary/po
 
 ## Preview
 
-![](../../static/images/Pasted%20image%2020250114163755.png)
+![](../../static/images/image-12.webp)
 
-![](../../static/images/Pasted%20image%2020250114163759.png)
+![](../../static/images/image-13.webp)
 
-![](../../static/images/Pasted%20image%2020250114163803.png)
+![](../../static/images/image-14.webp)
 
-![](../../static/images/Pasted%20image%2020250114163815.png)
+![](../../static/images/image-15.webp)
 
-![](../../static/images/Pasted%20image%2020250114163821.png)
+![](../../static/images/image-16.webp)
 
-![](../../static/images/Pasted%20image%2020250114163826.png)
+![](../../static/images/image-17.webp)
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
   <a href="https://drive.google.com/drive/folders/1DGMI3j4hBigHlAKa69aLvT-k5m0Gxl9s?usp=sharing">
-    <button class="buttonPrimary" type="button">Google Drive</button>
+    <button class="buttonPrimary" type="button">Google Drive (ankivn)</button>
   </a>
 </div>

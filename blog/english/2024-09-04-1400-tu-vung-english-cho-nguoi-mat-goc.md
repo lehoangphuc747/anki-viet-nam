@@ -1,8 +1,9 @@
----
+﻿---
 title: 1400 Từ Vựng English Dành Cho Người Mất Gốc
 slug: 1400-tu-vung-english-cho-nguoi-mat-goc
 date: 2024-09-04
 description: Bộ thẻ 1400 từ vựng English âm thanh tương tự dành cho người mất gốc, có đầy đủ âm thanh, ví dụ cụ thể và dễ học.
+category: Tiếng Anh
 tags:
   - deck
   - english

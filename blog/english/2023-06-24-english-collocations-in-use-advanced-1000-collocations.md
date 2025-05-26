@@ -1,8 +1,9 @@
----
+﻿---
 title: English Collocations in Use Advanced + 1000 English Collocations in 10 Minutes a Day
 slug: english-collocations-in-use-advanced-1000-collocations
 date: 2023-06-24
 description: Bộ thẻ Anki English Collocations in Use Advanced và 1000 English Collocations in 10 Minutes a Day được chia sẻ bởi Lan Trần, giúp học collocation nhanh chóng và hiệu quả.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -30,7 +31,7 @@ tags:
 
 ---
 
-## 📚 **Nội dung bộ thẻ**  
+## 📝 **Nội dung bộ thẻ**  
 
 Nhóm có nhiều bạn dễ thương chia sẻ deck của mình, nên hôm nay mình cũng làm bộ **English Collocations in Use Advanced** đơn giản để chia sẻ:  
 
@@ -70,7 +71,7 @@ Ngoài ra, mình cũng cập nhật thêm bộ **1000 English Collocations in 10
 
 ---
 
-## 🔗 **Tải xuống**
+## 📗 **Tải xuống**
 
 <div style={{ display: 'flex', justifyContent: 'left', gap: '20px' }}>
   <a href="https://1drv.ms/u/s!AgIVLcNsagEqgbt7ZGfp-c-qqOBVVA?e=aniYuz" target="_blank">

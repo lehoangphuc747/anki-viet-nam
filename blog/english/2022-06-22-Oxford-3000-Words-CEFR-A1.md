@@ -1,11 +1,16 @@
----
+﻿---
 title: Oxford 3000 Words (CEFR A1)
 slug: Oxford-3000-Words-CEFR-A1
 date: 2022-06-22
-description: ""
+description: Bộ thẻ Anki Oxford 3000 Words cấp độ CEFR A1 gồm 1000 từ vựng cơ bản, phù hợp cho người mới bắt đầu học tiếng Anh.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
+  - oxford 3000
+  - từ vựng
+  - vocabulary
+  - cefr a1
 tags:
   - deck
   - english
@@ -13,7 +18,7 @@ tags:
 
 ## Oxford 3000 là gì?
 
-Oxford 3000 là danh sách 3.000 từ cốt lõi mà mọi người học tiếng Anh cần biết.  
+Oxford 3000 là danh sách 3.000 từ cốt lõi mà mọi người học tiếng Anh cần biết.
 
 Các từ đã được chọn dựa trên tần suất của chúng trong Oxford English Corpus và sự liên quan đến người học tiếng Anh. Mỗi từ được liên kết với CEFR, hướng dẫn người học về những từ họ nên biết ở cấp độ A1-B2.
 
@@ -21,24 +26,24 @@ Các từ đã được chọn dựa trên tần suất của chúng trong Oxfor
 
 ## Oxford 5000 là gì?
 
-Oxford 5000 là một danh sách từ cốt lõi mở rộng cho những người học tiếng Anh nâng cao.  
+Oxford 5000 là một danh sách từ cốt lõi mở rộng cho những người học tiếng Anh nâng cao.
 
-Cũng như danh sách từ cốt lõi Oxford 3000, nó bao gồm thêm 2.000 từ phù hợp với CEFR, hướng dẫn người học nâng cao ở cấp độ B2-C1 về các từ cấp cao hữu ích nhất để học cách mở rộng vốn từ vựng của họ.  
+Cũng như danh sách từ cốt lõi Oxford 3000, nó bao gồm thêm 2.000 từ phù hợp với CEFR, hướng dẫn người học nâng cao ở cấp độ B2-C1 về các từ cấp cao hữu ích nhất để học cách mở rộng vốn từ vựng của họ.
 
-Vậy nên bộ 5000 sẽ bao gồm luôn 3000 và thêm 2000 từ cấp độ B2+ đến C1 tương đương ielts 7.5 nhé.
+Vậy nên bộ 5000 sẽ bao gồm luôn 3000 và thêm 2000 từ cấp độ B2+ đến C1 tương đương IELTS 7.5 nhé.
 
 ---
 
-Được biên soạn và chỉnh sửa bởi anh Huy.  
-Vì đây là CEFR A1 nên chỉ có 1000 từ.  
+Được biên soạn và chỉnh sửa bởi anh Huy.
+Vì đây là CEFR A1 nên chỉ có 1000 từ.
 Phần tiếp theo CEFR A2 đang được biên soạn.
 
-##  Phù hợp với những ai:
+## Phù hợp với những ai:
 
 - Mất gốc
-- Củng cố lại vốn từ căn bản
+- Củng cố lại vốn từ căn bản  
 - Không biết nên học gì
-- Dịch dủng ở nhà không biết làm gì :))))
+- Dịch dùng ở nhà không biết làm gì :))))
 
 ## Preview
 
@@ -58,12 +63,18 @@ Phần tiếp theo CEFR A2 đang được biên soạn.
 - Hỗ trợ Dark Mode
 - Giao diện đẹp
 - Âm thanh chuẩn Oxford
-- Ví dụ minh hoạ dễ hiểu
+- Ví dụ minh họa dễ hiểu
 - Có hình ảnh
 
-## 🔗 Tải xuống
+## Tải xuống
 
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/19jLE3INa__at-x6JacMJBEmEbWuwxrE3/view?usp=sharing)
+### Google Drive (ankivn)
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
+  <a href="https://drive.google.com/file/d/19jLE3INa__at-x6JacMJBEmEbWuwxrE3/view?usp=sharing">
+    <button class="buttonPrimary" type="button">Tải từ Google Drive</button>
+  </a>
+</div>
 
 ## Góp ý
 
@@ -76,5 +87,4 @@ Full name: Trần Thiên Huy
 
 Email: lthvltk@gmail.com
 
-Facebook: [🔗 Lê Hoàng Phúc 🔗](https://www.facebook.com/tranthien.huy.5)
-:::
+Facebook: [Lê Hoàng Phúc](https://www.facebook.com/tranthien.huy.5)

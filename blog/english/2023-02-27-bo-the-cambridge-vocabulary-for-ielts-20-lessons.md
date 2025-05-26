@@ -1,8 +1,9 @@
----
+﻿---
 title: Bộ thẻ Cambridge Vocabulary for IELTS 20 lessons
 slug: bo-the-cambridge-vocabulary-for-ielts-20-lessons
 date: 2023-02-27
 description: Bộ thẻ Anki Cambridge Vocabulary for IELTS bao gồm 20 bài học từ vựng được biên soạn chi tiết và đầy đủ.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -20,14 +21,14 @@ tags:
 
 ---
 
-## 📚 **Nội dung bộ thẻ**  
+## 📝 **Nội dung bộ thẻ**  
 
 - **20 bài học từ vựng Cambridge Vocabulary for IELTS.**  
 - Các từ vựng được sắp xếp khoa học và phù hợp với cấp độ học viên IELTS.  
 
 ---
 
-## 🎥 **Hướng dẫn Video**
+## 🥇 **Hướng dẫn Video**
 
 import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
@@ -35,7 +36,7 @@ import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
 ---
 
-## 🔗 **Tải xuống**
+## 📗 **Tải xuống**
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
   <a href="https://drive.google.com/drive/folders/0ByVh8f6TFdtPM1dsWGRoVUNQVjA?resourcekey=0-LzzuynxLspFUtsf4qicUHA&usp=sharing" target="_blank">
@@ -75,4 +76,3 @@ import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 > **📌 Lưu ý:** Nếu gặp vấn đề khi tải xuống, vui lòng kiểm tra kết nối hoặc thử lại sau.
 
 ---
-

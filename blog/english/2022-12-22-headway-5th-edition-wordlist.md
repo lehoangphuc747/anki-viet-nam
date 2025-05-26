@@ -1,8 +1,9 @@
----
-title: "📘 Headway 5th Edition Word List (A1-C1)"
+﻿---
+title: "📚 Headway 5th Edition Word List (A1-C1)"
 slug: headway-5th-edition-wordlist-a1-c1
 date: 2022-12-22
 description: "Bộ deck từ vựng Headway 5th Edition với hơn 5,000 từ, hỗ trợ học từ trình độ A1 đến C1."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - headway
@@ -34,11 +35,11 @@ Bộ deck này dựa vào **Wordlist** từ giáo trình **Headway 5th Edition**
 5. **Upper-Intermediate** (B2 → Pre-C1): 622 từ
 6. **Advanced** (Pre-C1 → C1): 1227 từ
 
-### **Tổng cộng**: **5,134 từ** 🎯
+### **Tổng cộng**: **5,134 từ** 💯
 
 ---
 
-## 🎧 Tính năng đặc biệt:
+## 🧩 Tính năng đặc biệt:
 - **Audio**: Tạo bằng Awesome TTS (Youdao Dictionary – English, British).  
 - **Chức năng click**: Click vào văn bản để phát âm thanh.  
 - **Từ điển tích hợp**: Lạc Việt.  
@@ -50,14 +51,14 @@ Nếu bạn có thời gian, rất mong bạn có thể kiểm tra và hoàn thi
 
 ## 📥 Tải xuống
 
-### 🔗 Link tải gốc Mediafire
+### 📗 Link tải gốc Mediafire
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
   <a href="https://www.mediafire.com/folder/g4kcfr21hrwrr/Headway_5th_Edition?fbclid=IwAR0569j8o-AKdshuy0baGwi4z2HPwguDsk9FAG5qOLwEkOLMyj_QyCubLtk" target="_blank">
     <button class="buttonPrimary" type="button">Mediafire</button>
   </a>
 </div>
 
-### 🔗 Link mình reup lên OneDrive
+### 📗 Link mình reup lên OneDrive
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
   <a href="https://1drv.ms/f/s!AnGRjCvbms2Vir0l025F1_D9gI6wPQ?e=f9mO6B" target="_blank">
     <button class="buttonPrimary" type="button">OneDrive</button>
@@ -66,7 +67,7 @@ Nếu bạn có thời gian, rất mong bạn có thể kiểm tra và hoàn thi
 
 ---
 
-## 🔍 Preview
+## 📸 Preview
 
 ![](https://i.imgur.com/nY3s7sV.png)  
 ![](https://i.imgur.com/vp0bUWM.png)  

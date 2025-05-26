@@ -1,8 +1,9 @@
----
+﻿---
 title: "Essential Idioms in English"
 slug: "essential-idioms-in-english"
 date: "2023-10-08"
 description: "Giới thiệu và mô tả về sách Essential Idioms in English, một tài liệu học tập hữu ích cho việc nâng cao khả năng sử dụng thành ngữ tiếng Anh."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -18,7 +19,7 @@ tags:
 
 <!--truncate-->
 
-## Nguồn: [🗍 Essential Idioms in English – AnkiWeb](https://ankiweb.net/shared/info/995462426)
+## Nguồn: [📖 Essential Idioms in English – AnkiWeb](https://ankiweb.net/shared/info/995462426)
 
 ## Giới thiệu
 
@@ -34,13 +35,13 @@ Sách **Essential Idioms in English** là một cuốn sách giáo khoa về th�
 
 ### **Đặc điểm nổi bật của sách**:
 
-- “Một cuốn sách tuyệt vời cho những người muốn học thành ngữ tiếng Anh. Cuốn sách được trình bày một cách rõ ràng và dễ hiểu, với nhiều ví dụ thực tế. Tôi đã học được rất nhiều điều từ cuốn sách này.”  
+- “Một cuốn sách tuyệt vời cho những người muốn học thành ngữ tiếng Anh. Cuốn sách được trình bày một cách rõ ràng và dễ hiểu, với nhiều ví dụ thực tế. Tôi đã học được rất nhiều điều từ cuốn sách này.”   
   – **Trần Thị Mai**, một học viên tiếng Anh
 
-- “Cuốn sách này đã giúp tôi hiểu được nhiều thành ngữ tiếng Anh mà tôi thường gặp trong các bài đọc và bài nghe. Tôi cảm thấy tự tin hơn khi sử dụng thành ngữ trong giao tiếp.”  
+- “Cuốn sách này đã giúp tôi hiểu được nhiều thành ngữ tiếng Anh mà tôi thường gặp trong các bài đọc và bài nghe. Tôi cảm thấy tự tin hơn khi sử dụng thành ngữ trong giao tiếp.”   
   – **Nguyễn Văn Nam**, một sinh viên đại học
 
-- “Cuốn sách này là một tài liệu học tập tuyệt vời cho những người muốn nâng cao khả năng sử dụng thành ngữ tiếng Anh. Tôi khuyên bạn nên mua cuốn sách này nếu bạn muốn cải thiện khả năng giao tiếp tiếng Anh của mình.”  
+- “Cuốn sách này là một tài liệu học tập tuyệt vời cho những người muốn nâng cao khả năng sử dụng thành ngữ tiếng Anh. Tôi khuyên bạn nên mua cuốn sách này nếu bạn muốn cải thiện khả năng giao tiếp tiếng Anh của mình.”   
   – **Nguyễn Thị Hà**, một giáo viên tiếng Anh
 
 

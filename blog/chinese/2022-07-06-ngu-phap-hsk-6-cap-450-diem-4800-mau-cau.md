@@ -3,6 +3,7 @@ title: Ngữ pháp HSK 6 cấp
 slug: ngu-phap-hsk-6-cap-450-diem-4800-mau-cau
 date: 2022-07-06
 description: Tổng hợp 4800 mẫu câu và 450 điểm ngữ pháp HSK 6 cấp, phù hợp từ người mới bắt đầu đến nâng cao.
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese

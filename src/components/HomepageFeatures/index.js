@@ -1,7 +1,41 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
+import React from 'react';
 import styles from './styles.module.css';
+import SupportButton from '../SupportButton';
 
+const FeatureList = [
+  {
+    description: (
+      <>
+        <div style={{ 
+          textAlign: 'center', 
+          marginBottom: '2rem', 
+          fontSize: '1.8rem',
+          fontWeight: '700',
+          background: 'linear-gradient(45deg, #2b2b2b, #1a1a1a)',
+          WebkitBackgroundClip: 'text',
+          WebkitTextFillColor: 'transparent',
+          textShadow: '0 2px 4px rgba(0,0,0,0.1)',
+          letterSpacing: '-0.5px',
+          lineHeight: '1.4'
+        }}>
+          Đang gặp lỗi hay vấn đề gì đó đúng khômmmmm? Bấm nút bên dưới nà!!!.
+        </div>
+        <div style={{ textAlign: 'center' }}>
+          <a 
+            href="https://m.me/tui.la.phuc747" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className={styles.supportButton}
+          >
+            NHẮN MÌNH
+          </a>
+        </div>
+      </>
+    ),
+  },
+];
+
+/* Original features commented out
 const FeatureList = [
   {
     title: 'Tự động hóa học tập',
@@ -31,30 +65,16 @@ const FeatureList = [
     ),
   },
 ];
-
-
-function Feature({Svg, title, description}) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
+*/
 
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+          <div className="col col--12">
+            <SupportButton />
+          </div>
         </div>
       </div>
     </section>

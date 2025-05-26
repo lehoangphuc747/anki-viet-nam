@@ -1,8 +1,9 @@
----
+﻿---
 title: "Anki TED-ED Song Ngữ Anh – Việt (Part 1 – Remake ver)"
 slug: "anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver"
 date: "2023-03-24"
 description: "Bộ thẻ Anki TED-ED Song Ngữ Anh – Việt (Part 1 – Remake ver) giúp cải thiện kỹ năng nghe và từ vựng thông qua các câu chuyện TED-ED."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -19,7 +20,7 @@ tags:
 
 <!--truncate-->
 
-## 📖 **Nguồn**  
+## 📌 **Nguồn**  
 - **Tác giả:** [Anki Việt Nam](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/anki-ted-ed-song-ngu-anh-viet-part-1-remake-ver/)  
 - **Facebook:** [Nhóm Anki Vocabulary](https://www.facebook.com/groups/ankivocabulary/posts/1377826669643653)  
 
@@ -61,7 +62,7 @@ tags:
 
 ---
 
-## 🛠️ **Hướng dẫn cài đặt bộ thẻ**  
+## 🔄 **Hướng dẫn cài đặt bộ thẻ**  
 
 1. **Tải xuống bộ thẻ** từ liên kết bên dưới.  
 2. Mở phần mềm **Anki** và chọn **File → Import** để tải bộ thẻ.  
@@ -72,7 +73,7 @@ tags:
 
 ---
 
-## 🔗 **Tải xuống**
+## 📥 **Tải xuống**
 
 <div style={{ display: 'flex', justifyContent: 'left', gap: '20px' }}>
   <a href="https://www.mediafire.com/file/s0jxm7ta2ggb9yl/TED-ED+Part+1.apkg/file" target="_blank">
@@ -85,7 +86,7 @@ tags:
 
 ---
 
-## 💖 **Thông điệp từ tác giả**  
+## 💌 **Thông điệp từ tác giả**  
 
 - **Mục đích tạo bộ thẻ:** Cung cấp công cụ học tiếng Anh hiệu quả qua video TED-ED.  
 - **Gợi ý ủng hộ:** Nếu bạn thấy bộ thẻ hữu ích, hãy chia sẻ hoặc gửi lời động viên đến tác giả.  
@@ -93,7 +94,7 @@ tags:
 
 ---
 
-## 💬 **Cập nhật gần đây:**  
+## 📝 **Cập nhật gần đây:**  
 
 - **24/03/2023:**  
    - Tối ưu giao diện bộ thẻ.  

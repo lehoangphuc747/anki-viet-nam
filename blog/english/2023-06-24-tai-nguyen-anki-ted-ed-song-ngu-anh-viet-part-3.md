@@ -1,8 +1,9 @@
----
-title: "TED-ED Part 3: Anki TED-ED song ngữ Anh – Việt (Part 3)"
+﻿---
+title: "TED-ED Part 3: Anki TED-ED song ngữ Anh - Việt (Part 3)"
 slug: ted-ed-part-3
 date: 2023-06-24
 description: Deck học tiếng Anh với Context và Audio để luyện kỹ năng Listening và Reading.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -23,9 +24,9 @@ tags:
 Deck này khắc phục và tối ưu các điểm so với deck trước như sau:
 
 - ✅ 1 card chỉ duy nhất một định nghĩa, 1 cloze, không quá nhiều input định nghĩa.
-- 🎧 Add thêm audio từ vựng + phiên âm IPA British/America.
+- 🧠 Add thêm audio từ vựng + phiên âm IPA British/America.
 - 🎨 Giao diện đẹp hơn với 2 chế độ: Light và Dark.
-- 🚀 Loại bỏ Empty Card để người học không cần chỉnh sửa gì thêm.
+- 🎀 Loại bỏ Empty Card để người học không cần chỉnh sửa gì thêm.
 
 Các Deck Anh – Trung – Nhật mình từng làm:
 
@@ -66,7 +67,7 @@ Deck này thực tế được mình customize lại từ Deck gốc: [https://a
 
 ---
 
-## 🎓 III. Cách Học
+## 📚 III. Cách Học
 
 Mặt **Front** sẽ có audio và cloze. Bạn chỉ cần **nghe và điền vào ô** là được.
 
@@ -91,7 +92,7 @@ Nếu muốn thử thách bản thân hơn, bạn có thể chỉnh mặt Front 
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> 
   <a href="https://www.mediafire.com/file/ol5aey1lursscj3/TED-ED+Part+3.apkg/file" target="_blank"> 
-    <button class="buttonPrimary" type="button">📁 Mediafire (tác giả)</button> 
+    <button class="buttonPrimary" type="button">📝 Mediafire (tác giả)</button> 
   </a> 
 </div>
 

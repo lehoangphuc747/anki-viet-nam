@@ -1,8 +1,9 @@
 ---
-title: 3000 từ vựng Tiếng Anh thông dụng
+title: "3000 Common English Words - từ vựng tiếng Anh thông dụng"
 slug: 3000-common-english-words
-date: 2024-01-06
-description: Bộ flashcard 3000 từ vựng Tiếng Anh thông dụng nhất kèm hình ảnh minh họa, hỗ trợ ghi nhớ từ vựng hiệu quả.
+date: "2024-01-06"
+description: "Bộ thẻ Anki 3000 từ vựng tiếng Anh thông dụng, có audio và hình ảnh minh họa."
+category: "Tiếng Anh"
 keywords:
   - ankivn
   - english
@@ -11,9 +12,8 @@ keywords:
 tags:
   - deck
   - english
+readingTime: 5
 ---
-
-
 
 <!--truncate-->
 
@@ -21,9 +21,25 @@ tags:
 
 ## Nội dung 
 
-Gửi tặng các bạn flashcard mình làm ạ, có một vài từ không có hình ảnh diễn giải bạn có thể sửa tùy theo ý thích hoặc những gì bạn dễ nhớ nha.  
-Chúc các bạn học tập được hiệu quả! 😍
+Bộ thẻ **3000 Common English Words** cung cấp 3000 từ vựng tiếng Anh thông dụng nhất, phù hợp cho người học ở mọi trình độ.
 
-## Tải xuống bộ flashcard
+### **Tính năng nổi bật:**
 
-<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/1-hVLX2divc8DQe-u3SwcG9iZEMwirb_i?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>
+✅ **Từ vựng phổ biến** - 3000 từ thông dụng nhất trong tiếng Anh
+✅ **Hình ảnh minh họa** - Giúp ghi nhớ từ vựng dễ dàng hơn
+✅ **Định nghĩa chi tiết** - Giải thích nghĩa và cách sử dụng
+✅ **Tùy chỉnh linh hoạt** - Bạn có thể sửa đổi hình ảnh theo ý thích
+
+### **Lưu ý:**
+
+📌 Một số từ có thể chưa có hình ảnh minh họa
+📌 Bạn có thể tùy chỉnh thêm hình ảnh theo cách giúp bạn dễ nhớ nhất
+📌 Hãy chia sẻ góp ý của bạn để chúng tôi có thể cải thiện bộ thẻ tốt hơn
+
+## Tải xuống
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> 
+  <a href="https://drive.google.com/drive/folders/1-hVLX2divc8DQe-u3SwcG9iZEMwirb_i?usp=sharing"> 
+    <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> 
+  </a> 
+</div>

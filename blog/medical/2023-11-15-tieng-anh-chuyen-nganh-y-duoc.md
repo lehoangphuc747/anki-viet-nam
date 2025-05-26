@@ -1,9 +1,11 @@
----
+﻿---
 title: Tiếng Anh chuyên ngành Y dược
 slug: tieng-anh-chuyen-nganh-y-duoc
 date: 2023-11-15
 description: Giới thiệu về bộ Deck GGC Tiếng Anh chuyên ngành Y dược, một tài liệu học tập bổ ích cho người học tiếng Anh chuyên ngành Y dược.
 domain: ankivn.com
+category: 'Y Dược'
+image: http://ankivn.com/images/2023-11-15-tieng-anh-chuyen-nganh-y-duoc-1743865079419.webp
 keywords:
   - ankivn
   - english
@@ -15,7 +17,7 @@ tags:
   - medical
 ---
 
-![](../../static/images/Pasted%20image%2020250128180625.png)
+![](../../static/images/2023-11-15-tieng-anh-chuyen-nganh-y-duoc-1743865079419.webp)
 
 <!--truncate-->
 
@@ -25,7 +27,7 @@ tags:
 
 - **Bộ Deck GGC** này được xây dựng dựa trên giáo trình lớp học [**Tiếng Anh Y Dược – Go Global Class (GGC)**](https://www.facebook.com/tienganhyduocggc/) của chị Lê Dung và kiến thức của MÌNH.
 
-Vì vậy các bạn bắt đầu học nên học trước (hoặc học song song) với bộ Flashcard [**Mosby’s Medical Terminology**](https://ankiweb.net/shared/info/1588541422) nhé. Chi tiết về bộ deck có thể tìm thấy trên note tại facebook mình hoặc tại [**WordPress**](https://thengocthao.wordpress.com/).
+Vì vậy các bạn bắt đầu học nên học trước (hoặc học song song) với bộ Flashcard [**Mosby's Medical Terminology**](https://ankiweb.net/shared/info/1588541422) nhé. Chi tiết về bộ deck có thể tìm thấy trên note tại facebook mình hoặc tại [**WordPress**](https://thengocthao.wordpress.com/).
 
 Bạn nào sử dụng có ý kiến gì thì có thể liên hệ với mình qua facebook hoặc wordpress để mình có thể sửa lại bộ deck một cách hợp lý nhé. Cảm ơn các bạn đã sử dụng và cảm ơn vì đã góp ý cho mình! Chúc các bạn có con đường học Tiếng Anh chuyên ngành thuận lợi.
 
@@ -48,16 +50,16 @@ Thông tin Facebook: [**Phạm Thảo**](https://www.facebook.com/phamngoc.thao.
 
 ## Lưu ý:
 
-- Vì bộ Deck được dựa trên kiến thức của mình, nên một số thứ mình không nhắc lại nữa. Các bạn bắt đầu học nên học trước (hoặc học song song) với bộ Flashcard [**Mosby’s Medical Terminology**](https://ankiweb.net/shared/info/1588541422) nhé.
+- Vì bộ Deck được dựa trên kiến thức của mình, nên một số thứ mình không nhắc lại nữa. Các bạn bắt đầu học nên học trước (hoặc học song song) với bộ Flashcard [**Mosby's Medical Terminology**](https://ankiweb.net/shared/info/1588541422) nhé.
 - Mình nhập thủ công nên hơi bị lười, các bạn học từ mới, đặc biệt chú ý phần Synonyms nhé, vì những từ synonyms mình sẽ không nhập lại đâu, mà cũng hay sử dụng lắm nhé.
 - Hình ảnh mình đã kiếm loại có thêm khá nhiều từ mới về phần đó nữa nên các bạn có thể học thêm tiếp từ đó nhé.
 - Vì ban đầu không biết chèn audio vào thế nào nên mình tự phát âm các từ, các bạn lấy đó làm tham khảo nhé. Chính xác nhất thì cứ theo phiên âm mà đọc. Phiên âm mình lấy chuẩn của Cambridge dictionary, từ nào Cambridge không có mình lấy của Wikipedia và Lexico.com, Merriam-webster.com, từ nào không có phiên âm IPA nữa thì mình lấy theo phiên âm glossika của Google nhé.
 
-## Một vài lời của mềnh:
+## Một vài lời của mình:
 
-Bộ Flashcard còn nhiều thiếu sót, cái thiếu đầu tên là Musculoskeletal System mà mình không có vốn để nhập vào (vốn trong đầu thì nhiều lắm các bác nhưng mà bảo em mới ra thì em chịu :P). Thiếu cái thứ hai là vì mình nhập hoàn toàn thủ công (các bạn có thể nghe giọng mình cố gắng “phát âm chuẩn” trong những chiếc card là một dấu ấn) nên không tránh khỏi sai sót. Thiếu cái thứ ba là chỉ có một loại card, không đa dạng lắm, sợ chán trong lúc học tập.
+Bộ Flashcard còn nhiều thiếu sót, cái thiếu đầu tiên là Musculoskeletal System mà mình không có vốn để nhập vào (vốn trong đầu thì nhiều lắm các bác nhưng mà bảo em mới ra thì em chịu :P). Thiếu cái thứ hai là vì mình nhập hoàn toàn thủ công (các bạn có thể nghe giọng mình cố gắng "phát âm chuẩn" trong những chiếc card là một dấu ấn) nên không tránh khỏi sai sót. Thiếu cái thứ ba là chỉ có một loại card, không đa dạng lắm, sợ chán trong lúc học tập.
 
-Vì vậy, rất mong các bạn có sử dụng thì cho mình xin một chiếc feedback, khen chê tốt xấu đều được hiuhiu. Bạn nào không comment ở đây thì inbox, không inbox thì cho mình nhận hoa đá trên AnkiWeb để mình sửa bộ card nhaaaa.
+Vì vậy, rất mong các bạn có sử dụng thì cho mình xin một chiếc feedback, khen chê tốt xấu đều được hiuhiu. Bạn nào không comment ở đây thì inbox, không inbox thì cho mình nhận hoa đá trên AnkiWeb để mình sửa bộ card nhaaa.
 
 Với ai có thắc mắc là nếu không học lớp GGC thì có học bộ Flashcard này được không, thì mình xin trả lời là Có. Bạn không cần phải học lớp này để có thể học được bộ card này, dù sao thì đây cũng chỉ là học từ mới thôi mà. Bạn có thể inbox mình để hỏi thêm về tài liệu học, mình có thời gian mình sẽ chỉ nhé. Nhưng nếu bạn nào có điều kiện thì có người hướng dẫn thì sẽ bài bản hơn nhé.
 
@@ -72,7 +74,7 @@ Chúc các bạn học Tiếng Anh chuyên ngành thuận lợi nhé!
 
 **P/S:** Bạn nào có ý định đăng kí khóa học của chị Dung mà cần thông tin của người giới thiệu thì mình là Phạm Ngọc Thảo học lớp M6 nhé :)))
 
-## 🔗 Tải xuống
+## 📥 Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://ankiweb.net/shared/info/1407245872"> <button class="buttonPrimary" type="button">Tiếng Anh chuyên ngành Y Dược – Link gốc AnkiWeb</button> </a> </div>
 

@@ -1,9 +1,11 @@
 ---
 title: Bộ thẻ thi Viên chức ngành Y tế
-slug: bo-the-thi-vien-chuc-nganh-Y-te
+slug: bo-the-thi-vien-chuc-nganh-y-te
 date: 2024-12-18
-description: ""
+description: Bộ thẻ tổng hợp kiến thức ôn thi viên chức ngành Y tế.
 domain: ankivn.com
+category: Y Dược
+image: http://ankivn.com/img/default-thumbnail.webp
 keywords:
   - ankivn
 tags:
@@ -11,11 +13,11 @@ tags:
   - medical
 ---
 
-Hình ảnh banner đặt ở đây
-
 <!--truncate-->
 
-## Nguồn : [Tâm An](https://www.facebook.com/groups/ankivocabulary/posts/1769488653810784/)
+## Nguồn: [Tâm An](https://www.facebook.com/groups/ankivocabulary/posts/1769488653810784/)
+
+---
 
 ## Nội dung
 
@@ -25,6 +27,11 @@ Giờ mình học mà không có Anki là không tự học được luôn :))
 
 ## 🔗 Tải xuống
 
-#### [⏬ Google Drive (của tác giả)](https://drive.google.com/drive/u/0/folders/1Lb25-lU_KJQJPkf6ZyecDMQ4fzKNdT4t)
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/u/0/folders/1Lb25-lU_KJQJPkf6ZyecDMQ4fzKNdT4t"> <button class="buttonPrimary" type="button">Google Drive (tác giả)</button> </a> </div>
 
-#### [⏬ Google Drive (ankivn reup)](https://drive.google.com/drive/folders/17JHAMqQn7lwhHfQx35H60bU4Or2-sEtl?usp=sharing)
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/17JHAMqQn7lwhHfQx35H60bU4Or2-sEtl?usp=sharing"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="link_google_drive_dán_vào_đây"> <button class="buttonPrimary" type="button">AnkiWeb</button> </a> </div>
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="link_google_drive_dán_vào_đây"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>
+

@@ -1,8 +1,9 @@
----
+﻿---
 title: 4000 Essential Words + Close-up Word List (Online hoá)
 slug: 4000-essential-words-close-up-word-list-online-hoa
 date: 2022-08-01
 description: ""
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -58,8 +59,8 @@ import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
 > Nếu bạn thấy nội dung này hữu ích, hãy thử áp dụng và chia sẻ trải nghiệm của bạn nhé!
 
-## 🔗 Tải xuống (Google )
+## 📥 Tải xuống (Google Drive)
 
-### [⏬ English Close-up Word List (Minimal Version)](https://drive.google.com/file/d/1HP6uyoKi3bGQlgYIuCVixL5UFAjTk3Ob/view?usp=sharing)
+### [⬇ English Close-up Word List (Minimal Version)](https://drive.google.com/file/d/1HP6uyoKi3bGQlgYIuCVixL5UFAjTk3Ob/view?usp=sharing)
 
-### [⏬ English 4000 Essential Words (Minimal Version)](https://drive.google.com/file/d/1HPB8_RyjIU0SaHEv1gjmoWXfswIGdkEi/view?usp=sharing)
+### [⬇ English 4000 Essential Words (Minimal Version)](https://drive.google.com/file/d/1HPB8_RyjIU0SaHEv1gjmoWXfswIGdkEi/view?usp=sharing)

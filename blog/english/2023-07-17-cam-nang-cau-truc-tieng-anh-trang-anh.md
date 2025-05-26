@@ -1,8 +1,9 @@
----
+﻿---
 title: "Cẩm nang cấu trúc tiếng Anh: sách cô Trang Anh"
 slug: "cam-nang-cau-truc-tieng-anh-trang-anh"
 date: "2023-07-17"
-description: Deck học từ sách “Cẩm nang cấu trúc tiếng Anh” của cô Trang Anh với 25 chuyên đề từ vựng ngữ pháp.
+description: Deck học từ sách "Cẩm nang cấu trúc tiếng Anh" của cô Trang Anh với 25 chuyên đề từ vựng ngữ pháp.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -27,9 +28,9 @@ tags:
 ![](../../static/images/Pasted%20image%2020250118112325.png)
 
 
-## 🔖 Giới thiệu
+## 📖 Giới thiệu
 
-Xin chào! Đây là **chuyên mục share deck đầu tháng 7**. Bộ thẻ này được trích từ sách **“Cẩm nang cấu trúc tiếng Anh”** của cô Trang Anh, bao gồm **25 chuyên đề từ vựng ngữ pháp**. 
+Xin chào! Đây là **chuyên mục share deck đầu tháng 7**. Bộ thẻ này được trích từ sách **"Cẩm nang cấu trúc tiếng Anh"** của cô Trang Anh, bao gồm **25 chuyên đề từ vựng ngữ pháp**. 
 
 Xem các ảnh phía dưới để hiểu rõ cách sử dụng thẻ và phương pháp học.
 
@@ -40,7 +41,7 @@ Xem các ảnh phía dưới để hiểu rõ cách sử dụng thẻ và phươ
 - ❌ **Không đảm bảo độ tương thích trên điện thoại.**
 - 🔧 Nếu lỗi âm thanh, hãy cài addon [TTS (Text-To-Speech)](https://ankiweb.net/shared/info/1436550454).
 - 🔧 Nếu lỗi type 2 khung, 3 khung, hãy cài addon [Multiple Type Fields](https://ankiweb.net/shared/info/711285688).
-- 🔊 Audio sử dụng giọng **Google**, chất lượng không cao.
+- 🔈 Audio sử dụng giọng **Google**, chất lượng không cao.
 - ⌛ **Dạng thẻ type toàn bộ** nên thời gian học sẽ dài hơn bình thường.
 
 ---

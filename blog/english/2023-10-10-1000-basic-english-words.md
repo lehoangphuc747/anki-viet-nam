@@ -1,43 +1,47 @@
 ---
-title: 1000 Basic English Words
+title: "1000 Basic English Words"
 slug: 1000-basic-english-words
 date: 2023-10-10
-description: Giới thiệu về bộ sách 1000 Basic English Words, một tài liệu học tập cơ bản để xây dựng vốn từ vựng tiếng Anh.
-domain: ankivn.com
+description: "Bộ thẻ 1000 từ vựng tiếng Anh cơ bản nhất, hỗ trợ hình ảnh và âm thanh."
+category: "Tiếng Anh"
 keywords:
-  - ankivn
+  - vocabulary
+  - "basic words"
+  - deck
+tags:
   - english
   - vocabulary
-  - book
-tags:
-  - deck
-  - english
 ---
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
-<YouTubeEmbed videoId="q_LedolsNYc" />
+![](../../static/images/anki_sigXngBVV1.webp)
 
 <!--truncate-->
 
-## Nguồn: [🗍 1000 Basic English Words – AnkiWeb](https://ankiweb.net/shared/info/1243388349)
+## Nguồn: [Anki Việt Nam](https://www.facebook.com/groups/ankivocabulary)
 
-## Giới thiệu
+## Nội dung
 
-**1000 Từ Tiếng Anh Cơ Bản** là bộ sách gồm bốn cấp độ được thiết kế nhằm giới thiệu 1000 từ tiếng Anh thông dụng, cần thiết cho người học tiếng Anh. Tất cả các từ được chọn cho bộ sách đều được rút ra từ việc phân tích những từ thường gặp nhất trong sách giáo khoa và tài liệu dành cho người học tiếng Anh. **1000 Từ Tiếng Anh Cơ Bản** cung cấp nền tảng tuyệt vời cho những người học tiếng Anh muốn xây dựng vốn từ vựng vững chắc.
+Bộ thẻ **1000 Basic English Words** cung cấp 1000 từ vựng tiếng Anh cơ bản nhất, phù hợp cho người mới bắt đầu.
 
-## Các tính năng chính
+### **Tính năng nổi bật:**
 
-- Những từ thường dùng trong cả nói và viết tiếng Anh
-- Hình ảnh hấp dẫn minh họa từng từ mục tiêu
-- Phát âm các từ mục tiêu được biểu thị bằng ký hiệu ngữ âm
-- Định nghĩa và ví dụ rõ ràng, dễ hiểu kèm theo bản ghi âm cho tất cả các từ mục tiêu
+✅ **Từ vựng cơ bản** - 1000 từ thông dụng nhất
+✅ **Hình ảnh minh họa** - Giúp ghi nhớ từ vựng dễ dàng
+✅ **Âm thanh** - Phát âm chuẩn cho mỗi từ
+✅ **Ví dụ** - Các câu ví dụ thực tế
 
-## 🔗 Tải xuống
+## Preview
+
+![](../../static/images/image-12.webp)
+
+![](../../static/images/image-13.webp)
+
+![](../../static/images/image-14.webp)
+
+## Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}>
-  <a href="https://drive.google.com/file/d/1sY7iGWs53t83S5_-IU7-64vov_aXLd26/view?usp=sharing">
-    <button class="buttonPrimary" type="button">Google Drive (bộ thẻ)</button>
+  <a href="https://drive.google.com/drive/folders/1sOqOTfqOjVKa0MIpWR_k1vXdzlGQD7Wn?usp=drive_link">
+    <button class="buttonPrimary" type="button">Google Drive</button>
   </a>
 </div>
-
-<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/1sSJ0Hddq7qY9O_IjNs0RRO1auDdJUtn4?usp=sharing"> <button class="buttonPrimary" type="button">File sách kèm Audio</button> </a> </div>

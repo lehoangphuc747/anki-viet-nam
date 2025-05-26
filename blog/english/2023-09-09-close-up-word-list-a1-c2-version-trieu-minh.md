@@ -1,8 +1,9 @@
----
-title: "📘 Close-up Word List: Bộ Deck Từ Vựng Đỉnh Cao (A1 đến C2)"
+﻿---
+title: "📚 Close-up Word List: Bộ Deck Từ Vựng Đỉnh Cao (A1 đến C2)"
 slug: close-up-word-list-a1-c2-version-trieu-minh
 date: 2023-09-09
 description: Bộ deck từ vựng Close-up Word List, dựa trên tài liệu từ National Geographic Learning, hỗ trợ học từ A1+ đến C2 với hơn 11,000 từ.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - close-up
@@ -36,11 +37,11 @@ Tôi đã remake bộ deck **Close-up, Second Edition by National Geographic Lea
 - **C1**: 1741 notes
 - **C2**: 1611 notes
 
-**Tổng cộng**: **11,693 notes** 🎯
+**Tổng cộng**: **11,693 notes** 💯
 
 ---
 
-## 🎧 Tính năng đặc biệt:
+## 🧩 Tính năng đặc biệt:
 - **Audio**: Click vào văn bản để phát âm thanh.
 - **Từ điển tích hợp**: Lạc Việt.
 - **Nghĩa tiếng Việt**: Sử dụng Google Translate.
@@ -79,15 +80,15 @@ for (const cloze of clozes) {
 
 ## 📥 Tải xuống
 
-### 🔗 Link gốc (Mediafire)
+### 📗 Link gốc (Mediafire)
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://www.mediafire.com/folder/3qho7e3qq7lt1/Close-up_Word_List?fbclid=IwAR3dy-wdWqJVYlu-3bW1v2FoNSsnfQDkR-kDfm5YZHowN-VnLikKjBOumlQ" target="_blank"> <button class="buttonPrimary" type="button">Mediafire</button> </a> </div>
 
-### 🔗 Ankivn 
+### 📗 Ankivn 
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/1OWl_Qd6a3q4qbmf-Trxjw27T42VdNW4w"> <button class="buttonPrimary" type="button">Google Drive</button> </a> </div>
 
-## 🔍 Preview
+## 📸 Preview
 
 ![](../../static/images/Pasted%20image%2020250122102512.png)
 ![](../../static/images/Pasted%20image%2020250122102516.png)

@@ -1,4 +1,4 @@
----
+﻿---
 title: Tiếng Anh THPT
 slug: Tieng-Anh-THPT
 date: 2022-07-12
@@ -22,6 +22,6 @@ tags:
 
 Hôm nay rảnh, nên mình muốn share đến các em đang ôn thi THPTQG bộ desk full (vocab, collo, idioms,...) từ toàn bộ các khóa của cô Trang Anh mà mình đã học.
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/1BvJsClmrMGY2IefbZ32FD4y_3j70Fuy9/view?usp=sharing)
+### [⬇ Google Drive (ankivn)](https://drive.google.com/file/d/1BvJsClmrMGY2IefbZ32FD4y_3j70Fuy9/view?usp=sharing)

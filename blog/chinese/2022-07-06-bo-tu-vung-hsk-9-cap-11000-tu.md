@@ -3,6 +3,7 @@ title: Bộ từ vựng HSK 9 cấp 11000 từ
 slug: bo-tu-vung-hsk-9-cap-11000-tu
 date: 2022-07-06
 description: Bộ từ vựng HSK 9 cấp với hơn 11000 từ, có kèm tiếng Việt, âm Hán Việt và luyện viết.
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese

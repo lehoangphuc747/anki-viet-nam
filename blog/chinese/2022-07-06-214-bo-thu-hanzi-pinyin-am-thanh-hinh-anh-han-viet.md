@@ -3,6 +3,7 @@ title: 214 Bộ Thủ (Hanzi-Pinyin-Sound-Picture-Hán Việt)
 slug: 214-bo-thu-hanzi-pinyin-am-thanh-hinh-anh-han-viet
 date: 2022-07-06
 description: "Bộ thẻ 214 bộ thủ tiếng Trung dành cho người mới, có hình ảnh liên tưởng, âm thanh, nét viết động và nghĩa tiếng Việt."
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese
@@ -14,7 +15,7 @@ tags:
 
 ## Nội dung
 
-🈶 **214 bộ thủ cho người mới**
+🈸 **214 bộ thủ cho người mới**
 
 Hôm nay lượn lờ trên AnkiWeb mình có tìm được một deck tiếng Trung-Việt khá xịn xò nên muốn chia sẻ với mọi người.
 
@@ -26,7 +27,7 @@ Hôm nay lượn lờ trên AnkiWeb mình có tìm được một deck tiếng T
 - ✍️ Có hình động nét  
 - 💡 Có mẹo gợi nhớ  
 - 🏆 **Deck siêu chi tiết, là tiêu chuẩn vàng để các deck về học chữ Hán khác phải noi theo**  
-- 📚 Có đủ tất cả: số nét, pinyin, hán tự, ảnh, cách viết, âm đọc, meaning  
+- 📖 Có đủ tất cả: số nét, pinyin, hán tự, ảnh, cách viết, âm đọc, meaning  
 
 ### ⚠️ Nhược điểm:
 

@@ -43,7 +43,7 @@ thcs:
   permalink: /thcs
   description: "Các bộ thẻ bậc Trung học Cơ sở"
 
-khác:
+khac:
   label: khác
   permalink: /khac
   description: "Các bộ thẻ khác"
@@ -90,3 +90,47 @@ toeic:
   label: TOEIC
   permalink: /toeic
   description: Các bài viết về TOEIC
+template:
+  label: Template
+  permalink: /template
+  description: Các bài viết mẫu, định dạng chuẩn
+
+france:
+  label: France
+  permalink: /france
+  description: Tiếng Pháp
+
+germany:
+  label: Germany
+  permalink: /germany
+  description: Tiếng Đức
+
+russian:
+  label: Russian
+  permalink: /russian
+  description: Tiếng Nga
+
+vocabulary:
+  label: Vocabulary
+  permalink: /vocabulary
+  description: "Các bài viết về từ vựng"
+
+business:
+  label: Business
+  permalink: /business
+  description: "Các bài viết về tiếng Anh thương mại"
+
+pronunciation:
+  label: Pronunciation
+  permalink: /pronunciation
+  description: "Các bài viết về phát âm"
+
+cntt:
+  label: CNTT
+  permalink: /cntt
+  description: Các bộ thẻ liên quan đến Công nghệ thông tin, lập trình, IT.
+
+addons:
+  label: "Add-ons"
+university:
+  label: "University"

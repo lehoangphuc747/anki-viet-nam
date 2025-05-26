@@ -3,6 +3,7 @@ title: Bộ thẻ Thầm yêu quất sinh hoài nam (song ngữ Trung – Việt
 slug: bo-the-tham-yeu-quat-sinh-hoai-nam-song-ngu-trung-viet
 date: 2021-10-23
 description: Bộ thẻ Anki phim Thầm yêu quất sinh hoài nam gồm hơn 5.000 audio, 300+ hình ảnh và song ngữ Trung – Việt, giúp học tiếng Trung qua phim dễ dàng và cảm xúc hơn.
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese
@@ -19,7 +20,7 @@ Phù hợp cho những ai đang học tiếng Trung qua phim ảnh, muốn luy�
 
 ---
 
-## 🧩 Thông tin bộ thẻ
+## 🎰 Thông tin bộ thẻ
 
 | Thành phần     | Nội dung                         |
 |----------------|----------------------------------|

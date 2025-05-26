@@ -1,8 +1,9 @@
----
+﻿---
 title: "Learn English with Movies: Phim House of Cards"
 slug: learn-english-with-movies-house-of-cards
 date: 2023-07-17
 description: Deck học tiếng Anh từ phim House of Cards với 143 note, tập trung vào cách phát âm và sử dụng mẫu câu.
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -27,7 +28,7 @@ tags:
 
 Deck có **143 note** lấy ngẫu nhiên từ **3 season đầu của phim House of Cards**, chủ yếu là các từ và mẫu câu mà mình không biết. Deck này tập trung vào:
 
-- 🎧 **Học cách phát âm và sử dụng mẫu câu.**
+- 🧠 **Học cách phát âm và sử dụng mẫu câu.**
 - ⏱️ Học khoảng **5 card/ngày**, mỗi thẻ chỉ mất **10–20 giây**, giúp bạn nhớ nhanh và hiệu quả.
 
 ---
@@ -90,26 +91,26 @@ Deck sử dụng code chuẩn, chạy tốt cả trên PC lẫn điện thoại 
 
 ---
 
-## 🎛️ **NÚT ĐIỀU KHIỂN VÀ TRÌNH PHÁT**
+## 🛠️ **NÚT ĐIỀU KHIỂN VÀ TRÌNH PHÁT**
 
 - **Trình phát HTML** phát trực tiếp trong card, với các nút điều khiển:  
   - ⏯️ Phát/dừng.  
   - 🔄 Tua lại 1–2 giây.  
-  - ⚡ Điều chỉnh tốc độ (±0.2x).  
+  - ⏩ Điều chỉnh tốc độ (±0.2x).  
   - ⏱️ Reset tốc độ về 1.0x.  
 
 - **Mặt sau:** Có thêm nút để xem phần dịch của script.
 
 ---
 
-## 📚 **BẢNG TỪ MỚI**
+## 📝 **BẢNG TỪ MỚI**
 
 📌 Nhập từ mới vào trường vocabulary theo format:
 
 ```
 [từ 1]//[nghĩa 1]
 
-“enter”
+"enter"
 
 [từ 2]//[nghĩa 2]
 ```
@@ -125,6 +126,6 @@ Deck có sẵn đoạn code bind phím tắt (đang xung đột, không khuyến
 
 ---
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/10Npjoei5Mu9u--kBGd_rkjMIgg98T971?usp=drive_link"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>

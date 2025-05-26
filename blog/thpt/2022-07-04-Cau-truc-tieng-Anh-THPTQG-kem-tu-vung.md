@@ -1,4 +1,4 @@
----
+﻿---
 title: Cấu trúc tiếng Anh (THPTQG) kèm từ vựng
 slug: Cau-truc-tieng-Anh-THPTQG-kem-tu-vung
 date: 2022-07-04
@@ -25,8 +25,8 @@ Chào cả nhà, hôm nay mình share các bạn thi THPTQG về chủ điểm c
 
 Tiện thể thì mình cũng share bộ từ vựng tiếng anh mà mình đã học trong 100 challenge 3 luôn nè (mọi người có thể tham khảo hoặc lấy mẫu thẻ nha).
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
-### [⏬ Cấu trúc tiếng anh THPTQG](https://drive.google.com/file/d/1BpR9JhiLlSDlsU4IISsZR9GMr-taOhWV/view?usp=sharing)
+### [⬇ Cấu trúc tiếng anh THPTQG](https://drive.google.com/file/d/1BpR9JhiLlSDlsU4IISsZR9GMr-taOhWV/view?usp=sharing)
 
-### [⏬ Từ vựng tiếng anh](https://drive.google.com/file/d/1BtHT-MiSOifwDaSNM5AZkky82_66FIfA/view?usp=sharing)
+### [⬇ Từ vựng tiếng anh](https://drive.google.com/file/d/1BtHT-MiSOifwDaSNM5AZkky82_66FIfA/view?usp=sharing)

@@ -1,0 +1,163 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 80vh;
+}
+
+.heroContent {
+  flex: 1;
+  max-width: 600px;
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+.highlight {
+  color: #3498db;
+  position: relative;
+}
+
+.highlight::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  background: #3498db;
+  opacity: 0.3;
+  border-radius: 4px;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: #34495e;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.heroStats {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.statItem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.statIcon {
+  font-size: 2rem;
+  color: #3498db;
+}
+
+.statContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.statNumber {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.statLabel {
+  font-size: 0.875rem;
+  color: #7f8c8d;
+}
+
+.heroButtons {
+  display: flex;
+  gap: 1rem;
+}
+
+.heroButton {
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.primaryButton {
+  background: #3498db;
+  color: white;
+}
+
+.primaryButton:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
+
+.secondaryButton {
+  background: white;
+  color: #3498db;
+  border: 2px solid #3498db;
+}
+
+.secondaryButton:hover {
+  background: #f8f9fa;
+  transform: translateY(-2px);
+}
+
+.heroImage {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heroImage img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@media (max-width: 996px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+
+  .heroContent {
+    margin-bottom: 2rem;
+  }
+
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+
+  .heroStats {
+    justify-content: center;
+  }
+
+  .heroButtons {
+    justify-content: center;
+  }
+} 

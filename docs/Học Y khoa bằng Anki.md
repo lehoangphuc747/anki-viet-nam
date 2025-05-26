@@ -4,6 +4,7 @@ slug: hoc-y-khoa-bang-anki
 date: 2022-07-17
 description: "Khám phá cách sử dụng Anki để học Y khoa hiệu quả! Hướng dẫn chi tiết về Spaced Repetition, Active Recall, và mẹo tối ưu hóa thẻ nhớ giúp bạn ghi nhớ kiến thức lâu dài."
 domain: ankivn.com
+sidebar_position: 3
 keywords:
   - ankivn
   - deck
@@ -14,7 +15,6 @@ tags:
   - deck
   - medical
   - docs
-sidebar_position: 1
 ---
 
 # Học Y khoa hiệu quả bằng Anki - Phương pháp ghi nhớ tối ưu cho sinh viên Y
@@ -23,9 +23,9 @@ sidebar_position: 1
 
 ## Nguồn: [Mai Xuân Sơn](https://www.facebook.com/xuansonydh)
 
-Hello mọi người, được sự động viên của anh [Truc Phan](https://www.facebook.com/drtrucphan).
+Hello mọi người, được sự động viên của anh [Truc Phan](https://www.facebook.com/drtrucphan).
 
-Em / mình / anh quyết định sẽ publish cuốn sách mà em tự viết, mục tiêu để các em sinh viên có thể biết thêm 1 phương pháp học mới và những tư duy trong Y khoa. Slogan là “**Make medicine easier, but not easy**“.
+Em / mình / anh quyết định sẽ publish cuốn sách mà em tự viết, mục tiêu để các em sinh viên có thể biết thêm 1 phương pháp học mới và những tư duy trong Y khoa. Slogan là "**Make medicine easier, but not easy**".
 
 Cuốn sách hoàn toàn miễn phí, mọi người hãy share nó thật rộng rãi nhé.
 
@@ -113,7 +113,7 @@ Anki là một phần mềm giúp ghi nhớ hiệu quả bằng phương pháp *
 #### 6.1. Trước kỳ thi 10 ngày
 - Tạm dừng thêm thẻ mới.
 
-#### 6.2. Dùng Add-on Postpone Card’s Review
+#### 6.2. Dùng Add-on Postpone Card's Review
 - Hoãn thẻ cũ để tập trung ôn tập.
 
 #### 6.3. Tạo Custom Study
@@ -131,6 +131,6 @@ Anki là một phần mềm giúp ghi nhớ hiệu quả bằng phương pháp *
 ➡️ **Có, nhưng cần chọn lọc kỹ** – Chỉ lấy thông tin quan trọng, không học máy móc.
 
 ### 🎯 Kết luận
-Anki là công cụ mạnh mẽ giúp sinh viên Y khoa học nhanh, nhớ lâu. Tuy nhiên, cần **soạn thẻ đúng cách, review đều đặn và kết hợp với các công cụ khác** để đạt hiệu quả tối đa.
+Anki là công cụ mạnh mẽ giúp sinh viên Y khoa học nhanh, nhớ lâu. Tuy nhiên, cần **soạn thẻ đúng cách, review đều đặn với các công cụ khác** để đạt hiệu quả tối đa.
 
 🚀 **Bắt đầu sử dụng Anki ngay hôm nay để tối ưu hóa việc học Y khoa!**

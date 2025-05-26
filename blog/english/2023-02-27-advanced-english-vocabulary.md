@@ -1,8 +1,9 @@
----
+﻿---
 title: "Advanced English Vocabulary"
 slug: "advanced-english-vocabulary"
 date: "2023-02-27"
 description: "Bộ thẻ Anki Advanced English Vocabulary bao gồm từ vựng, cụm động từ, thành ngữ, kèm định nghĩa, ngữ cảnh và hình ảnh chất lượng cao."
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -20,7 +21,7 @@ tags:
 
 ---
 
-## 📚 **Nội dung bộ thẻ**  
+## 📝 **Nội dung bộ thẻ**  
 
 - **Dành cho người học nâng cao hoặc trung cấp cao.**  
 - **Từ vựng, cụm động từ, thành ngữ** được tổng hợp từ nhiều nguồn:  
@@ -37,7 +38,7 @@ tags:
 
 ---
 
-## 📝 **Định dạng thẻ**  
+## 📑 **Định dạng thẻ**  
 
 1. **Forward:**  
    - **Mặt trước:** Hình ảnh và từ.  
@@ -51,20 +52,20 @@ tags:
 
 ---
 
-## 🛠️ **Hướng dẫn cài đặt bộ thẻ**  
+## ⚛️ **Hướng dẫn cài đặt bộ thẻ**  
 
 1. **Tải xuống bộ thẻ** từ liên kết bên dưới.  
 2. Mở phần mềm **Anki** và chọn **File → Import** để tải bộ thẻ.  
 3. Bắt đầu học với các chế độ phù hợp.  
-4. **PROFIT!** 🎓  
+4. **PROFIT!** 📈  
 
 ---
 
-## 🔗 **Tải xuống**
+## 📗 **Tải xuống**
 
 <div style={{ display: 'flex', justifyContent: 'left', gap: '20px' }}>
   <a href="https://ankiweb.net/shared/info/1980021227" target="_blank">
-    <button class="buttonPrimary" type="button">🚀 Tải từ AnkiWeb</button>
+    <button class="buttonPrimary" type="button">🤖 Tải từ AnkiWeb</button>
   </a>
 </div>
 

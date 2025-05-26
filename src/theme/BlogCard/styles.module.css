@@ -1,0 +1,164 @@
+/* Card Layout */
+.blogCard {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+}
+
+.blogCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Image Section - Phần hình ảnh */
+.blogCardImageWrapper {
+  position: relative;
+  width: 100%;
+  height: 340px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+}
+
+.blogCardImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.blogCardImageWrapper:hover .blogCardImage {
+  transform: translate(-50%, -50%) scale(1.05);
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .blogCardImageWrapper {
+  background-color: #2d2d2d;
+}
+
+/* Add a subtle border to separate image from background */
+.blogCardImage {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+[data-theme='dark'] .blogCardImage {
+  border-color: rgba(255, 255, 255, 0.1);
+  background-color: #2d2d2d;
+}
+
+/* Content Section */
+.blogCardContent {
+  /* 
+  Phần padding này định nghĩa khoảng cách đệm cho phần nội dung của thẻ blog:
+  - 1rem: padding phía trên
+  - 1rem: padding bên trái và phải  
+  - 0.75rem: padding phía dưới (đã giảm từ 1.25rem xuống 0.75rem)
+  */
+  padding: 1rem 1rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Title */
+.blogCardTitle {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin: 0 0 0.5rem;
+  /* color: #00334d; */
+  color: #db272a;
+  min-height: 3.1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.blogCardTitle a {
+  text-decoration: none;
+  /* color: #1a73e8; */
+  color: #db272a;
+}
+
+.blogCardTitle a:hover {
+  /* color: #1557b0; */
+  color: #b01e21; /* Darker shade of #db272a for hover */
+}
+
+/* Meta Section */
+.blogCardMeta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.875rem;
+}
+
+.blogCardDate,
+.blogCardReadingTime {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.blogCardDate svg,
+.blogCardReadingTime svg {
+  color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .blogCardDate svg,
+[data-theme='dark'] .blogCardReadingTime svg {
+  color: var(--ifm-color-primary-light);
+}
+
+/* Add separator between date and reading time */
+.blogCardReadingTime::before {
+  content: "•";
+  margin-right: 0.5rem;
+  color: var(--ifm-color-emphasis-500);
+}
+
+/* Category Tag */
+.categoryLabel {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: inline-block;
+  background-color: #db272a; /* #0088d1; */
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-weight: 500;
+}
+
+/* Description Truncation */
+.blogCardDescription {
+  font-size: 1rem;
+  color: #333;
+  margin-top: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Limit to 3 lines */
+  -webkit-box-orient: vertical;
+}

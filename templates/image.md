@@ -1,0 +1,1 @@
+image: http://ankivn.com/img/default-thumbnail.webp

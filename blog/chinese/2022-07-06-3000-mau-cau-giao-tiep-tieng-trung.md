@@ -3,6 +3,7 @@ title: 3000 mẫu câu giao tiếp tiếng Trung
 slug: 3000-mau-cau-giao-tiep-tieng-trung
 date: 2022-07-06
 description: Tổng hợp 3000 mẫu câu giao tiếp tiếng Trung, có thể học theo kiểu dịch xuôi hoặc dịch ngược.
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese

@@ -1,8 +1,9 @@
----
+﻿---
 title: "Outcomes Vocabulary Builder"
 slug: Outcomes-Vocabulary-Builder
 date: 2022-07-30
 description: ""
+category: Tiếng Anh
 domain: ankivn.com
 keywords:
   - ankivn
@@ -33,7 +34,7 @@ Nhìn chung so với các bộ thẻ mà group đang có (3000 từ thông dụn
 
 - Bao gồm cả phrasal verbs, collocations, word family chứ không chỉ học từ riêng lẻ
 
-- Số lương example cho từng từ cũng nhều hơn so với các bộ thẻ thông thường
+- Số lượng example cho từng từ cũng nhiều hơn so với các bộ thẻ thông thường
 
 - Audio, IPA cho từng từ
 
@@ -42,10 +43,10 @@ Dung lượng bộ thẻ nhỏ (15mb)
 
 ### Nhược điểm
 
-- Toàn tiếng Anh 🙂
+- Toàn tiếng Anh 😊
 
-## 🔗 Tải xuống
+## 📗 Tải xuống
 
-### [⏬ Giáo trình (Outcomes Second Edition)](http://frenglish.ru/outcomes.html)
+### [⬇ Giáo trình (Outcomes Second Edition)](http://frenglish.ru/outcomes.html)
 
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/1H2F9BmIT_fEhZl4pEBDjQZPhEeShT4wm/view?usp=sharing)
+### [⬇ Google Drive (ankivn)](https://drive.google.com/file/d/1H2F9BmIT_fEhZl4pEBDjQZPhEeShT4wm/view?usp=sharing)

@@ -1,8 +1,9 @@
----
+﻿---
 title: 200 câu giao tiếp thường dùng trong tiếng Anh
 slug: 200-common-english-conversation-phrases
 date: 2024-03-01
 description: Bộ flashcard 200 câu giao tiếp tiếng Anh thông dụng kèm ví dụ thực tế
+category: Tiếng Anh
 keywords:
   - ankivn
   - english
@@ -15,12 +16,12 @@ tags:
 
 <!--truncate-->
 
-## Nguồn: [Nguyễn Nhàn - Nhóm Anki Vocabulary](https://www.facebook.com/groups/ankivocabulary/posts/1577771252982526/)
+## Nguồn: [Nguyễn Nhân - Nhóm Anki Vocabulary](https://www.facebook.com/groups/ankivocabulary/posts/1577771252982526/)
 
 ## Nội dung
 
 Sưu tầm các câu giao tiếp thường dùng trong tiếng Anh.  
-Mình gửi các bạn Flashcard mình đã làm khoảng hơn 200 câu đó ạ!
+Mình gửi các bạn Flashcard mình đã làm khoảng hơn 200 câu đó á!
 
 ## Tải xuống
 

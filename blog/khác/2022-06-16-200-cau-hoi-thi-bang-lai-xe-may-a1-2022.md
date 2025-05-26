@@ -5,7 +5,7 @@ date: 2022-06-16
 description: Tổng hợp 200 câu hỏi lý thuyết ôn thi bằng lái xe máy hạng A1 năm 2022, bám sát nội dung sát hạch chính thức.
 tags:
   - deck
-  - khác
+  - khac
 ---
 
 <!--truncate-->
@@ -14,13 +14,13 @@ tags:
 
 ## Nội dung
 
-🏍️ **200 câu hỏi thi bằng lái xe máy A1 (2022)**  
+🎯 **200 câu hỏi thi bằng lái xe máy A1 (2022)**  
 Dành cho người ôn thi lý thuyết bằng lái xe hạng A1, theo bộ đề chuẩn của Bộ GTVT năm 2022.
 
-### 📘 Nội dung bao gồm:
+### 📚 Nội dung bao gồm:
 
-- 🚦 Biển báo, hiệu lệnh giao thông  
-- 📐 Quy tắc tham gia giao thông an toàn  
+- 🦮 Biển báo, hiệu lệnh giao thông  
+- 📝 Quy tắc tham gia giao thông an toàn  
 - 🧠 Tình huống thực tế & kỹ thuật lái xe  
 - 📋 Câu hỏi điểm liệt (được đánh dấu rõ ràng trong deck)
 

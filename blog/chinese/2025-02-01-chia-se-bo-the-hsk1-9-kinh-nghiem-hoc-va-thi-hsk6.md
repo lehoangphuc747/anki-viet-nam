@@ -3,6 +3,7 @@ title: Chia sẻ bộ thẻ HSK1–9 & hành trình học thi HSK6
 slug: chia-se-bo-the-hsk1-9-kinh-nghiem-hoc-va-thi-hsk6
 date: 2025-02-01
 description: Tổng hợp chia sẻ chi tiết về bộ thẻ HSK1–9 tự làm bằng Anki, kinh nghiệm học tiếng Trung, luyện thi HSK6 và các phương pháp học hiệu quả.
+category: 'Tiếng Trung'
 tags:
   - deck
   - chinese
@@ -15,7 +16,7 @@ tags:
 
 ---
 
-## 🧾 Nguồn: [Bảo Trân](https://www.facebook.com/share/1EwwtBRK1H/)
+## 📚 Nguồn: [Bảo Trân](https://www.facebook.com/share/1EwwtBRK1H/)
 
 ---
 
@@ -31,24 +32,24 @@ tags:
 
 ---
 
-## 🧠 Lưu ý khi sử dụng bộ thẻ HSK1–9
+## 📖 Lưu ý khi sử dụng bộ thẻ HSK1–9
 
-🔰 **Dành cho người mới bắt đầu:**
+📌 **Dành cho người mới bắt đầu:**
 
 - **Ưu tiên tải phiên bản mới nhất** nếu bạn lần đầu dùng.
 - **Không bắt buộc cập nhật** nếu đã học bản cũ, trừ khi có thay đổi lớn.
 
-📥 **Cách tải và cập nhật:**
+📌 **Cách tải và cập nhật:**
 
 - **Học tới đâu tải tới đó** – thẻ được cập nhật thường xuyên theo tiến độ học cá nhân.
 - Tên file `.apkg` có định dạng `YYMMDD` để bạn tiện theo dõi phiên bản mới nhất.
 
-📚 **Bộ thẻ bao gồm:**
+📌 **Bộ thẻ bao gồm:**
 
 - ✅ **12 bộ từ vựng HSK1–9**: mặt trước là từ tiếng Trung, mặt sau là nghĩa tiếng Việt + ví dụ + từ đồng nghĩa nếu có.
 - ✅ **3 bộ Hán tự** (Sơ – Trung – Cao cấp): mặt trước là gợi ý tiếng Việt + audio; mặt sau là nét viết + bộ thủ liên quan.
 
-🛠️ **Chỉnh sửa gần đây:**
+📝 **Chỉnh sửa gần đây:**
 
 - Cập nhật audio, chia nghĩa theo cấp độ, thêm từ đồng nghĩa tiếng Anh, sửa ví dụ.
 - Một số thay đổi lớn sẽ được ghi chú riêng.
@@ -64,15 +65,15 @@ tags:
 
 ---
 
-## 🧪 Quá trình học và thi HSK6
+## 📚 Quá trình học và thi HSK6
 
-🧭 Đây là **hành trình học và thi thật** của mình với HSK6. Hy vọng những chia sẻ dưới đây sẽ giúp bạn hình dung rõ hơn về quá trình ôn thi và sử dụng Anki hiệu quả.
+📚 Đây là **hành trình học và thi thật** của mình với HSK6. Hy vọng những chia sẻ dưới đây sẽ giúp bạn hình dung rõ hơn về quá trình ôn thi và sử dụng Anki hiệu quả.
 
 ### 1. Học
 
-Mình bắt đầu học tiếng Trung vào năm 2019. Có đăng ký 1 khoá ở trung tâm, nhưng chỉ học vài buổi rồi bỏ, vì mình thích tự học hơn.
+Mình bắt đầu học tiếng Trung vào năm 2019. Có đăng ký 1 khóa ở trung tâm, nhưng chỉ học vài buổi rồi bỏ, vì mình thích tự học hơn.
 
-**Học từ vựng:** Mình vừa học từ mới vừa tạo bộ thẻ Anki. Việc tự tạo cũng giúp mình nhớ lâu hơn. Ví dụ, 1 số giải nghĩa trong từ điển Trung - Việt online mà mình cảm thấy lấn cấn thì mình sẽ tìm kiếm thêm giải thích bằng tiếng Trung, tiếng Anh và tiếng Việt, nên nắm vững được ý nghĩa của từ hơn.
+**Học từ vựng:** Mình vừa học từ mới vừa tạo bộ thẻ Anki. Việc tự tạo cũng giúp mình nhớ lâu hơn. Ví dụ, 1 số giải nghĩa trong từ điển Trung - Việt online mà mình cảm thấy lẫn cấn thì mình sẽ tìm kiếm thêm giải thích bằng tiếng Trung, tiếng Anh và tiếng Việt, nên nắm vững được ý nghĩa của từ hơn.
 
 Việc học từ mới diễn ra không liên tục từ năm 2019 đến năm 2021, kiểu 3 tháng học thì 6 tháng nghỉ hoặc ngược lại.
 
@@ -82,7 +83,7 @@ Việc học từ mới diễn ra không liên tục từ năm 2019 đến năm 
 
 **
 
-Đến thời điểm đi thi thì mình đã học xong 06 bộ thẻ HSK1-6 và đang vừa học vừa tạo bộ thẻ HSK7-9, nên về mặt từ vựng thì có thể khẳng định là thừa để đi thi rồi.
+Đến thời điểm đi thi thì mình đã học xong 06 bộ thẻ HSK1-6 và đang vừa học vừa tạo bộ thẻ HSK7-9, nên về mặt từ vựng thì có thể khẳng định là thừa đủ để đi thi rồi.
 
 **Học ngữ pháp:** Bên cạnh các bộ thẻ từ vựng, mình cũng tạo thêm bộ thẻ dạng điền từ vào chỗ trống để học ngữ pháp.
 
@@ -114,10 +115,10 @@ Mình không sử dụng mẹo thi cử, vì mình không biết mẹo nào cả
 
 Mình cảm thấy việc trang bị một khối lượng từ mới đầy đủ, làm quen với các cấu trúc ngữ pháp tiếng Trung đã giúp mình không gặp quá nhiều khó khăn trong việc nghe hiểu và đọc hiểu đề.
 
-Một điểm nữa là mình học chuyên ngoại ngữ ở trường cấp 3 (việc thi cử ngoại ngữ thì đã bắt đầu tư cấp 2), nên mình cảm thấy qua thời gian, mình đã có nuôi dưỡng cái gọi là cảm nhận về ngôn ngữ (?!), đại loại là mình thấy đáp án này có vẻ đúng, nghe hay hay, còn vì sao đúng thì mình không biết, có thể là đã gặp ở đâu đó rồi mà mình không nhớ. Hiện tại mình đi thi dựa vào cảm nhận và tổ tiên mách bảo là chính.
+Một điểm nữa là mình học chuyên ngoại ngữ ở trường cấp 3 (việc thi cử ngoại ngữ thì đã bắt đầu từ cấp 2), nên mình cảm thấy qua thời gian, mình đã có nuôi dưỡng cái gọi là cảm nhận về ngôn ngữ (?!), đại loại là mình thấy đáp án này có vẻ đúng, nghe hay hay, còn vì sao đúng thì mình không biết, có thể là đã gặp ở đâu đó rồi mà mình không nhớ. Hiện tại mình đi thi dựa vào cảm nhận và tổ tiên mách bảo là chính.
 
 P/s: Vì mục tiêu trở thành polyglot.
-*(polyglot: người lĩnh hội thành thạo bốn ngôn ngữ trở lên (tính cả tiếng mẹ đẻ)*
+*(polyglot: người lĩnh hội thành thạo bốn ngôn ngữ trở lên (tính cả tiếng mẹ đẻ))*
 
 **P/s 2:** Trong quá trình ôn thi HSK6, mình có tổng hợp các tài liệu ôn tập 4 kỹ năng và tài liệu luyện đề. Nếu bạn nào cần thì cứ comment nhé, mình sẽ chia sẻ. Cũng toàn là tài liệu tổng hợp trên mạng cả thôi, không phải bí mật gì.**
 
@@ -140,7 +141,7 @@ P/s: Vì mục tiêu trở thành polyglot.
 
 ---
 
-## 🔗 Tải xuống
+## 🌟 Tải xuống
 
 <div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/drive/folders/1dfir8Ux8a6qxsOZ5gH1VGYUiuATHzBi2"> <button class="buttonPrimary" type="button">Google Drive (tác giả)</button> </a> </div>
 

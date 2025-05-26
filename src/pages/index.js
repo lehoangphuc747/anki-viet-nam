@@ -1,3 +1,4 @@
+import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -18,21 +19,24 @@ function HomepageHeader() {
         <p className="hero__subtitle">
           Cùng nhau học hỏi và chia sẻ kinh nghiệm sử dụng Anki
         </p>
-        <div className={styles.buttons}>
+        <div className={styles.buttons} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px', width: '100%' }}>
           {/* Nút đầu tiên */}
-          <Link className="button button--secondary button--lg" to="/docs/intro">
+          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/docs/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki">
             Hướng dẫn 
           </Link>
           {/* Nút thứ hai */}
-          <Link className="button button--secondary button--lg" to="/blog" style={{ marginLeft: '10px' }}>
+          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/blog">
             Bộ thẻ
+          </Link>
+          {/* Nút thứ ba */}
+          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/download">
+            Tải xuống
           </Link>
         </div>
       </div>
     </header>
   );
 }
-
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
