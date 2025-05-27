@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89116e243c63ce0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md"
-            }
-          },
-          {
             "id": "08b667127b04c75a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/medical/2023-11-15-kho-on-thi-bsnt-test-tai-lieu-anki-video.md",
+                "file": "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-11-15-kho-on-thi-bsnt-test-tai-lieu-anki-video"
+              "title": "2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki"
             }
           }
         ]
@@ -102,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 320.5
   },
   "right": {
     "id": "d9e292ba45a0cba4",
@@ -164,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md.md",
+                "file": "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md"
+              "title": "Outline of 2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki"
             }
           }
         ],
@@ -178,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,33 +177,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89116e243c63ce0e",
+  "active": "08b667127b04c75a",
   "lastOpenFiles": [
-    "static/images/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md-1747493655241.webp",
-    "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md.md",
+    "build/images/zk9p4gd.gif",
+    "build/images/x4DQ1ms.gif",
+    "build/images/use_as_template.png",
+    "build/images/Untitled.png",
+    "build/images/Untitled-1746969632420.webp",
+    "build/images/Untitled-1746969606860.webp",
+    "build/images/Untitled-1746969598039.webp",
+    "build/images/Untitled-1745239208898.webp",
+    "build/images/Untitled-1745239192637.webp",
+    "build/images/Untitled-1745239045322.webp",
+    "build/images/Untitled-1745238896116.webp",
+    "build/images/Screen-Recording .mov",
+    "build/images/Hướng-dẫn.mp4",
+    "build/images/Gioithieu_Huongdan_v005.pdf",
+    "build/images/Demo.mp4",
+    "build/images/Demo-1.mp4",
+    "build/images/active-recall-srs.wav",
+    "build/images",
+    "build/sitemap.xml",
+    "build/opensearch.xml",
+    "build/docs/II. HƯỚNG DẪN NÂNG CAO/huong-dan-su-dung-llm-dictionary-tao-the-anki.html",
+    "docs/I. KIẾN THỨC CƠ BẢN/2025-05-11-huong-dan-nhap-file-tu-vung-csv-txt-vao-anki-tren-dien-thoai.md",
+    "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md",
+    "docs/II. HƯỚNG DẪN NÂNG CAO/README.md",
+    "docs/II. HƯỚNG DẪN NÂNG CAO/Học Y khoa bằng Anki.md",
+    "docs/I. KIẾN THỨC CƠ BẢN/README.md",
+    "docs/intro.md",
+    "docs/chat_gpt_prompt.md",
+    "docs/I. KIẾN THỨC CƠ BẢN/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki.md",
+    "docs/I. KIẾN THỨC CƠ BẢN/index.md",
     "blog/medical/2023-11-15-kho-on-thi-bsnt-test-tai-lieu-anki-video.md",
+    "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md.md",
     "blog/medical/2023-11-15-bi-kip-dau-bsnt-yhn-vinuni.md",
     "blog/2023-11-15-minh-da-on-thi-noi-tru-nhu-the-nao.md",
     "blog/english/2024-05-20-tao-bo-the-grammar-in-use-tich-hop-ai.md",
-    "blog/addons",
-    "build/blog/feed.json",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/tu-vung-tieng-anh-co-ban.html",
-    "build/blog/tu-vung-n5-n1-co-chu-de-hinh-anh-dao-nguoc.html",
-    "build/blog/tu-cung-truong-nghia-co-trang-anh.html",
-    "build/blog/triet-hoc-dai-cuong.html",
-    "build/blog/Tieng-Anh-THPT-nang-cap.html",
-    "build/blog/Tieng-Anh-THPT.html",
-    "build/img/zalo-icon.svg",
-    "build/img/vietnam.jpg",
-    "build/img/vietnam-logo.png",
-    "build/img/vietnam.jpeg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/tieng-han-phuc-lee.jpg",
-    "build/img/resources.svg",
     "blog/english/2025-05-11-bo-the-giao-tiep-anki.md",
     "blog/khác/2024-07-26-bo-the-anki-dai-cuong.md",
     "blog/medical/2023-11-15-review-test-tai-lieu-on-thi-bsnt-anki.md",
@@ -225,17 +222,8 @@
     "blog/japanese/2025-05-15-mimikara-n2-goi-5489.md",
     "blog/template/2025-04-27-template-tu-vung-anki-glassmorphism.md",
     "blog/template/2024-11-17-memrise-card-template-cho-anki.md",
-    "docs/2025-05-11-huong-dan-nhap-file-tu-vung-csv-txt-vao-anki-tren-dien-thoai.md",
     "Untitled.md",
     "blog/khác/2022-06-16-200-cau-hoi-thi-bang-lai-xe-may-a1-2022.md",
-    "blog/khác/2022-06-30-600-cau-ly-thuyet-thi-bang-lai-b2-c-d.md",
-    "blog/khác/2025-05-11-phong-van-visa-my-anki.md",
-    "blog/khác/2025-03-30-bo-deck-anki-5000-tu-tieng-nga-thong-dung.md",
-    "blog/chinese/2025-03-21-bo-the-hsk1-6-am-thanh-hinh-anh-nghia-viet.md",
-    "blog/chinese/2025-02-01-chia-se-bo-the-hsk1-9-kinh-nghiem-hoc-va-thi-hsk6.md",
-    "blog/english/2024-11-02-longman-communication-3000.md",
-    "blog/english/2023-10-03-cau-truc-tieng-anh-danh-cho-thptqg-giao-dien-moi-tong-on-ngu-phap-co-trang-anh.md",
-    "blog/english/2024-06-01-ets-toeic-2016.md",
-    "blog/english/2023-10-12-english-grammar-in-use-activities.md"
+    "blog/khác/2022-06-30-600-cau-ly-thuyet-thi-bang-lai-b2-c-d.md"
   ]
 }

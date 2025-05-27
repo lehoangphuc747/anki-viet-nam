@@ -1,5 +1,5 @@
 ---
-title: Tạo thẻ Anki với AI - LLM Dictionary
+title: Tạo thẻ Anki với AI (LLM Dictionary)
 slug: huong-dan-su-dung-llm-dictionary-tao-the-anki
 date: 2024-07-22
 description: Cách sử dụng LLM Dictionary để tra cứu từ vựng, nhập Anki, dịch văn bản, chuyển giọng nói và kiểm tra phát âm nhanh chóng.

@@ -34,6 +34,12 @@
   --blog-item-background-color: #ffffff;
   --blog-item-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
   --ifm-toc-border-color: #e0e0e0;
+  --ifm-h1-font-size: 2.5rem !important;
+  --ifm-h2-font-size: 2rem !important;
+  --ifm-h3-font-size: 1.5rem !important;
+  --ifm-h4-font-size: 1.2rem !important;
+  --ifm-h5-font-size: 1.05rem !important;
+  --ifm-h6-font-size: 1rem !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -1168,3 +1174,69 @@ kbd {
     width: 200px;
   }
 }
+
+/* Line clamp utility for multi-line text truncation */
+@layer utilities {
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Additional blog page styling */
+.blog-header {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+/* cái thằng cha này gây lỗi
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*/
+
+/* Đặt các rule custom heading ở đây, SAU các import Tailwind */
+:root {
+  --ifm-h1-font-size: 2.5rem !important;
+  --ifm-h2-font-size: 2rem !important;
+  --ifm-h3-font-size: 1.5rem !important;
+  --ifm-h4-font-size: 1.2rem !important;
+  --ifm-h5-font-size: 1.05rem !important;
+  --ifm-h6-font-size: 1rem !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit !important;
+  font-weight: 700 !important;
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+  line-height: 1.2 !important;
+  color: #1a1a1a !important;
+}
+h1 { font-size: var(--ifm-h1-font-size) !important; }
+h2 { font-size: var(--ifm-h2-font-size) !important; }
+h3 { font-size: var(--ifm-h3-font-size) !important; }
+h4 { font-size: var(--ifm-h4-font-size) !important; }
+h5 { font-size: var(--ifm-h5-font-size) !important; }
+h6 { font-size: var(--ifm-h6-font-size) !important; }

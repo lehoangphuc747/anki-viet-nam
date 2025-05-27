@@ -1,5 +1,5 @@
 ---
-title: Hướng Dẫn Nhập File Từ Vựng CSV/TXT Vào Anki Trên Điện Thoại
+title: Nhập CSV/TXT trên điện thoại
 slug: huong-dan-nhap-file-tu-vung-csv-txt-vao-anki-tren-dien-thoai
 date: 2025-05-11
 description: Hướng dẫn chi tiết cách nhập file từ vựng CSV hoặc TXT vào Anki trên điện thoại mà không cần máy tính, chỉ với vài bước đơn giản.

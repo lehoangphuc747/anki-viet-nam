@@ -334,4 +334,209 @@
   color: var(--ifm-color-emphasis-600);
 }
 
+.main {
+  min-height: 100vh;
+  background-color: #f9fafb;
+  padding: 2rem 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #1f2937;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  color: #4b5563;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.filterContainer {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin-bottom: 3rem;
+}
+
+.clearFilterContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.clearFilterBtn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  transition: all 0.2s;
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
+.clearFilterBtn.active {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.clearFilterBtn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.clearFilterIcon {
+  font-size: 0.75rem;
+}
+
+.tabContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.tabButton {
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s;
+  white-space: nowrap;
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
+.tabButton.active {
+  background-color: #ef4444;
+  color: white;
+  box-shadow: 0 4px 6px -1px rgba(239, 68, 68, 0.3);
+}
+
+.tabButton:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.subCategoryContainer {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.subCategoryLink {
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s;
+  white-space: nowrap;
+  background-color: #e5e7eb;
+  color: #374151;
+  font-size: 1rem;
+}
+
+.subCategoryLink.active {
+  background-color: #ef4444;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 4px 6px -1px rgba(239, 68, 68, 0.3);
+}
+
+.subCategoryLink:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.postGrid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .postGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .postGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.noResults {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.noResults p {
+  color: #6b7280;
+  font-size: 1.125rem;
+}
+
+/* Tag styles */
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tag-english { background-color: #dbeafe; color: #1e40af; }
+.tag-japanese { background-color: #fef3c7; color: #92400e; }
+.tag-chinese { background-color: #fee2e2; color: #991b1b; }
+.tag-korean { background-color: #f3e8ff; color: #6b21a8; }
+.tag-france { background-color: #dcfce7; color: #166534; }
+.tag-germany { background-color: #fae8ff; color: #86198f; }
+.tag-russian { background-color: #e0f2fe; color: #0369a1; }
+.tag-thcs { background-color: #fef9c3; color: #854d0e; }
+.tag-thpt { background-color: #fef3c7; color: #92400e; }
+.tag-university { background-color: #dcfce7; color: #166534; }
+.tag-medical { background-color: #fee2e2; color: #991b1b; }
+.tag-cntt { background-color: #dbeafe; color: #1e40af; }
+.tag-kinh-te { background-color: #f3e8ff; color: #6b21a8; }
+.tag-template { background-color: #fae8ff; color: #86198f; }
+.tag-addons { background-color: #e0f2fe; color: #0369a1; }
+.tag-khac { background-color: #f3f4f6; color: #374151; }
+.tag-hoc-tap { background-color: #fef3c7; color: #92400e; }
+.tag-anki { background-color: #dbeafe; color: #1e40af; }
+.tag-deck { background-color: #fee2e2; color: #991b1b; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
   

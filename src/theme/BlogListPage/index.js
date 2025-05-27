@@ -1,87 +1,166 @@
 import React, { useState } from 'react';
 import Layout from '@theme/Layout';
-import BlogCard from '@theme/BlogCard';
+import { BlogCard } from '@theme/BlogPostItem';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTimes } from '@fortawesome/free-solid-svg-icons';
 import styles from './styles.module.css';
 
 const DEFAULT_THUMBNAIL = '/img/default-thumbnail.webp';
 
-function BlogListPage({ items }) {
-  const [activeCategory, setActiveCategory] = useState('Tất cả');
-  const categoryMap = {
-    'Tất cả': 'all',
-    'Tiếng Anh': 'english', 
-    'Tiếng Nhật': 'japanese',
-    'Tiếng Trung': 'chinese',
-    'Tiếng Hàn': 'korean',
-    'Y Dược': 'medical',
-    'THPT': 'thpt',
-    'THCS': 'thcs',
-    'Mẫu thẻ': 'template',
-    'Khác': 'khac'
+  // Category mapping and subcategories
+const categories = {
+  'Tất cả': { id: 'tab-all', subCategories: [] },
+    'Ngoại ngữ': { 
+    id: 'tab-ngoai-ngu',
+    subCategories: [
+      { label: 'Tiếng Anh', tag: 'english' },
+      { label: 'Tiếng Nhật', tag: 'japanese' },
+      { label: 'Tiếng Trung', tag: 'chinese' },
+      { label: 'Tiếng Hàn', tag: 'korean' },
+      { label: 'Tiếng Pháp', tag: 'france' },
+      { label: 'Tiếng Đức', tag: 'germany' },
+      { label: 'Tiếng Nga', tag: 'russian' }
+    ]
+    },
+    'Giáo dục': { 
+    id: 'tab-giao-duc',
+    subCategories: [
+      { label: 'THCS', tag: 'thcs' },
+      { label: 'THPT', tag: 'thpt' },
+      { label: 'Đại học', tag: 'university' }
+    ]
+    },
+    'Chuyên ngành': { 
+    id: 'tab-chuyen-nganh',
+    subCategories: [
+      { label: 'Y Dược', tag: 'medical' },
+      { label: 'Công nghệ thông tin', tag: 'cntt' },
+      { label: 'Kinh tế', tag: 'kinh-te' }
+    ]
+    },
+    'Mẫu thẻ': { 
+      id: 'tab-mau-the',
+      subCategories: [],
+      tag: 'template'
+    },
+    'Add-ons': {
+      id: 'tab-addons',
+      subCategories: [],
+      tag: 'addons'
+    },
+    'Khác': {
+      id: 'tab-khac',
+      subCategories: [],
+      tag: 'khac'
+    }
   };
 
-  // Filtered items based on category
-  const filteredItems = items.filter(({ content: { frontMatter } }) => {
-    if (activeCategory === 'Tất cả') return true;
+function BlogListPage({ items }) {
+  const [activeTab, setActiveTab] = useState('Tất cả');
+  const [activeSubCategory, setActiveSubCategory] = useState(null);
 
-    const itemCategory = frontMatter.category || 'Chưa phân loại';
-    const itemTags = (frontMatter.tags || []).map(tag => tag.toLowerCase());
-    
-    return itemCategory === activeCategory || 
-           itemTags.includes(categoryMap[activeCategory]?.toLowerCase());
-  });
+  const handleTabClick = (tab) => {
+    setActiveTab(tab);
+    setActiveSubCategory(null);
+  };
+
+  const handleSubCategoryClick = (subCategory) => {
+    setActiveSubCategory(subCategory);
+  };
+
+  const handleClearFilter = () => {
+    setActiveTab('Tất cả');
+    setActiveSubCategory(null);
+  };
+
+  // Filter logic
+  const getFilteredItems = () => {
+    if (activeTab === 'Tất cả') {
+      return items; // Show all items for "Tất cả" tab
+    }
+
+    return items.filter(({ content: { frontMatter } }) => {
+      const category = frontMatter.category || '';
+      const tags = (frontMatter.tags || []).map(tag => tag.toLowerCase());
+      
+      // If a subcategory is selected, filter by it
+      if (activeSubCategory) {
+        return category === activeSubCategory.label || 
+               tags.includes(activeSubCategory.tag);
+      }
+      
+      // Otherwise filter by main tab
+      const categoryConfig = categories[activeTab];
+      if (!categoryConfig) return false;
+
+      return categoryConfig.subCategories.some(sub => 
+        category === sub.label || tags.includes(sub.tag)
+      );
+    });
+  };
+
+  const filteredItems = getFilteredItems();
 
   return (
     <Layout title="Tất cả bộ thẻ" description="Các bộ thẻ Anki được chia sẻ bởi cộng đồng">
-      {/* Simple Header */}
-      <header className="blog-header">
-        <h1>Chào mừng bạn đến với Anki Việt Nam</h1>
-        <p>Dưới đây là các bộ thẻ đã chia sẻ của cộng đồng!</p>
-      </header>
+      <div className={styles.main}>
+        <h1 className={styles.title}>
+            Chào mừng bạn đến với Anki Việt Nam 👋
+          </h1>
+        <p className={styles.subtitle}>
+            Dưới đây là các bộ thẻ đã chia sẻ của cộng đồng!
+          </p>
 
-      {/* Category Filter */}
-      <div className={styles.filterBar}>
-        <div className={styles.filterGroup}>
-          <h4 className={styles.filterTitle}>DANH MỤC</h4>
-          <div className={styles.categoryGroups}>
-            {Object.keys(categoryMap).map((category) => (
+        <div className={styles.filterContainer}>
+          <div className={styles.clearFilterContainer}>
+            <button
+              onClick={handleClearFilter}
+              className={`${styles.clearFilterBtn} ${activeTab !== 'Tất cả' ? styles.active : ''}`}>
+              <FontAwesomeIcon icon={faTimes} className={styles.clearFilterIcon} />
+              <span>Xóa bộ lọc</span>
+            </button>
+          </div>
+
+          <div className={styles.tabContainer}>
+            {Object.keys(categories).map((category) => (
               <button
                 key={category}
-                className={`${styles.filterButton} ${activeCategory === category ? styles.activeButton : ''}`}
-                onClick={() => setActiveCategory(category)}
-              >
+                className={`${styles.tabButton} ${activeTab === category ? styles.active : ''}`}
+                onClick={() => handleTabClick(category)}>
                 {category}
               </button>
             ))}
+            </div>
+
+          {categories[activeTab].subCategories.length > 0 && (
+            <div className={styles.subCategoryContainer}>
+              {categories[activeTab].subCategories.map((subCategory) => (
+                <button
+                  key={subCategory.tag}
+                  className={`${styles.subCategoryLink} ${activeSubCategory?.tag === subCategory.tag ? styles.active : ''}`}
+                  onClick={() => handleSubCategoryClick(subCategory)}>
+                  {subCategory.label}
+                </button>
+              ))}
+              </div>
+            )}
           </div>
-        </div>
-      </div>
 
-      {/* Blog Grid */}
-      <div className={styles.blogGrid}>
-        {filteredItems.map((item, index) => (
-          <BlogCard 
-            key={index}
-            title={item.content.metadata.title}
-            description={item.content.frontMatter.description || ''}
-            image={item.content.frontMatter.image || DEFAULT_THUMBNAIL}
-            date={new Date(item.content.metadata.date).toLocaleDateString('vi-VN')}
-            category={item.content.frontMatter.category || (item.content.frontMatter.tags && item.content.frontMatter.tags[0]) || 'Chưa phân loại'}
-            link={item.content.metadata.permalink}
-            readingTime={item.content.metadata.readingTime}
-          />
-        ))}
-      </div>
+        <div className={styles.postGrid}>
+            {filteredItems.map((item, index) => (
+              <BlogCard 
+                key={index}
+                item={item}
+                defaultThumbnail={DEFAULT_THUMBNAIL}
+              />
+            ))}
+          </div>
 
-      {/* Pagination */}
-      <div className={styles.pagination}>
-        <div className={styles.paginationLinks}>
-          <span className={`${styles.pageLink} ${styles.activePage}`}>1</span>
-          <span className={styles.pageLink}>2</span>
-          <span className={styles.ellipsis}>...</span>
-          <span className={styles.pageLink}>17</span>
-          <span className={styles.pageLink}>›</span>
-        </div>
+          {filteredItems.length === 0 && (
+          <div className={styles.noResults}>
+            <p>Không tìm thấy bài viết nào phù hợp với bộ lọc hiện tại.</p>
+            </div>
+          )}
       </div>
     </Layout>
   );

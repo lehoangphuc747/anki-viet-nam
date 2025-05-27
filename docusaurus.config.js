@@ -50,12 +50,9 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-
   plugins: [
     require.resolve('docusaurus-plugin-image-zoom'),
   ],
-  
-  
   
   presets: [
     [
@@ -63,16 +60,18 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          editUrl: undefined,
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
             defaultReadingTime({content, options: {wordsPerMinute: 300}}),
-          editUrl: undefined,
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -113,6 +112,19 @@ const config = {
       src: '/js/gtag-init.js',
       async: true,
     },
+    {
+      src: 'https://cdn.tailwindcss.com',
+      async: true,
+    },
+    {
+      src: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js',
+      async: true,
+    },
+  ],
+  
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap',
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css',
   ],
   
   themeConfig:
@@ -140,15 +152,13 @@ const config = {
         placeholder: 'Tìm kiếm...',
         insights: true, // Enable insights
         debug: false,
-        // ❌ Xóa dòng này nếu bạn không có trang search tùy chỉnh
-        // searchPagePath: 'search',
       },
       
       zoom: {
-        selector: '.markdown :not(em) > img', // Áp dụng zoom cho ảnh Markdown
+        selector: '.markdown :not(em) > img',
         background: {
-          light: 'rgb(255, 255, 255)', // nền trắng khi zoom (light mode)
-          dark: 'rgb(50, 50, 50)',     // nền xám khi zoom (dark mode)
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)',
         },
         config: {
           margin: 24,
@@ -157,7 +167,7 @@ const config = {
       },
 
       mermaid: {
-        theme: {light: 'neutral', dark: 'forest'}, // Các them khác xem tại đây: https://mermaid.js.org/config/theming.html
+        theme: {light: 'neutral', dark: 'forest'},
       },
       metadata: [
         { name: 'og:title', content: 'Anki Việt Nam - Cộng đồng Anki Việt Nam' },
@@ -172,7 +182,6 @@ const config = {
         { name: 'algolia-site-verification', content: '7592C146168708CB' },
       ],
 
-      // Cho phép thu gọn/mở rộng Sidebar trong giao diện tài liệu: https://docusaurus.io/docs/sidebar#auto-collapse-sidebar-categories
       docs: {
         sidebar: {
           hideable: true,
@@ -184,7 +193,7 @@ const config = {
         title: 'Anki Việt Nam',
         logo: {
           alt: 'Anki Việt Nam Logo',
-          src: 'img/vietnam-logo.ico', // Ensure this path is correct and the file exists
+          src: 'img/vietnam-logo.ico',
         },
         items: [
           { to: '/phuc-lee', label: 'Về tui', position: 'left' },

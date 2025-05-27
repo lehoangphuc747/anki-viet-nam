@@ -26,10 +26,12 @@ import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
 <YouTubeEmbed videoId="SGtCKYjrc44" />
 
+<br /> 
+
 **Còn ai đủ kiên nhẫn, có não và biết chữ**  
 thì mời kéo xuống đọc bài viết đã được tui vặt sạch mấy chỗ lan man và nhồi thêm tí chất xám vào rồi nè.
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746861389117.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358722352.webp)
 
 ---
 
@@ -52,7 +54,7 @@ Học không nhất thiết phải khổ, nhưng nó cũng không phải một t
 
 Let’s go, học như một thằng khôn lần đầu tiên trong đời.
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746858559102.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358702013.webp)
 
 ---
 
@@ -70,7 +72,9 @@ Nó đơn giản là: **thay vì nhồi nhét kiến thức vào đầu, bạn b
 
 Cái mẹo là ở đây: *khi bạn ép não tự nhớ lại, nó thực sự bắt đầu ghi nhớ sâu hơn*. Còn nếu bạn cứ đọc đi đọc lại như cái máy in lỗi font thì... xin lỗi, bạn đang tự lừa mình đấy.
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746859081163.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358737806.webp)
+
+---
 
 ### 2. Tại Sao Cái Này Hiệu Quả?
 
@@ -107,19 +111,17 @@ Có cả đống cách để đưa Gợi nhớ Chủ động vào đời sống 
 
 ## III. Lặp Lại Ngắt Quãng: Cách Để Không Quên M* Nó Mọi Thứ Sau Một Tuần
 
-
-
 ### 1. Não Bạn Quên Nhanh Hơn Bạn Nghĩ
 
 Tin buồn: **bộ não bạn là một cỗ máy lãng quên**. Một ông triết gia người Đức tên Ebbinghaus (nghe như tên boss cuối trong game) đã phát hiện ra cái gọi là **"đường cong lãng quên"** – kiểu như biểu đồ cho thấy bạn sẽ quên sạch 80% những gì vừa học sau vài ngày nếu không ôn lại.
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746858482399.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358752409.webp)
 
 Và không, đó không phải do bạn ngu. Đó là do não bạn được lập trình để quên những thứ nó nghĩ là không quan trọng. Nhưng bạn có thể **đánh lừa nó**. Đó là lúc **Lặp lại Ngắt quãng (Spaced Repetition)** bước vào sàn diễn.
 
 ### 2. SRS – Cách Dạy Não Bạn Ghi Nhớ Như Một Con Quái Vật
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746859296945.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358762297.webp)
 
 SRS là viết tắt của “Spaced Repetition System”, dịch nôm na là: **ôn lại đúng lúc trước khi quên**.
 
@@ -142,7 +144,8 @@ SRS khác hoàn toàn với việc học dồn. Bạn biết cái kiểu thức 
 
 **Một ví dụ đơn giản:** học xong 1 bài → ôn lại sau 2 ngày → rồi 3 ngày → rồi 5 → rồi 7... Cái này gọi là “phương pháp 2357”. Càng nhớ tốt, bạn càng cần ôn ít. Hợp lý không? Quá hợp lý.
 
-![](../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1746859542092.webp)
+![](../../static/images/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki-1748358773828.webp)
+
 
 ### 4. Cặp Bài Trùng: Gợi Nhớ Chủ Động + SRS = Não Bạn Nâng Cấp Full Power
 
@@ -605,7 +608,7 @@ Nó là bước tiến từ “một công thức cho tất cả” sang “họ
    Bạn không chỉ nhớ kiến thức – bạn đang nâng cấp chính cách mình tiếp thu mọi thứ trong đời.
 
 ---
-
+http://localhost:3000/
 > “Không ai giỏi lên sau một đêm. Nhưng ai cũng có thể tiến bộ một ngày nếu chịu quay lại.”
 
 Chúc bạn học vui, học sâu, và đừng bao giờ nói “não cá vàng” nữa — trừ khi bạn thích cá thật.

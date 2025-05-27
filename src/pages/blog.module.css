@@ -1,0 +1,309 @@
+.main {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+  padding: 2rem 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #1f2937;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  color: #4b5563;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.filterContainer {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin-bottom: 3rem;
+}
+
+.clearFilterContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.clearFilterBtn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  transition: all 0.3s ease;
+  background-color: #e5e7eb;
+  color: #4b5563;
+}
+
+.clearFilterBtn.active {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.clearFilterBtn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tabContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.tabButton {
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  background-color: #e5e7eb;
+  color: #4b5563;
+}
+
+.tabButton.active {
+  background-color: #ef4444;
+  color: white;
+  box-shadow: 0 4px 6px rgba(239, 68, 68, 0.3);
+}
+
+.tabButton:not(.active):hover {
+  background-color: #d1d5db;
+}
+
+.subCategoryContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.subCategoryLink {
+  display: block;
+  padding: 0.375rem 0.75rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  color: #4b5563;
+  background-color: #f3f4f6;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  white-space: nowrap;
+  font-size: 1rem;
+}
+
+.subCategoryLink:hover {
+  background-color: #d1d5db;
+  color: #ef4444;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.subCategoryLink.active {
+  font-weight: 600;
+  color: white;
+  background-color: #ef4444;
+  box-shadow: 0 4px 6px rgba(239, 68, 68, 0.3);
+}
+
+.postGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.postCard {
+  background-color: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease;
+}
+
+.postCard:hover {
+  transform: scale(1.05);
+}
+
+.postImageContainer {
+  position: relative;
+  width: 100%;
+  height: 12rem;
+  overflow: hidden;
+}
+
+.postImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.postTag {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Tag styles based on tags.yml */
+.tag-english {
+  background-color: #3b82f6;
+}
+
+.tag-japanese {
+  background-color: #ef4444;
+}
+
+.tag-chinese {
+  background-color: #f59e0b;
+}
+
+.tag-korean {
+  background-color: #8b5cf6;
+}
+
+.tag-france {
+  background-color: #ec4899;
+}
+
+.tag-germany {
+  background-color: #10b981;
+}
+
+.tag-russian {
+  background-color: #6366f1;
+}
+
+.tag-thcs {
+  background-color: #14b8a6;
+}
+
+.tag-thpt {
+  background-color: #0ea5e9;
+}
+
+.tag-university {
+  background-color: #f97316;
+}
+
+.tag-medical {
+  background-color: #ef4444;
+}
+
+.tag-cntt {
+  background-color: #3b82f6;
+}
+
+.tag-kinh-te {
+  background-color: #10b981;
+}
+
+.tag-template {
+  background-color: #8b5cf6;
+}
+
+.tag-addons {
+  background-color: #ec4899;
+}
+
+.tag-khac {
+  background-color: #6b7280;
+}
+
+.tag-hoc-tap {
+  background-color: #f59e0b;
+}
+
+.tag-anki {
+  background-color: #ef4444;
+}
+
+.postContent {
+  padding: 1.5rem;
+}
+
+.postTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+}
+
+.postDescription {
+  color: #4b5563;
+  font-size: 0.875rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 1rem;
+}
+
+.readMore {
+  color: #3b82f6;
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+
+.readMore:hover {
+  text-decoration: underline;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .postGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .tabContainer {
+    gap: 0.5rem;
+  }
+
+  .tabButton {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+} 
