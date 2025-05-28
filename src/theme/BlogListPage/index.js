@@ -76,24 +76,31 @@ function BlogListPage({ items }) {
   // Filter logic
   const getFilteredItems = () => {
     if (activeTab === 'Tất cả') {
-      return items; // Show all items for "Tất cả" tab
+      return items;
     }
 
+    const categoryConfig = categories[activeTab];
+    if (categoryConfig && categoryConfig.tag) {
+      // Nếu là tab đặc biệt (Mẫu thẻ, Add-ons, Khác) thì filter theo tag
+      return items.filter(({ content: { frontMatter } }) => {
+        const tags = (frontMatter.tags || []).map(tag => tag.toLowerCase());
+        return tags.includes(categoryConfig.tag);
+      });
+    }
+
+    // Các tab còn lại (có subCategories)
     return items.filter(({ content: { frontMatter } }) => {
       const category = frontMatter.category || '';
       const tags = (frontMatter.tags || []).map(tag => tag.toLowerCase());
-      
-      // If a subcategory is selected, filter by it
+
       if (activeSubCategory) {
-        return category === activeSubCategory.label || 
-               tags.includes(activeSubCategory.tag);
+        return category === activeSubCategory.label ||
+          tags.includes(activeSubCategory.tag);
       }
-      
-      // Otherwise filter by main tab
-      const categoryConfig = categories[activeTab];
+
       if (!categoryConfig) return false;
 
-      return categoryConfig.subCategories.some(sub => 
+      return categoryConfig.subCategories.some(sub =>
         category === sub.label || tags.includes(sub.tag)
       );
     });

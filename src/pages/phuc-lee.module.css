@@ -1,0 +1,242 @@
+      /* --- Biến màu và cài đặt chung --- */
+      :root {
+        --font-family-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        
+        /* Light Mode */
+        --bg-color: #f8f9fa;
+        --text-color: #212529;
+        --card-bg-color: #ffffff;
+        --primary-color: #c53030; /* Anki Red */
+        --link-color: #b32828;
+        --border-color: #dee2e6;
+        --header-bg: #c53030;
+        --header-text: #ffffff;
+        --section-title-color: #c53030;
+        --blockquote-bg: #f1f3f5;
+        --blockquote-border: #ced4da;
+        --button-bg: #c53030;
+        --button-text: #ffffff;
+        --button-hover-bg: #a12626;
+    }
+
+    body.dark-mode {
+        /* Dark Mode */
+        --bg-color: #1a1a1a;
+        --text-color: #e9ecef;
+        --card-bg-color: #2c2c2c;
+        --primary-color: #f56565; /* Lighter Anki Red for dark mode */
+        --link-color: #ff7b7b;
+        --border-color: #495057;
+        --header-bg: #222222;
+        --header-text: #e9ecef;
+        --section-title-color: #f56565;
+        --blockquote-bg: #343a40;
+        --blockquote-border: #495057;
+        --button-bg: #f56565;
+        --button-text: #1a1a1a;
+        --button-hover-bg: #e05252;
+    }
+
+    body {
+        font-family: var(--font-family-sans);
+        margin: 0;
+        padding: 0;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        line-height: 1.6;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .header {
+        background-color: var(--header-bg);
+        color: var(--header-text);
+        padding: 2rem 0;
+        text-align: center;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        margin-bottom: 2rem;
+    }
+
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+    .header p {
+        font-size: 1.2rem;
+        margin-top: 0.5rem;
+        opacity: 0.9;
+    }
+
+    .profileImageContainer {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .profileImage {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid var(--card-bg-color);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        object-fit: cover;
+    }
+    
+    body.dark-mode .profileImage {
+         border: 5px solid var(--bg-color); /* Ensure contrast for image border in dark mode */
+    }
+
+
+    .card {
+        background-color: var(--card-bg-color);
+        padding: 25px;
+        margin-bottom: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+        border: 1px solid var(--border-color);
+        transition: background-color 0.3s, border-color 0.3s;
+    }
+
+    .card h2 {
+        font-size: 1.8rem;
+        color: var(--section-title-color);
+        margin-top: 0;
+        margin-bottom: 1.5rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid var(--primary-color);
+        display: inline-block;
+    }
+
+    .card h3 {
+        font-size: 1.3rem;
+        color: var(--text-color);
+        margin-top: 1.5rem;
+        margin-bottom: 0.75rem;
+        font-weight: 600;
+    }
+    
+    .card p, .card li {
+        font-size: 1rem;
+        color: var(--text-color);
+        margin-bottom: 0.75rem;
+    }
+
+    .card ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    .card ul li {
+        padding-left: 1.5em;
+        position: relative;
+        margin-bottom: 0.5rem;
+    }
+
+    .card ul li::before {
+        content: "❖"; /* Hoặc "✓", "•", "➢" */
+        color: var(--primary-color);
+        position: absolute;
+        left: 0;
+        font-size: 1em;
+        line-height: 1.6;
+    }
+    
+    .card strong {
+        font-weight: 600;
+        color: var(--primary-color);
+    }
+
+    .card a {
+        color: var(--link-color);
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+    .card a:hover {
+        text-decoration: underline;
+        color: var(--primary-color);
+    }
+
+    .card blockquote {
+        background-color: var(--blockquote-bg);
+        border-left: 5px solid var(--primary-color);
+        margin: 1.5em 0;
+        padding: 1em 1.5em;
+        border-radius: 0 8px 8px 0;
+        font-style: italic;
+    }
+    
+    .contactLinks {
+        list-style: none;
+        padding: 0;
+    }
+    .contactLinks li {
+        margin-bottom: 0.8rem;
+    }
+    .contactLinks li::before {
+        content: "📧"; /* Default, can be changed per item */
+    }
+    .facebook::before {
+        content: "👍"; /* Facebook icon */
+    }
+
+
+    .themeToggleButton {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: var(--button-bg);
+        color: var(--button-text);
+        border: none;
+        padding: 12px 15px;
+        border-radius: 50%;
+        cursor: pointer;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        font-size: 1.2rem;
+        z-index: 1000;
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+    .themeToggleButton:hover {
+        background-color: var(--button-hover-bg);
+        transform: scale(1.1);
+    }
+
+    .footer {
+        text-align: center;
+        padding: 2rem 0;
+        margin-top: 2rem;
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+        border-top: 1px solid var(--border-color);
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .header h1 { font-size: 2rem; }
+        .header p { font-size: 1rem; }
+        .profileImage { width: 150px; height: 150px; }
+        .card h2 { font-size: 1.6rem; }
+        .card h3 { font-size: 1.15rem; }
+    }
+     @media (max-width: 480px) {
+        .container { padding: 15px; }
+        .header { padding: 1.5rem 0; }
+        .header h1 { font-size: 1.8rem; }
+        .card { padding: 20px; }
+    }
+
+    .profileImageContainer {
+        text-align: center !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }

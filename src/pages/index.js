@@ -1,53 +1,102 @@
-import React from 'react';
-import clsx from 'clsx';
+import React, { useState, useEffect } from 'react';
+import { Search, Moon, Sun, BookOpen, Users, Download, MessageSquare, Facebook, Menu, X, LifeBuoy } from 'lucide-react';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import styles from './HomePage.module.css'; // Import file CSS Module
+import SearchBar from '@theme/SearchBar';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
+// Dữ liệu giả, bạn có thể thay thế
+const navLinks = [
+  { name: 'Về tụi', to: '/about' },
+  { name: 'Hướng dẫn', to: '/docs' },
+  { name: 'Tất cả bộ thẻ', to: '/blog' },
+  { name: 'Lanki Hub', to: '/lang-ki' },
+];
 
-function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+const HomePage = () => {
+  const [darkMode, setDarkMode] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  useEffect(() => {
+    // Thêm hoặc xóa class 'dark' khỏi thẻ body
+    if (darkMode) {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  }, [darkMode]);
+
+  const toggleDarkMode = () => setDarkMode(!darkMode);
+  const toggleMobileMenu = () => setMobileMenuOpen(!mobileMenuOpen);
+
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          Anki Việt Nam
-        </Heading>
-        <p className="hero__subtitle">
-          Cùng nhau học hỏi và chia sẻ kinh nghiệm sử dụng Anki
-        </p>
-        <div className={styles.buttons} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px', width: '100%' }}>
-          {/* Nút đầu tiên */}
-          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/docs/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki">
-            Hướng dẫn 
-          </Link>
-          {/* Nút thứ hai */}
-          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/blog">
-            Bộ thẻ
-          </Link>
-          {/* Nút thứ ba */}
-          <Link className="button button--secondary button--lg" style={{ width: '200px', textAlign: 'center' }} to="/download">
-            Tải xuống
-          </Link>
-        </div>
+    <Layout>
+      <div className={styles.appContainer}>
+        {/* Hero Section */}
+        <section className={styles.heroSection}>
+          <div className={styles.container}>
+            <h1 className={styles.heroTitle}>Chào mừng đến với Anki Việt Nam</h1>
+            <p className={styles.heroSubtitle}>
+              Nền tảng học tập và chia sẻ kiến thức Anki toàn diện, giúp bạn chinh phục mọi mục tiêu học tập.
+            </p>
+            <div className={styles.heroActions}>
+              <a href="/docs/intro" className={`${styles.button} ${styles.buttonPrimary}`}>
+                <BookOpen size={20} /> Hướng Dẫn Sử Dụng
+              </a>
+              <Link to="/blog" className={`${styles.button} ${styles.buttonSecondary}`}>
+                <Users size={20} /> Khám Phá Bộ Thẻ
+              </Link>
+              <a href="https://apps.ankiweb.net/" className={`${styles.button} ${styles.buttonSecondary}`} target="_blank" rel="noopener noreferrer">
+                <Download size={20} /> Tải Anki
+              </a>
+            </div>
+          </div>
+        </section>
+
+        {/* Features Section */}
+        <section className={styles.featuresSection}>
+          <div className={styles.container}>
+            <h2 className={styles.sectionTitle}>Tại sao chọn Anki Việt Nam?</h2>
+            <div className={styles.featuresGrid}>
+              <div className={styles.featureCard}>
+                <div className={styles.featureIconWrapper}><BookOpen size={32} /></div>
+                <h3 className={styles.featureTitle}>Bộ sưu tập thẻ đồ sộ</h3>
+                <p>Truy cập hàng ngàn bộ thẻ chất lượng cao được biên soạn kỹ lưỡng.</p>
+              </div>
+              <div className={styles.featureCard}>
+                <div className={styles.featureIconWrapper}><Users size={32} /></div>
+                <h3 className={styles.featureTitle}>Cộng đồng hỗ trợ</h3>
+                <p>Tham gia cộng đồng năng động, chia sẻ kinh nghiệm và nhận giúp đỡ.</p>
+              </div>
+              <div className={styles.featureCard}>
+                <div className={styles.featureIconWrapper}><LifeBuoy size={32} /></div>
+                <h3 className={styles.featureTitle}>Hướng dẫn chi tiết</h3>
+                <p>Tài liệu hướng dẫn từ cơ bản đến nâng cao để bạn tận dụng tối đa Anki.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Community Section */}
+        <section className={styles.communitySection}>
+          <div className={styles.container}>
+            <h2 className={styles.sectionTitle}>Tham Gia Cộng Đồng & Nhận Hỗ Trợ</h2>
+            <p className={styles.sectionSubtitle}>
+              Có câu hỏi, góp ý hay cần hỗ trợ? Đừng ngần ngại liên hệ hoặc tham gia thảo luận cùng chúng tôi!
+            </p>
+            <div className={styles.communityActions}>
+               <a href="https://www.facebook.com/tui.la.phuc747/" target="_blank" rel="noopener noreferrer" className={`${styles.button} ${styles.buttonRed}`}>
+                  <MessageSquare size={20} /> Gửi Tin Nhắn
+              </a>
+              <a href="https://www.facebook.com/groups/ankivocabulary/" target="_blank" rel="noopener noreferrer" className={`${styles.button} ${styles.buttonBlue}`}>
+                  <Facebook size={20} /> Tham Gia Nhóm
+              </a>
+            </div>
+          </div>
+        </section>
       </div>
-    </header>
-  );
-}
-
-export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`Chào mừng bạn đến với ${siteConfig.title}`}
-      description="Mô tả website được đặt bên dưới thẻ <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
-}
+};
+
+export default HomePage;

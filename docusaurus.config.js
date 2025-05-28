@@ -136,7 +136,11 @@ const config = {
       // Add announcement bar
       announcementBar: {
         id: 'announcement',
-        content: 'Anki Việt Nam',
+        content: `
+          <div style="display: flex; justify-content: center; align-items: center; height: 32px;">
+            <img src="/img/vietnam.jpg" alt="Anki Việt Nam" style="height: 28px; vertical-align: middle;" />
+          </div>
+        `,
         backgroundColor: '#db272a',
         textColor: '#ffffff',
         isCloseable: false,
@@ -227,15 +231,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Cộng đồng',
-            items: [
-              {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/groups/ankivocabulary/',
-              },
-            ],
-          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Anki Việt Nam. Built with ❤️`,
       },
