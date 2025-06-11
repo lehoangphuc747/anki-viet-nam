@@ -13,67 +13,95 @@
         <link href="https://ankivn.com/blog/anki-enhance-main-window"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Plugin Enhance Main Window giúp bạn hiển thị thêm cột với thông tin chi tiết như số lần lặp lại, thẻ đã học, ease, lapses trong giao diện chính của Anki.]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nguồn">📝 Nguồn:<a href="https://ankivn.com/blog/anki-enhance-main-window#-ngu%E1%BB%93n" class="hash-link" aria-label="Đường dẫn trực tiếp đến 📝 Nguồn:" title="Đường dẫn trực tiếp đến 📝 Nguồn:">​</a></h2>
-<p>Code của: <a href="https://www.reddit.com/r/Anki/comments/ffegh2/some_themes_for_enhance_main_window/" target="_blank" rel="noopener noreferrer">Reddit</a></p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nội-dung">📚 Nội dung<a href="https://ankivn.com/blog/anki-enhance-main-window#-n%E1%BB%99i-dung" class="hash-link" aria-label="Đường dẫn trực tiếp đến 📚 Nội dung" title="Đường dẫn trực tiếp đến 📚 Nội dung">​</a></h2>
-<p>Plugin <strong>Enhance Main Window</strong> là một công cụ mạnh mẽ cho phép bạn thêm các cột dữ liệu vào cửa sổ chính của Anki. Điều này rất hữu ích nếu bạn muốn có cái nhìn sâu hơn về từng thẻ, ví dụ như:</p>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="giới-thiệu-về-enhance-main-window">Giới thiệu về Enhance Main Window<a href="https://ankivn.com/blog/anki-enhance-main-window#gi%E1%BB%9Bi-thi%E1%BB%87u-v%E1%BB%81-enhance-main-window" class="hash-link" aria-label="Đường dẫn trực tiếp đến Giới thiệu về Enhance Main Window" title="Đường dẫn trực tiếp đến Giới thiệu về Enhance Main Window">​</a></h2>
+<p>Plugin <strong>Enhance Main Window</strong> là một công cụ mạnh mẽ cho phép bạn thêm các cột dữ liệu vào cửa sổ chính của Anki. Điều này giúp bạn có cái nhìn chi tiết hơn về từng thẻ học, bao gồm:</p>
 <ul>
-<li>Ease factor</li>
+<li>Ease factor (hệ số dễ dàng)</li>
 <li>Lapses (số lần quên)</li>
-<li>Number of reviews</li>
-<li>Card type</li>
-<li>Deck name</li>
-<li>Tags</li>
+<li>Number of reviews (số lần ôn tập)</li>
+<li>Card type (loại thẻ)</li>
+<li>Deck name (tên bộ thẻ)</li>
+<li>Tags (nhãn)</li>
 </ul>
-<hr>
-<p>Ngoài ra, Shige cũng làm 1 phiên bản fork và nâng cấp thêm: <a href="https://ankiweb.net/shared/info/911023479" target="_blank" rel="noopener noreferrer">📊Enhance main window - add many columns to home decks (Customized by Shigeඞ)</a></p>
-<hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trước">Trước<a href="https://ankivn.com/blog/anki-enhance-main-window#tr%C6%B0%E1%BB%9Bc" class="hash-link" aria-label="Đường dẫn trực tiếp đến Trước" title="Đường dẫn trực tiếp đến Trước">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613460884-dd56bb64e34607e13e96bae87ca746da.webp" width="1806" height="977" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sau">Sau<a href="https://ankivn.com/blog/anki-enhance-main-window#sau" class="hash-link" aria-label="Đường dẫn trực tiếp đến Sau" title="Đường dẫn trực tiếp đến Sau">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="phiên-bản-simplified">Phiên bản Simplified<a href="https://ankivn.com/blog/anki-enhance-main-window#phi%C3%AAn-b%E1%BA%A3n-simplified" class="hash-link" aria-label="Đường dẫn trực tiếp đến Phiên bản Simplified" title="Đường dẫn trực tiếp đến Phiên bản Simplified">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="ice">ICE<a href="https://ankivn.com/blog/anki-enhance-main-window#ice" class="hash-link" aria-label="Đường dẫn trực tiếp đến ICE" title="Đường dẫn trực tiếp đến ICE">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613663082-0b7b51c1b97442ba48c3a9a78582c4ce.webp" width="1920" height="1010" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/frozen_simplified.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1vP4dG8irFIlO4AHzBrYWnA_jd38ygj8X&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="flames">Flames<a href="https://ankivn.com/blog/anki-enhance-main-window#flames" class="hash-link" aria-label="Đường dẫn trực tiếp đến Flames" title="Đường dẫn trực tiếp đến Flames">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613764756-6defa966d65b694385c3ce2f23a64322.webp" width="1920" height="1008" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/fire_simplified.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1jy6vRxhY_UC0WTAZKk82X6irEcbHnfBr&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="lime">Lime<a href="https://ankivn.com/blog/anki-enhance-main-window#lime" class="hash-link" aria-label="Đường dẫn trực tiếp đến Lime" title="Đường dẫn trực tiếp đến Lime">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613793529-b069bb05bbc58dd112d9b5087902b072.webp" width="1920" height="1012" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/lime_simplified.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1aMuxuIZpStcgcWEj55Vw1qDfCYHHz9xQ&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="magenta">Magenta<a href="https://ankivn.com/blog/anki-enhance-main-window#magenta" class="hash-link" aria-label="Đường dẫn trực tiếp đến Magenta" title="Đường dẫn trực tiếp đến Magenta">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613813292-785f961826d249d5b815b5175eabca20.webp" width="1920" height="1009" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/magenta_simplified.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1QX6wy8s1pxoJC576kfSj6NY7CW7OKrUg&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="pink">Pink<a href="https://ankivn.com/blog/anki-enhance-main-window#pink" class="hash-link" aria-label="Đường dẫn trực tiếp đến Pink" title="Đường dẫn trực tiếp đến Pink">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613837617-ddcba5935a3d0550abb2e8bea9f5c690.webp" width="1920" height="1001" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/pinky_simplified.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1JFPdp_eozFAfCtpy8XkW_uqrmFLgMXK8&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="phiên-bản-extended">Phiên bản Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#phi%C3%AAn-b%E1%BA%A3n-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Phiên bản Extended" title="Đường dẫn trực tiếp đến Phiên bản Extended">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="ice-1">ICE<a href="https://ankivn.com/blog/anki-enhance-main-window#ice-1" class="hash-link" aria-label="Đường dẫn trực tiếp đến ICE" title="Đường dẫn trực tiếp đến ICE">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613378917-655fe7b8c10fc05ce2e1cb817745bc64.webp" width="1920" height="1014" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/frozen_extended.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1sU0fJzXHTxuHQTr_YXSXY5hgG_VVSgKj&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="flames-1">Flames<a href="https://ankivn.com/blog/anki-enhance-main-window#flames-1" class="hash-link" aria-label="Đường dẫn trực tiếp đến Flames" title="Đường dẫn trực tiếp đến Flames">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613756157-dd7e588381487eed33d2c9fd8f1b6a80.webp" width="1920" height="1008" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/fire_extended.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1yBLKpATSnCPSltgx0fVIPVEPKDKGyuP6&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="lime-1">Lime<a href="https://ankivn.com/blog/anki-enhance-main-window#lime-1" class="hash-link" aria-label="Đường dẫn trực tiếp đến Lime" title="Đường dẫn trực tiếp đ�ến Lime">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613786467-28374b62362979388c86216e5ebed234.webp" width="1920" height="1009" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/lime_extended.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1Jx-NKogp_wQsnRfEtbvgT8hzBpZ9KDHc&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="magenta-1">Magenta<a href="https://ankivn.com/blog/anki-enhance-main-window#magenta-1" class="hash-link" aria-label="Đường dẫn trực tiếp đến Magenta" title="Đường dẫn trực tiếp đến Magenta">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613802805-adb36f848bd6276b93eefec786a121e2.webp" width="1920" height="1040" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/magenta_extended.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=18pmu_5yxXcvNtFyKenHknOhowzNnAI99&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="pink-1">Pink<a href="https://ankivn.com/blog/anki-enhance-main-window#pink-1" class="hash-link" aria-label="Đường dẫn trực tiếp đến Pink" title="Đường dẫn trực tiếp đến Pink">​</a></h4>
-<p><img decoding="async" loading="lazy" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613826515-e5427ef364c4348065584fc4653cd310.webp" width="1920" height="1001" class="img_ev3q"></p>
-<p><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/pinky_extended.json" target="_blank" rel="noopener noreferrer">Link Code</a></p>
-<p><a href="https://drive.google.com/open?id=1LXSO5VA1gB6LS3Lsy0g8wouDbULJ2Zbu&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Link Backup</a></p>]]></content>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nguồn-gốc">Nguồn gốc<a href="https://ankivn.com/blog/anki-enhance-main-window#ngu%E1%BB%93n-g%E1%BB%91c" class="hash-link" aria-label="Đường dẫn trực tiếp đến Nguồn gốc" title="Đường dẫn trực tiếp đến Nguồn gốc">​</a></h2>
+<p>Bộ template của plugin này được phát triển dựa trên mã nguồn từ <a href="https://www.reddit.com/r/Anki/comments/ffegh2/some_themes_for_enhance_main_window/" target="_blank" rel="noopener noreferrer">Reddit</a>.</p>
+<p>Ngoài ra, Shige cũng đã phát triển một phiên bản nâng cấp với nhiều tính năng hơn: <a href="https://ankiweb.net/shared/info/911023479" target="_blank" rel="noopener noreferrer">📊Enhance main window - add many columns to home decks (Customized by Shigeඞ)</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hướng-dẫn-cài-đặt">Hướng dẫn cài đặt<a href="https://ankivn.com/blog/anki-enhance-main-window#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t" class="hash-link" aria-label="Đường dẫn trực tiếp đ��ến Hướng dẫn cài đặt" title="Đường dẫn trực tiếp đến Hướng dẫn cài đặt">​</a></h2>
+<ol>
+<li>Mở Anki</li>
+<li>Vào Tools -&gt; Addons</li>
+<li>Tìm Enhance Main Windows</li>
+<li>Nhấn vào Config</li>
+<li>Sao chép và dán mã cấu hình</li>
+<li>Nhấn Save</li>
+<li>Khởi động lại Anki</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="so-sánh-trước-và-sau-khi-cài-đặt">So sánh trước và sau khi cài đặt<a href="https://ankivn.com/blog/anki-enhance-main-window#so-s%C3%A1nh-tr%C6%B0%E1%BB%9Bc-v%C3%A0-sau-khi-c%C3%A0i-%C4%91%E1%BA%B7t" class="hash-link" aria-label="Đường dẫn trực tiếp đến So sánh trước và sau khi cài đặt" title="Đường dẫn trực tiếp đến So sánh trước và sau khi cài đặt">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="giao-diện-mặc-định">Giao diện mặc định<a href="https://ankivn.com/blog/anki-enhance-main-window#giao-di%E1%BB%87n-m%E1%BA%B7c-%C4%91%E1%BB%8Bnh" class="hash-link" aria-label="Đường dẫn trực tiếp đến Giao diện mặc định" title="Đường dẫn trực tiếp đến Giao diện mặc định">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="Giao diện mặc định của Anki" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613460884-dd56bb64e34607e13e96bae87ca746da.webp" width="1806" height="977" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="các-theme-có-sẵn">Các theme có sẵn<a href="https://ankivn.com/blog/anki-enhance-main-window#c%C3%A1c-theme-c%C3%B3-s%E1%BA%B5n" class="hash-link" aria-label="Đường dẫn trực tiếp đến Các theme có sẵn" title="Đường dẫn trực tiếp đến Các theme có sẵn">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="phiên-bản-simplified">Phiên bản Simplified<a href="https://ankivn.com/blog/anki-enhance-main-window#phi%C3%AAn-b%E1%BA%A3n-simplified" class="hash-link" aria-label="Đường dẫn trực tiếp đến Phiên bản Simplified" title="Đường dẫn trực tiếp đến Phiên bản Simplified">​</a></h4>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="ice-theme">ICE Theme<a href="https://ankivn.com/blog/anki-enhance-main-window#ice-theme" class="hash-link" aria-label="Đường dẫn trực tiếp đến ICE Theme" title="Đường dẫn trực tiếp đến ICE Theme">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="ICE Theme Simplified" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613663082-0b7b51c1b97442ba48c3a9a78582c4ce.webp" width="1920" height="1010" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/frozen_simplified.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1vP4dG8irFIlO4AHzBrYWnA_jd38ygj8X&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="flames-theme">Flames Theme<a href="https://ankivn.com/blog/anki-enhance-main-window#flames-theme" class="hash-link" aria-label="Đường dẫn trực tiếp đến Flames Theme" title="Đường dẫn trực tiếp đến Flames Theme">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Flames Theme Simplified" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613764756-6defa966d65b694385c3ce2f23a64322.webp" width="1920" height="1008" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/fire_simplified.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1jy6vRxhY_UC0WTAZKk82X6irEcbHnfBr&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="lime-theme">Lime Theme<a href="https://ankivn.com/blog/anki-enhance-main-window#lime-theme" class="hash-link" aria-label="Đường dẫn trực tiếp đến Lime Theme" title="Đường dẫn trực tiếp đến Lime Theme">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Lime Theme Simplified" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613793529-b069bb05bbc58dd112d9b5087902b072.webp" width="1920" height="1012" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/lime_simplified.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1aMuxuIZpStcgcWEj55Vw1qDfCYHHz9xQ&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="magenta-theme">Magenta Theme<a href="https://ankivn.com/blog/anki-enhance-main-window#magenta-theme" class="hash-link" aria-label="Đường dẫn trực tiếp đến Magenta Theme" title="Đường dẫn trực tiếp đến Magenta Theme">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Magenta Theme Simplified" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613813292-785f961826d249d5b815b5175eabca20.webp" width="1920" height="1009" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/magenta_simplified.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1QX6wy8s1pxoJC576kfSj6NY7CW7OKrUg&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="pink-theme">Pink Theme<a href="https://ankivn.com/blog/anki-enhance-main-window#pink-theme" class="hash-link" aria-label="Đường dẫn trực tiếp đến Pink Theme" title="Đường dẫn trực tiếp đến Pink Theme">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Pink Theme Simplified" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613837617-ddcba5935a3d0550abb2e8bea9f5c690.webp" width="1920" height="1001" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/pinky_simplified.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1JFPdp_eozFAfCtpy8XkW_uqrmFLgMXK8&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="phiên-bản-extended">Phiên bản Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#phi%C3%AAn-b%E1%BA%A3n-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Phiên bản Extended" title="Đường dẫn trực tiếp đến Phiên bản Extended">​</a></h4>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="ice-theme-extended">ICE Theme Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#ice-theme-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến ICE Theme Extended" title="Đường dẫn trực tiếp đến ICE Theme Extended">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="ICE Theme Extended" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613378917-655fe7b8c10fc05ce2e1cb817745bc64.webp" width="1920" height="1014" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/frozen_extended.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1sU0fJzXHTxuHQTr_YXSXY5hgG_VVSgKj&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="flames-theme-extended">Flames Theme Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#flames-theme-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Flames Theme Extended" title="Đường dẫn trực tiếp đến Flames Theme Extended">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Flames Theme Extended" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613756157-dd7e588381487eed33d2c9fd8f1b6a80.webp" width="1920" height="1008" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/fire_extended.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1yBLKpATSnCPSltgx0fVIPVEPKDKGyuP6&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="lime-theme-extended">Lime Theme Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#lime-theme-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Lime Theme Extended" title="Đường dẫn trực tiếp đến Lime Theme Extended">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Lime Theme Extended" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613786467-28374b62362979388c86216e5ebed234.webp" width="1920" height="1009" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/lime_extended.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1Jx-NKogp_wQsnRfEtbvgT8hzBpZ9KDHc&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="magenta-theme-extended">Magenta Theme Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#magenta-theme-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Magenta Theme Extended" title="Đường dẫn trực tiếp đến Magenta Theme Extended">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Magenta Theme Extended" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613802805-adb36f848bd6276b93eefec786a121e2.webp" width="1920" height="1040" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/magenta_extended.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=18pmu_5yxXcvNtFyKenHknOhowzNnAI99&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="pink-theme-extended">Pink Theme Extended<a href="https://ankivn.com/blog/anki-enhance-main-window#pink-theme-extended" class="hash-link" aria-label="Đường dẫn trực tiếp đến Pink Theme Extended" title="Đường dẫn trực tiếp đến Pink Theme Extended">​</a></h5>
+<p><img decoding="async" loading="lazy" alt="Pink Theme Extended" src="https://ankivn.com/assets/images/2025-06-11-anki-enhance-main-window-1749613826515-e5427ef364c4348065584fc4653cd310.webp" width="1920" height="1001" class="img_ev3q"></p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/b3nj5m1n/enhancemainwindowthemes/master/pinky_extended.json" target="_blank" rel="noopener noreferrer">Tải mã nguồn</a></li>
+<li><a href="https://drive.google.com/open?id=1LXSO5VA1gB6LS3Lsy0g8wouDbULJ2Zbu&amp;usp=drive_fs" target="_blank" rel="noopener noreferrer">Tải bản sao lưu</a></li>
+</ul>]]></content>
         <category label="Add-ons" term="Add-ons"/>
     </entry>
     <entry>
