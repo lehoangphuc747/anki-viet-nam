@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md",
+                "file": "blog/addons/2025-06-11-anki-enhance-main-window.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki"
+              "title": "2025-06-11-anki-enhance-main-window"
+            }
+          },
+          {
+            "id": "2072b99fdc58670b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1DGMI3j4hBigHlAKa69aLvT-k5m0Gxl9s",
+                "query": "youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e292ba45a0cba4",
@@ -179,17 +194,17 @@
   },
   "active": "08b667127b04c75a",
   "lastOpenFiles": [
+    "src/theme/BlogPostPage/styles.module.css",
     "build/docs/tags/tutorial.html",
-    "build/docs/tags/medical.html",
     "build/docs/tags/template.html",
+    "build/docs/tags/medical.html",
     "build/docs/tags/english.html",
     "build/docs/tags/docs.html",
     "build/docs/tags/deck.html",
-    "build/docs/tags",
     "build/docs/II. HƯỚNG DẪN NÂNG CAO/huong-dan-su-dung-llm-dictionary-tao-the-anki.html",
     "build/docs/II. HƯỚNG DẪN NÂNG CAO/hoc-y-khoa-bang-anki.html",
-    "build/docs/II. HƯỚNG DẪN NÂNG CAO",
     "build/docs/I. KIẾN THỨC CƠ BẢN/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki.html",
+    "build/docs/I. KIẾN THỨC CƠ BẢN/huong-dan-nhap-file-tu-vung-csv-txt-vao-anki-tren-dien-thoai.html",
     "build/assets/images/zk9p4gd-ff827efa6d2d76db6d9301ee87b4d156.gif",
     "build/assets/images/Untitled-1744630992978-de3c991811da6829abd74909454cb505.webp",
     "build/assets/images/Untitled-1744630983274-8ff4522b31151d4c17d10277df961ddf.webp",
@@ -198,8 +213,22 @@
     "build/assets/images/Untitled-1743054246445-8e4d5d34ae2670bef732e0df63b90c01.webp",
     "build/assets/images/Preview-Tiếng-Anh-THPT-3517707882241f9d1b38e3b9d43b63de.png",
     "build/assets/images/pasted-image-20250108140547-69ae4002c74762717e347dbf059addf6.png",
-    "build/assets/images/pasted-image-20241220231649-887012e5d37acc51f422ec8551db1931.png",
     "build/assets/images/pasted-image-20241220231653-0c23c9514816e4573427a4ed8090187d.png",
+    "build/assets/images/pasted-image-20241220231649-887012e5d37acc51f422ec8551db1931.png",
+    "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md",
+    "blog/addons/2025-06-11-anki-enhance-main-window.md",
+    "blog/addons/2022-04-09-watch-foreign-language-movies-with-anki.md",
+    "blog/chinese/2025-06-11-tai-lieu-anki-deck-hsk-1-6-va-ielts.md",
+    "blog/khác/2025-05-30-bo-the-anki-on-thi-gplx-a1-moi-2025.md",
+    "blog/khác/2022-06-30-600-cau-ly-thuyet-thi-bang-lai-b2-c-d.md",
+    "blog/khác/2022-06-16-200-cau-hoi-thi-bang-lai-xe-may-a1-2022.md",
+    "blog/english/2022-07-04-LDOCE6-with-Pictures.md",
+    "blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
+    "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
+    "blog/chinese/2025-02-01-chia-se-bo-the-hsk1-9-kinh-nghiem-hoc-va-thi-hsk6.md",
+    "blog/chinese/2025-03-21-bo-the-hsk1-6-am-thanh-hinh-anh-nghia-viet.md",
+    "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md",
+    "node_modules/sitemap/node_modules/@types/node/README.md",
     "src/pages/phuc-lee(1).md",
     "node_modules/search-insights/README.md",
     "node_modules/search-insights/LICENSE.md",
@@ -210,20 +239,6 @@
     "node_modules/send/node_modules/debug/node_modules/ms/license.md",
     "node_modules/null-loader/node_modules/ajv-keywords/keywords/dotjs/README.md",
     "node_modules/null-loader/node_modules/ajv/lib/dotjs/README.md",
-    "node_modules/hpack.js/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
-    "node_modules/file-loader/node_modules/ajv-keywords/keywords/dotjs/README.md",
-    "node_modules/file-loader/node_modules/ajv/lib/dotjs/README.md",
-    "node_modules/@types/serve-index/node_modules/@types/express/README.md",
-    "node_modules/@types/express/node_modules/@types/express-serve-static-core/README.md",
-    "node_modules/@docsearch/react/node_modules/@algolia/client-analytics/README.md",
-    "node_modules/@docsearch/react/node_modules/@algolia/recommend/README.md",
-    "node_modules/@docsearch/react/node_modules/@algolia/client-search/README.md",
-    "node_modules/@docsearch/react/node_modules/@algolia/client-personalization/README.md",
-    "node_modules/@docsearch/react/node_modules/@algolia/autocomplete-preset-algolia/README.md",
-    "node_modules/@algolia/autocomplete-shared/node_modules/@algolia/recommend/README.md",
-    "node_modules/@algolia/autocomplete-shared/node_modules/@algolia/client-search/README.md",
-    "node_modules/@algolia/autocomplete-shared/node_modules/@algolia/client-personalization/README.md",
-    "node_modules/@algolia/autocomplete-shared/node_modules/@algolia/client-analytics/README.md",
-    "node_modules/parse-entities/node_modules/@types/unist/README.md"
+    "node_modules/hpack.js/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md"
   ]
 }

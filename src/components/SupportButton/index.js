@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 export default function SupportButton() {
   return (
     <div style={{ textAlign: 'center', marginTop: '2rem' }}>
-      <div style={{ 
+      <div style={{
         textAlign: 'center', 
         marginBottom: '2rem', 
         fontSize: '1.8rem',

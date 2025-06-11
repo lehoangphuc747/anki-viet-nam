@@ -1,4 +1,4 @@
-﻿---
+---
 title: LDOCE6 with Pictures
 slug: LDOCE6-with-Pictures
 date: 2022-07-04

@@ -138,7 +138,7 @@ body {
 /* --- Sections --- */
 .heroSection, .featuresSection, .communitySection {
   text-align: center;
-  padding: 4rem 0;
+  padding: 1rem 0;
 }
 @media (min-width: 768px) {
     .heroSection, .featuresSection, .communitySection { padding: 6rem 0; }
@@ -180,7 +180,7 @@ body {
 .sectionTitle {
   font-size: 2rem;
   font-weight: bold;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 .sectionSubtitle {
     font-size: 1.1rem;
@@ -223,7 +223,10 @@ body {
 .featureTitle { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.5rem; }
 
 /* Community Section */
-.communitySection { background-color: var(--bg-primary); }
+.communitySection { 
+  background-color: var(--bg-primary);
+  padding: 1rem 0;  /* Giảm padding từ 4rem xuống 3rem */
+}
 .communityActions {
   display: flex;
   flex-direction: column;
@@ -272,17 +275,24 @@ body {
 }
 
 .buttonRed {
-    background-color: var(--color-red-600);
-    color: var(--color-white);
+  background-color: var(--color-red-600);
+  color: var(--color-white);
 }
-.buttonRed:hover { background-color: var(--color-red-800); }
+
+.buttonRed:hover {
+  background-color: var(--color-blue-600);
+  color: var(--color-white);
+}
 
 .buttonBlue {
-    background-color: var(--color-blue-600);
-    color: var(--color-white);
+  background-color: var(--color-blue-600);
+  color: var(--color-white);
 }
-.buttonBlue:hover { background-color: var(--color-blue-700); }
 
+.buttonBlue:hover {
+  background-color: var(--color-red-600);
+  color: var(--color-white);
+}
 
 /* --- Footer --- */
 .footer {

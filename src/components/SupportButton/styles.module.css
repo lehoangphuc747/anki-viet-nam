@@ -1,19 +1,21 @@
 .supportButton {
   display: inline-block;
   background-color: #1877f2;
-  color: white;
+  color: white !important;
   padding: 12px 24px;
   border-radius: 6px;
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: 500;
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
   border: none;
   cursor: pointer;
   font-size: 1.1rem;
 }
 
 .supportButton:hover {
-  background-color: #166fe5;
-  color: white;
-  text-decoration: none;
+  background-color: #db272a;
+  color: white !important;
+  text-decoration: none !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 } 

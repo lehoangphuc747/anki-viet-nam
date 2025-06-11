@@ -46,17 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "a14b1f1475459f17",
-      "parent": 0,
-      "droppable": true,
-      "data": {
-        "fileType": "site",
-        "fileSize": ""
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": true,
   "enableTreeView": true,

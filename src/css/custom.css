@@ -52,7 +52,7 @@
   --ifm-color-primary-lighter: #7cd47c;
   --ifm-color-primary-lightest: #abe4ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-background-color: #1a1b1e;
+  --ifm-background-color: #1b1b1d;
   --ifm-background-surface-color: #242526;
   --ifm-navbar-background-color: #242526;
   --ifm-footer-background-color: #242526;
@@ -60,7 +60,69 @@
   --blog-item-background-color: #2d2d2d;
   --blog-item-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3);
   --ifm-toc-border-color: #404040;
+  --ifm-font-color-base: #e4e4e4;
+  --ifm-color-content: #e4e4e4;
+  --ifm-color-content-emphasis: #e4e4e4;
+  --ifm-color-emphasis-700: #e4e4e4;
+  --ifm-color-emphasis-600: #e4e4e4;
+  --ifm-color-emphasis-500: #e4e4e4;
+  --ifm-color-emphasis-400: #e4e4e4;
+  --ifm-color-emphasis-300: #e4e4e4;
+  --ifm-color-emphasis-200: #e4e4e4;
+  --ifm-color-emphasis-100: #e4e4e4;
 }
+
+/* Dark mode text colors */
+[data-theme='dark'] body {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] p {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] li {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article p {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article li {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article ul,
+[data-theme='dark'] .blog-post-page article ol {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article blockquote {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article table {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article th,
+[data-theme='dark'] .blog-post-page article td {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article code {
+  color: #e4e4e4;
+}
+
+[data-theme='dark'] .blog-post-page article pre {
+  color: #e4e4e4;
+}
+
 
 /* FONT SETUP */
 
@@ -90,13 +152,60 @@ p {
   font-size: 1em; /* Default font size for paragraphs */
 }
 
+/* Global link styles */
 a {
-  color: #db272a; /* #00334D; */
-  text-decoration: none; /* No underline */
+  text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline; /* Underline on hover */
+/* Blog post link styles */
+.blog-post-page article a {
+  color: #db272a;
+  text-decoration: underline;
+}
+
+.blog-post-page article a:hover {
+  color: #0088d1;
+  text-decoration: underline;
+}
+
+/* Night mode styles for blog post links */
+[data-theme='dark'] .blog-post-page article a,
+[data-theme='dark'] .blog-post-page article .markdown a,
+[data-theme='dark'] .blog-post-page article .markdown p a,
+[data-theme='dark'] .blog-post-page article .markdown ul a,
+[data-theme='dark'] .blog-post-page article .markdown ol a {
+  color: #4cc3ff !important;
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+[data-theme='dark'] .blog-post-page article a:hover,
+[data-theme='dark'] .blog-post-page article .markdown a:hover,
+[data-theme='dark'] .blog-post-page article .markdown p a:hover,
+[data-theme='dark'] .blog-post-page article .markdown ul a:hover,
+[data-theme='dark'] .blog-post-page article .markdown ol a:hover {
+  color: #abe4ff !important;
+  text-decoration: underline;
+}
+
+/* Navbar link styles */
+.header-menu a,
+.mobile-menu a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+.header-menu a:hover,
+.mobile-menu a:hover {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Homepage button styles */
+.buttonPrimary,
+.button-62 {
+  text-decoration: none !important;
 }
 
 /* Adjust margin and padding for a clean layout */
@@ -399,10 +508,14 @@ div[class^='announcementBar_'] {
   padding: 2rem;
   border-radius: 8px;
   box-shadow: var(--blog-item-shadow);
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem; /* Tăng font size cho toàn bộ nội dung bài viết */
 }
 
 [data-theme='dark'] .blog-post-page article {
   background: var(--ifm-card-background-color);
+  color: var(--ifm-font-color-base);
 }
 
 /* Blog post title and metadata */
@@ -427,11 +540,19 @@ div[class^='announcementBar_'] {
 }
 
 .blog-tag {
-  padding: 0.25rem 0.75rem;
-  border-radius: 15px;
-  background: var(--ifm-color-emphasis-100);
-  color: var(--ifm-color-emphasis-800);
-  font-size: 0.875rem;
+  display: inline-block;
+  margin: 0.2rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.2rem;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none !important;
+}
+
+.blog-tag:hover {
+  text-decoration: none !important;
+  background-color: var(--ifm-color-primary-dark);
+  color: white;
 }
 
 [data-theme='dark'] .blog-tag {
@@ -1209,12 +1330,62 @@ kbd {
   padding: 2rem 0;
 }
 
-/* cái thằng cha này gây lỗi
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+/* Dark mode theme toggle button */
+[data-theme='dark'] .navbar__toggle {
+  color: var(--ifm-color-primary-lighter);
+  background-color: var(--ifm-color-primary);
+  border: 1px solid var(--ifm-color-primary-lighter);
+  border-radius: 50%;
+  padding: 0.5rem;
+  transition: all 0.2s ease;  
+}
 
-*/
+[data-theme='dark'] .navbar__toggle:hover {
+  color: white;
+  background-color: var(--ifm-color-primary-lighter);
+  transform: scale(1.1);
+}
+
+[data-theme='dark'] .navbar__toggle svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+/* Dark mode theme toggle in sidebar */
+[data-theme='dark'] .navbar-sidebar .navbar__toggle {
+  margin: 1rem;
+  align-self: center;
+}
+
+/* Dark mode theme toggle container */
+[data-theme='dark'] .navbar__items--right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Dark mode theme toggle icon */
+[data-theme='dark'] .navbar__toggle-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+/* Dark mode theme toggle animation */
+@keyframes themeToggleSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+[data-theme='dark'] .navbar__toggle:hover svg {
+  animation: themeToggleSpin 0.5s ease-in-out;
+}
 
 /* Đặt các rule custom heading ở đây, SAU các import Tailwind */
 :root {
@@ -1234,9 +1405,352 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2 !important;
   color: #1a1a1a !important;
 }
+
+[data-theme='dark'] h1, 
+[data-theme='dark'] h2, 
+[data-theme='dark'] h3, 
+[data-theme='dark'] h4, 
+[data-theme='dark'] h5, 
+[data-theme='dark'] h6 {
+  color: #ffffff !important;
+}
 h1 { font-size: var(--ifm-h1-font-size) !important; }
 h2 { font-size: var(--ifm-h2-font-size) !important; }
 h3 { font-size: var(--ifm-h3-font-size) !important; }
 h4 { font-size: var(--ifm-h4-font-size) !important; }
 h5 { font-size: var(--ifm-h5-font-size) !important; }
 h6 { font-size: var(--ifm-h6-font-size) !important; }
+
+/* Blog post styles */
+.blog-post-page article {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-size: 1.1rem; /* Tăng font size cho toàn bộ nội dung bài viết */
+}
+
+/* Unordered lists (bullet points) */
+.blog-post-page article ul {
+  list-style-type: disc;
+  padding-left: 2em;
+  margin: 1em 0;
+  font-size: 1.1rem;
+}
+
+.blog-post-page article ul li {
+  margin: 0.5em 0;
+  line-height: 1.6;
+}
+
+.blog-post-page article ul li::marker {
+  color: var(--ifm-color-primary) !important;
+}
+
+/* Ordered lists (numbered bullets) */
+.blog-post-page article ol {
+  list-style-type: decimal;
+  padding-left: 2em;
+  margin: 1em 0;
+  counter-reset: item;
+  font-size: 1.1rem;
+}
+
+.blog-post-page article ol li {
+  margin: 0.5em 0;
+  line-height: 1.6;
+  position: relative;
+  padding-left: 0.5em;
+}
+
+.blog-post-page article ol li::marker {
+  color: var(--ifm-color-primary) !important;
+  font-weight: bold;
+}
+
+/* Tăng font size cho đoạn văn bản */
+.blog-post-page article p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
+
+/* Dark mode styles for lists */
+[data-theme='dark'] .blog-post-page article ul li::marker {
+  color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .blog-post-page article ol li::marker {
+  color: var(--ifm-color-primary) !important;
+  font-weight: bold;
+}
+
+/* Dark mode styles for blog post content */
+[data-theme='dark'] .blog-post-page article {
+  background: var(--ifm-card-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article h1,
+[data-theme='dark'] .blog-post-page article h2,
+[data-theme='dark'] .blog-post-page article h3,
+[data-theme='dark'] .blog-post-page article h4,
+[data-theme='dark'] .blog-post-page article h5,
+[data-theme='dark'] .blog-post-page article h6 {
+  color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .blog-post-page article p {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article ul,
+[data-theme='dark'] .blog-post-page article ol {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article li {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article ul li::marker {
+  color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .blog-post-page article ol li::marker {
+  color: var(--ifm-color-primary) !important;
+  font-weight: bold;
+}
+
+[data-theme='dark'] .blog-post-page article a:hover {
+  color: var(--ifm-color-primary-lighter);
+}
+
+[data-theme='dark'] .blog-post-page article code {
+  background-color: var(--ifm-code-background);
+  color: var(--ifm-code-color);
+}
+
+[data-theme='dark'] .blog-post-page article blockquote {
+  border-left-color: var(--ifm-color-primary);
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article img {
+  filter: brightness(0.9);
+}
+
+[data-theme='dark'] .blog-post-page article table {
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .blog-post-page article th,
+[data-theme='dark'] .blog-post-page article td {
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .blog-post-page article hr {
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .navbar {
+  background-color: var(--ifm-navbar-background-color);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+[data-theme='dark'] .navbar__link {
+  color: var(--ifm-font-color-base);
+  transition: color 0.2s ease;
+}
+
+[data-theme='dark'] .navbar__link:hover {
+  color: var(--ifm-color-primary-light);
+}
+
+[data-theme='dark'] .navbar__brand {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .navbar-sidebar {
+  background-color: var(--ifm-background-surface-color);
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link {
+  color: var(--ifm-font-color-base);
+  background: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link:hover {
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-primary-light);
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link--active {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+/* Dark mode styles for main blog container */
+[data-theme='dark'] .main-wrapper {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .container {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .row {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .col {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] main {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] article {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] header {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .markdown {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .markdown::before,
+[data-theme='dark'] .markdown::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .container_mt6G {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .container_mt6G::before,
+[data-theme='dark'] .container_mt6G::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .title_f1Hy {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .title_f1Hy::before,
+[data-theme='dark'] .title_f1Hy::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .anchor {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .anchor::before,
+[data-theme='dark'] .anchor::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .hash-link {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .hash-link::before,
+[data-theme='dark'] .hash-link::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .img_ev3q {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .img_ev3q::before,
+[data-theme='dark'] .img_ev3q::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tags_jXut {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tags_jXut::before,
+[data-theme='dark'] .tags_jXut::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tag_QGVx {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tag_QGVx::before,
+[data-theme='dark'] .tag_QGVx::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tag_zVej {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tag_zVej::before,
+[data-theme='dark'] .tag_zVej::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tagRegular_sFm0 {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .tagRegular_sFm0::before,
+[data-theme='dark'] .tagRegular_sFm0::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .supportButton_gDzL {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .supportButton_gDzL::before,
+[data-theme='dark'] .supportButton_gDzL::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav::before,
+[data-theme='dark'] .pagination-nav::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__link {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__link::before,
+[data-theme='dark'] .pagination-nav__link::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__sublabel {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__sublabel::before,
+[data-theme='dark'] .pagination-nav__sublabel::after {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__label {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .pagination-nav__label::before,
+[data-theme='dark'] .pagination-nav__label::after {
+  background-color: var(--ifm-background-color);
+}
