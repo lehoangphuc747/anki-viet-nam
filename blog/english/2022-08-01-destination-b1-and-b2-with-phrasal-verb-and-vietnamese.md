@@ -1,4 +1,4 @@
-﻿---
+---
 title: Destination B1 & B2 (with Phrasal Verb and Vietnamese)
 slug: destination-b1-and-b2-with-phrasal-verb-and-vietnamese
 date: 2022-08-01

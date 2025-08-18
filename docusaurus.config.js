@@ -69,7 +69,7 @@ const config = {
         blog: {
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
-            defaultReadingTime({content, options: {wordsPerMinute: 300}}),
+            defaultReadingTime({content, locale: 'vi', options: {wordsPerMinute: 300}}),
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -130,6 +130,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/image-26.webp',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       
       // Add announcement bar
       announcementBar: {
@@ -207,22 +212,9 @@ const config = {
           },
           { to: '/blog', label: 'Tất cả bộ thẻ', position: 'left' },
           {
-            type: 'dropdown',
-            label: 'Danh mục',
-            position: 'left',
-            items: [
-              { to: '/blog/tags/english', label: 'Tiếng Anh' },
-              { to: '/blog/tags/chinese', label: 'Tiếng Trung' },
-              { to: '/blog/tags/japanese', label: 'Tiếng Nhật' },
-              { to: '/blog/tags/korean', label: 'Tiếng Hàn' },
-              { to: '/blog/tags/khac', label: 'Khác' },
-              { to: '/blog/tags/template', label: 'Mẫu thẻ' },
-            ],
-          },
-          {
             type: 'html',
             position: 'left',
-            value: '<a href="https://langki-hub-vn.netlify.app" target="_blank" rel="noopener noreferrer">Langki Hub</a>',
+            value: '<a href="https://langki.net/" target="_blank" rel="noopener noreferrer">Langki Hub</a>',
           },
         ],
       },
@@ -234,7 +226,6 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
       },
     }),
 };
