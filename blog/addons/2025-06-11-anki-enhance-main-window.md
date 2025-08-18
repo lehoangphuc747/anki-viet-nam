@@ -39,6 +39,11 @@ Ngoài ra, Shige cũng đã phát triển một phiên bản nâng cấp với n
 6. Nhấn Save
 7. Khởi động lại Anki
 
+## Cài đặt nhanh
+
+- **Tải plugin trên AnkiWeb:** [Enhance Main Window (877182321)](https://ankiweb.net/shared/info/877182321)
+- **Add-on code:** `877182321`
+
 ## So sánh trước và sau khi cài đặt
 
 ### Giao diện mặc định

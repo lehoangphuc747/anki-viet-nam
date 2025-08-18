@@ -1,0 +1,82 @@
+---
+slug: anki-giao-trinh-han-ngu-1-2
+title: Bộ thẻ Anki Giáo trình Hán ngữ (Quyển 1 & 2) - Tải miễn phí
+date: 2025-06-15
+tags:
+  - deck
+  - chinese
+keywords:
+  - Anki
+  - Học tiếng Trung
+  - Giáo trình Hán ngữ
+  - Boya
+  - Flashcard
+  - Chinese
+  - Từ vựng
+description: Tải miễn phí bộ thẻ Anki từ vựng Giáo trình Hán ngữ (Boya) quyển 1 và 2. Bộ thẻ đầy đủ chữ Hán, Pinyin, Hán-Việt, âm thanh, và đặc biệt là hình ảnh thứ tự nét viết tự động.
+image: /images/Untitled-1749997181464.webp
+---
+
+<!--truncate-->
+
+## Nguồn: [PT Thuý Hiền](https://www.facebook.com/pt.thuy.hien.320953)
+
+---
+
+## Giới thiệu
+
+Học từ vựng tiếng Trung theo bộ "Giáo trình Hán ngữ" (hay còn gọi là Boya) là một hành trình thú vị nhưng cũng đầy thử thách, đặc biệt là việc ghi nhớ mặt chữ và phát âm. Để giúp bạn chinh phục ngôn ngữ này một cách hiệu quả và tiết kiệm thời gian, hôm nay AnkiVN xin chia sẻ bộ thẻ Anki được xây dựng cực kỳ công phu, bám sát 100% nội dung của 2 quyển đầu.
+
+Hiện tại, bộ sưu tập đã có sẵn cho Quyển 1 và Quyển 2, và sẽ tiếp tục được cập nhật.
+
+![Các bộ thẻ Anki Giáo trình Hán ngữ hiện có](../../static/images/Untitled-1749997127956.webp)
+
+---
+
+## ⭐ Ưu điểm nổi bật của bộ thẻ
+
+### 📚 Nội dung bám sát 100% giáo trình
+Bộ thẻ bao quát toàn bộ từ vựng của 2 quyển đầu trong bộ giáo trình Hán ngữ. Bạn sẽ không còn phải tốn hàng giờ đồng hồ để tự tạo thẻ, thay vào đó có thể tập trung hoàn toàn vào việc học và ôn tập.
+
+### 📇 Thiết kế thẻ '7 trong 1' - Tối ưu cho người Việt
+Mỗi thẻ trong bộ đều là một "cỗ máy" học tập thu nhỏ, chứa đầy đủ các trường thông tin quan trọng nhất, được tối ưu cho người Việt:
+
+- **Chữ Hán:** Ký tự tiếng Trung tiêu chuẩn.
+- **Pinyin:** Phiên âm chuẩn kèm thanh điệu giúp bạn phát âm chính xác.
+- **Âm Hán-Việt:** Một "vũ khí bí mật" giúp người Việt dễ dàng liên tưởng và đoán nghĩa của từ.
+- **Nghĩa Tiếng Việt:** Giải thích rõ ràng, súc tích, dễ hiểu.
+- **Âm thanh:** Phát âm chuẩn của người bản xứ cho từng từ, giúp bạn luyện nghe và nói như thật.
+- **Chú trọng nghe-nói:** Việc tích hợp âm thanh cho mọi thẻ là một điểm cộng rất lớn, giúp người học luyện phát âm và nghe ngay từ đầu.
+
+Dưới đây là hình ảnh thực tế khi bạn học với bộ thẻ này:
+
+![Mặt trước của thẻ Anki](../../static/images/Untitled-1749997140379.webp)
+*Mặt trước của thẻ hiển thị từ vựng và câu, thách thức bạn nhớ lại kiến thức.*
+
+![Mặt sau của thẻ Anki](../../static/images/Untitled-1749997156020.webp)
+*Mặt sau cung cấp đầy đủ thông tin chi tiết để bạn kiểm tra và củng cố.*
+
+### ✍️ Điểm nhấn đặc biệt: Hỗ trợ viết chữ với nét bút tự động
+Đây là tính năng đắt giá nhất của bộ thẻ! Thay vì một hình ảnh tĩnh, bạn sẽ có một ảnh GIF mô phỏng thứ tự các nét bút một cách tự động. Việc này cực kỳ hữu ích, giúp bạn:
+- Ghi nhớ thứ tự viết đúng ngay từ đầu.
+- Hiểu cấu trúc của một ký tự Hán.
+- Tránh các lỗi sai cơ bản và xây dựng nền tảng vững chắc cho việc viết tay.
+
+![Hình ảnh động mô phỏng thứ tự nét viết](../../static/images/Untitled-1749997181464.webp)
+*Tính năng mô phỏng nét bút tự động giúp việc học viết chữ Hán trở nên trực quan và dễ dàng hơn bao giờ hết.*
+
+---
+
+## 📥 Tải về bộ thẻ
+Bạn có thể tải về bộ thẻ cho từng quyển hoàn toàn miễn phí tại đây.
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/file/d/1OqhM7osBjZY-vKLip_AFS260RteAYd9T/view"> <button class="buttonPrimary" type="button">Google Drive (tác giả)</button> </a> </div>
+
+<div style={{display: 'flex', justifyContent: 'left', gap: '20px'}}> <a href="https://drive.google.com/open?id=1OOhEJ70fGk-vgLM36jNmdoN1nQGObSEK&usp=drive_fs"> <button class="buttonPrimary" type="button">Google Drive (ankivn)</button> </a> </div>
+
+*Lưu ý: Bạn cần cài đặt phần mềm Anki trên máy tính hoặc điện thoại để sử dụng bộ thẻ này.*
+
+---
+
+## 🎯 Kết luận
+Đây là một bộ thẻ **"phải có"** cho bất kỳ ai đang theo học "Giáo trình Hán ngữ". Nó không chỉ tiết kiệm hàng chục giờ tạo thẻ thủ công mà còn cung cấp một phương pháp học toàn diện (Nghe - Nói - Đọc - Viết) nhờ sự đầu tư kỹ lưỡng vào từng chi tiết của thẻ. Chúc các bạn học tốt!

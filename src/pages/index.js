@@ -18,15 +18,22 @@ const HomePage = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
-    // Thêm hoặc xóa class 'dark' khỏi thẻ body
-    if (darkMode) {
-      document.body.classList.add('dark');
-    } else {
-      document.body.classList.remove('dark');
-    }
-  }, [darkMode]);
+    // Force light mode
+    document.documentElement.setAttribute('data-theme', 'light');
+    document.body.classList.remove('dark');
+    
+    // Lưu preference vào localStorage
+    localStorage.setItem('theme', 'light');
+  }, []);
 
-  const toggleDarkMode = () => setDarkMode(!darkMode);
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+    // Force light mode khi người dùng cố gắng chuyển sang dark mode
+    document.documentElement.setAttribute('data-theme', 'light');
+    document.body.classList.remove('dark');
+    localStorage.setItem('theme', 'light');
+  };
+
   const toggleMobileMenu = () => setMobileMenuOpen(!mobileMenuOpen);
 
   return (

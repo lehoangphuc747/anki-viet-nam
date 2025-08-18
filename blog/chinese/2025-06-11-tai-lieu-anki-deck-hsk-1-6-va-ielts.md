@@ -3,6 +3,7 @@ title: "Tài Liệu FREE: Trọn Bộ Anki Deck HSK 1-6 và IELTS (Kèm Hướng
 slug: tai-lieu-anki-deck-hsk-1-6-va-ielts
 description: Tải ngay bộ Anki deck HSK 1-6 (có âm thanh, hình ảnh) và deck từ vựng IELTS Cambridge 9-16. Bài viết kèm video hướng dẫn chi tiết cách dùng Anki hiệu quả.
 category: Tiếng Trung
+date: 2025-06-11
 tags:
   - deck
   - chinese
