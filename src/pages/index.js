@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import styles from './HomePage.module.css'; // Import file CSS Module
 import SearchBar from '@theme/SearchBar';
 import Layout from '@theme/Layout';
+import CubaDonate from '../components/CubaDonate';
 
 // Dữ liệu giả, bạn có thể thay thế
 const navLinks = [
@@ -38,6 +39,7 @@ const HomePage = () => {
 
   return (
     <Layout>
+      <CubaDonate />
       <div className={styles.appContainer}>
         {/* Hero Section */}
         <section className={styles.heroSection}>

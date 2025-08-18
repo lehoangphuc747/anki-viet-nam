@@ -17,7 +17,7 @@ tags:
 
 ## Nội dung
 
-Ngữ pháp tiếng Nhật N5-N1, dữ liệu được lấy từ [mazii.net](http://mazii.net/).
+Ngữ pháp tiếng Nhật N5-N1, dữ liệu được lấy từ [mazii.net](https://mazii.net/).
 
 Nếu gặp lỗi, vui lòng liên hệ **thangvm91@gmail.com**
 

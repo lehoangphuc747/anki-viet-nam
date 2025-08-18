@@ -1,10 +1,10 @@
-﻿---
+---
 title: AP Psychology – Anki deck tiếng Anh toàn diện cho tâm lý học đại cương
 slug: ap-psychology-deck-tieng-anh
 date: 2025-03-28
 description: Bộ thẻ Anki tiếng Anh bao quát toàn bộ chương trình AP Psychology, gồm hình ảnh minh họa, thẻ có phân loại theo giáo trình 2020 và 2024.
 category: 'Y Dược'
-image: http://ankivn.com/images/2025-03-28-ap-psychology-deck-tieng-anh-1743172583146.webp
+image: https://ankivn.com/images/2025-03-28-ap-psychology-deck-tieng-anh-1743172583146.webp
 tags:
   - deck
   - medical

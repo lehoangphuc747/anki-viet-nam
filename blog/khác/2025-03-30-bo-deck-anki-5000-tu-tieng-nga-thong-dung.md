@@ -4,7 +4,7 @@ slug: "bo-deck-anki-5000-tu-tieng-nga-thong-dung"
 date: 2025-03-30
 description: "Chia sẻ bộ Anki Deck gồm 5.000 từ tiếng Nga thông dụng kèm phiên âm IPA, nghĩa tiếng Anh, ví dụ cụ thể và dịch câu. Phù hợp với người mới học tiếng Nga có nền tảng tiếng Anh."
 category: 'Tiếng Nga'
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 tags:
   - deck
   - russian

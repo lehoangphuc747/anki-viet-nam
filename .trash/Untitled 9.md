@@ -2,7 +2,7 @@
 title: "Bộ thẻ tiếng Pháp nhập môn cho Anki"
 slug: bo-the-tieng-phap-nhap-mon-cho-anki
 description: "Giới thiệu bộ thẻ tiếng Pháp dạng xuôi, tối ưu cho người mới bắt đầu học qua Anki."
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 keywords:
   - anki
   - tiếng Pháp

@@ -4,7 +4,7 @@ slug: anatomy-and-physiology-deck-tieng-anh
 date: 2025-03-28
 description: Bộ thẻ Anki tiếng Anh cung cấp kiến thức toàn diện về giải phẫu và sinh lý, có hình ảnh minh họa và thứ tự hợp lý cho người mới bắt đầu.
 category: 'Y Dược'
-image: http://ankivn.com/images/2025-03-28-anatomy-and-physiology-deck-tieng-anh-1743171200363.webp
+image: https://ankivn.com/images/2025-03-28-anatomy-and-physiology-deck-tieng-anh-1743171200363.webp
 tags:
   - deck
   - medical

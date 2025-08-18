@@ -4,7 +4,7 @@ slug: bo-on-noi-tru-y-ha-noi
 date: 2022-07-06
 description: "Tổng hợp các gói flashcard ôn nội trú Y Hà Nội (bệnh học ngoại, bệnh học nhi, bệnh học nội, chẩn đoán hình ảnh, chuyên khoa lẻ, giải phẫu, hóa sinh, sản khoa, sinh học, sinh lý, xét nghiệm). Bộ được chia sẻ từ chị Phương, hỗ trợ sinh viên y nắm vững kiến thức trước kỳ thi nội trú."
 category: 'Y Dược'
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 domain: ankivn.com
 keywords:
   - ankivn

@@ -7,7 +7,7 @@ category: anki
 keywords: [anki plugin, enhance main window, ease factor, review stats, anki columns, anki addon]
 tags:
   - addons
-image: http://ankivn.com/images/2025-06-11-anki-enhance-main-window-1749613378917.webp
+image: https://ankivn.com/images/2025-06-11-anki-enhance-main-window-1749613378917.webp
 ---
 
 <!--truncate-->

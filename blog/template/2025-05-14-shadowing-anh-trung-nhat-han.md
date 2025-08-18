@@ -17,7 +17,7 @@ tags:
   - japanese
   - chinese
   - korean
-image: http://ankivn.com/images/2025-05-14-shadowing-anh-trung-nhat-han-1747153451378.webp
+image: https://ankivn.com/images/2025-05-14-shadowing-anh-trung-nhat-han-1747153451378.webp
 ---
 
 ![](../../static/images/2025-05-14-shadowing-anh-trung-nhat-han-1747153451378.webp)

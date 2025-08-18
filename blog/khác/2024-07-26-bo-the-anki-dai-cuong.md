@@ -13,7 +13,7 @@ keywords:
 tags:
   - deck
   - university
-image: http://ankivn.com/images/2025-05-15-bo-the-anki-dai-cuong-1747318378373.webp
+image: https://ankivn.com/images/2025-05-15-bo-the-anki-dai-cuong-1747318378373.webp
 ---
 
 ![](../../static/images/2025-05-15-bo-the-anki-dai-cuong-1747318378373.webp)

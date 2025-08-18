@@ -13,7 +13,7 @@ keywords:
 tags:
   - deck
   - medical
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 ---
 
 <!--truncate-->

@@ -10,7 +10,7 @@ keywords:
   - txt
   - nhập từ vựng
   - điện thoại
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 ---
 
 <!--truncate-->

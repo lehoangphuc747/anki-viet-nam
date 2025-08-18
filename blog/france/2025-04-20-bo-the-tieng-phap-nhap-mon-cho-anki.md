@@ -4,7 +4,7 @@ slug: bo-the-tieng-phap-nhap-mon-cho-anki
 date: 2025-04-20
 description: Giới thiệu bộ thẻ tiếng Pháp dạng xuôi, tối ưu cho người mới bắt đầu học qua Anki.
 category: Tiếng Pháp
-image: http://ankivn.com/images/bo-the-tieng-phap-nhap-mon-cho-anki-1745133894849.webp
+image: https://ankivn.com/images/bo-the-tieng-phap-nhap-mon-cho-anki-1745133894849.webp
 keywords:
   - anki
   - tiếng Pháp

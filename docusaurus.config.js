@@ -85,7 +85,7 @@ const config = {
           blogPostComponent: '@theme/BlogPostPage',
           blogTagsListComponent: '@theme/BlogTagsListPage',
           blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
-          blogTitle: 'Tất cả bộ thẻ',
+          blogTitle: 'Bộ thẻ',
           blogDescription: 'Các bộ thẻ Anki được chia sẻ bởi cộng đồng',
           feedOptions: {
             type: 'all',
@@ -210,12 +210,7 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn',
           },
-          { to: '/blog', label: 'Tất cả bộ thẻ', position: 'left' },
-          {
-            type: 'html',
-            position: 'left',
-            value: '<a href="https://langki.net/" target="_blank" rel="noopener noreferrer">Langki Hub</a>',
-          },
+          { to: '/blog', label: 'Bộ thẻ', position: 'left' },
         ],
       },
       footer: {

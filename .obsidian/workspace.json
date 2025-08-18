@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce218fe7167002c",
+        "id": "d27c6f4c0116f02a",
         "type": "tabs",
         "children": [
           {
-            "id": "f2b3ecb09032e60f",
+            "id": "a8cff4ef7c5b10eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/english/2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the"
-            }
-          },
-          {
-            "id": "c0214280b706c851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/english/2025-05-11-bo-the-giao-tiep-anki.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-11-bo-the-giao-tiep-anki"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtube",
+                "query": "http://",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,21 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2b3ecb09032e60f",
+  "active": "a8cff4ef7c5b10eb",
   "lastOpenFiles": [
-    "static/images/2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the-1755503627858.webp",
+    "build/opensearch.xml",
     "build/docs/tags/tutorial.html",
+    "build/docs/I. KIẾN THỨC CƠ BẢN.html",
+    "build/docs/chat_gpt_prompt.html",
     "build/docs/tags/template.html",
-    "build/docs/tags/medical.html",
     "build/docs/tags/english.html",
+    "build/docs/tags/medical.html",
     "build/docs/tags/docs.html",
-    "build/docs/tags/deck.html",
     "build/docs/III. KINH NGHIỆM/cach-hoc-tren-anki-hieu-qua-voi-mo-hinh-dikw.html",
+    "build/docs/III. KINH NGHIỆM",
     "build/docs/II. HƯỚNG DẪN NÂNG CAO/huong-dan-su-dung-llm-dictionary-tao-the-anki.html",
-    "build/docs/II. HƯỚNG DẪN NÂNG CAO/hoc-y-khoa-bang-anki.html",
-    "build/docs/I. KIẾN THỨC CƠ BẢN/khai-pha-suc-manh-nao-bo-goi-nho-chu-dong-lap-lai-ngat-quang-anki.html",
-    "build/assets/images/Untitled-1749997181464-e56bb9315d6d4287271ea20f5ab0a2a0.webp",
     "build/assets/images/zk9p4gd-ff827efa6d2d76db6d9301ee87b4d156.gif",
+    "build/assets/images/Untitled-1749997181464-e56bb9315d6d4287271ea20f5ab0a2a0.webp",
     "build/assets/images/Untitled-1749997156020-2fd869f7b677fb17bb2c9208cc5665c8.webp",
     "build/assets/images/Untitled-1749997140379-46a9d614f77fd21257f4fa111c69d281.webp",
     "build/assets/images/Untitled-1749997127956-5ece26bf13e2c1f090fdf13cf6ca8402.webp",
@@ -214,30 +196,30 @@
     "build/assets/images/Untitled-1743054267361-b6b14d961c564d20dbac1e4b62ddf9be.webp",
     "build/assets/images/Untitled-1743054262900-41eed235d70d556ae2416cb59e163bcf.webp",
     "build/assets/images/Untitled-1743054246445-8e4d5d34ae2670bef732e0df63b90c01.webp",
-    "blog/english/2025-05-11-bo-the-giao-tiep-anki.md",
-    "blog/english/2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the.md",
-    "blog/english/2024-06-01-ets-toeic-2016.md",
-    "blog/english/2024-03-01-200-common-english-conversation-phrases.md",
-    "blog/english/2022-08-01-destination-b1-and-b2-with-phrasal-verb-and-vietnamese.md",
-    "blog/english/2022-04-10-100-Really-Learn-Phrasal-Verbs-for-Business.md",
-    "blog/japanese/2025-06-25-mimikara-oboeru-n2-ngu-phap.md",
-    "docs/III. KINH NGHIỆM/cach-hoc-tren-anki-hieu-qua-voi-mo-hinh-dikw.md",
-    "docs/III. KINH NGHIỆM/README.md",
-    "docs/II. HƯỚNG DẪN NÂNG CAO/README.md",
-    "docs/I. KIẾN THỨC CƠ BẢN/README.md",
-    "Clippings/회귀한 용병은 다 계획이 있다-1화  북토끼 - 웹소설 자료실.md",
-    "blog/chinese/2025-06-15-anki-giao-trinh-han-ngu-1-2.md",
-    "blog/chinese/2025-02-01-chia-se-bo-the-hsk1-9-kinh-nghiem-hoc-va-thi-hsk6.md",
-    "blog/chinese/2025-03-21-bo-the-hsk1-6-am-thanh-hinh-anh-nghia-viet.md",
-    "blog/chinese/2025-06-11-tai-lieu-anki-deck-hsk-1-6-va-ielts.md",
-    "blog/addons/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md",
-    "blog/addons/2025-06-11-anki-enhance-main-window.md",
-    "blog/addons/2022-04-09-watch-foreign-language-movies-with-anki.md",
-    "blog/khác/2025-05-30-bo-the-anki-on-thi-gplx-a1-moi-2025.md",
-    "blog/khác/2022-06-30-600-cau-ly-thuyet-thi-bang-lai-b2-c-d.md",
-    "blog/khác/2022-06-16-200-cau-hoi-thi-bang-lai-xe-may-a1-2022.md",
-    "blog/english/2022-07-04-LDOCE6-with-Pictures.md",
-    "blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
-    "docs/II. HƯỚNG DẪN NÂNG CAO/2024-07-22-huong-dan-su-dung-llm-dictionary-tao-the-anki.md"
+    "node_modules/@docusaurus/bundler/node_modules/postcss-logical/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-logical/LICENSE.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-logical/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-preset-env/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-preset-env/LICENSE.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-preset-env/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-replace-overflow-wrap/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-replace-overflow-wrap/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-opacity-percentage/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-opacity-percentage/LICENSE.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-nesting/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-nesting/LICENSE.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-nesting/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/css-has-pseudo/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/css-has-pseudo/LICENSE.md",
+    "node_modules/@docusaurus/bundler/node_modules/css-has-pseudo/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-font-variant/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-font-variant/CHANGELOG.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-clamp/README.md",
+    "node_modules/@docusaurus/bundler/node_modules/postcss-clamp/INSTALL.md",
+    "node_modules/@babel/helper-create-regexp-features-plugin/node_modules/semver/README.md",
+    "node_modules/@babel/helper-create-class-features-plugin/node_modules/semver/README.md",
+    "node_modules/@babel/preset-env/node_modules/semver/README.md",
+    "node_modules/@babel/plugin-transform-runtime/node_modules/semver/README.md",
+    "node_modules/@babel/core/node_modules/semver/README.md"
   ]
 }

@@ -4,7 +4,7 @@ slug: thpt-tu-nhien-toan-ly-hoa-anh-dgnl-su-dia
 date: 2024-07-05
 description: Bộ deck Anki THPT tổng hợp Toán, Lý, Hóa, Anh cùng bonus Sử và Địa (ĐGNL), được tạo bởi một học sinh tâm huyết, chia sẻ miễn phí cho cộng đồng học sinh THPT ôn thi đại học.
 category: THPT
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 domain: ankivn.com
 keywords:
   - ankivn

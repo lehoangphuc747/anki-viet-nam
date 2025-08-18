@@ -31,7 +31,7 @@ Những thông tin có trong bộ này:
 
 Lưu ý rằng độ phổ biến càng nhỏ thì có nghĩa kanji đó càng phổ biến. "Lớp được học" ở đây nghĩa là lớp được học tại Nhật Bản (ví dụ như chữ NHẬT thì được học ở lớp 1 tiểu học).
 
-Lưu ý: Để máy hiện thứ tự nét viết, cần tải và cài đặt font từ trang sau vào máy tính: [http://www.nihilist.org.uk/](https://www.nihilist.org.uk). Chỉ cần tải file font là file `KanjiStrokeOrders_v3.001.ttf`, sau đó cài là được. Trên Android, copy font trên vào thư mục `/sdcard/AnkiDroid/fonts` (hãy tạo thư mục "fonts" nếu không có).
+Lưu ý: Để máy hiện thứ tự nét viết, cần tải và cài đặt font từ trang sau vào máy tính: [https://www.nihilist.org.uk/](https://www.nihilist.org.uk). Chỉ cần tải file font là file `KanjiStrokeOrders_v3.001.ttf`, sau đó cài là được. Trên Android, copy font trên vào thư mục `/sdcard/AnkiDroid/fonts` (hãy tạo thư mục "fonts" nếu không có).
 
 Nếu không được, hãy thử đổi tên file font thành `KanjiStrokeOrders` (bỏ phần `_v3.001`).
 

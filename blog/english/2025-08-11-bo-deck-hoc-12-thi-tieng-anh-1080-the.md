@@ -3,7 +3,7 @@ title: Bộ Deck Học 12 Thì Tiếng Anh (1080 thẻ)
 slug: bo-deck-hoc-12-thi-tieng-anh-1080-the
 date: 2025-08-11
 description: Bộ deck Anki học 12 thì tiếng Anh với 1080 thẻ, phù hợp cho người mới bắt đầu, học sinh và người mất gốc. Mỗi thì gồm 90 câu trắc nghiệm kèm giải thích chi tiết.
-image: http://ankivn.com/images/2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the-1755500566551.webp
+image: https://ankivn.com/images/2025-08-11-bo-deck-hoc-12-thi-tieng-anh-1080-the-1755500566551.webp
 category: english
 keywords:
   - deck học 12 thì tiếng Anh

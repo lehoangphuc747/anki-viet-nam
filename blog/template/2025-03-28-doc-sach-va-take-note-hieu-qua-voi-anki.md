@@ -4,7 +4,7 @@ slug: "doc-sach-va-take-note-hieu-qua-voi-anki"
 date: 2025-03-28
 description: "Chia sẻ template và kinh nghiệm sử dụng Anki để ghi chú sách hiệu quả, giúp bạn phát triển thế giới quan và duy trì quá trình học tập sâu sắc."
 category: 'Mẫu thẻ'
-image: http://ankivn.com/images/2025-03-28-doc-sach-va-take-note-hieu-qua-voi-anki-1743170380969.webp
+image: https://ankivn.com/images/2025-03-28-doc-sach-va-take-note-hieu-qua-voi-anki-1743170380969.webp
 tags:
   - deck
   - template

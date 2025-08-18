@@ -4,7 +4,7 @@ slug: medical-terminology-flashcard-xentury-online
 date: 2022-07-06
 description: Bộ flashcard về thuật ngữ y khoa được biên soạn cho sinh viên y dược Việt Nam, tổng hợp từ nhiều nguồn uy tín (Merriam-Webster, sách Thuật ngữ Y khoa của BS. Nguyễn Thái Duy, v.v.) và được cập nhật hàng tuần.
 category: 'Y Dược'
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 domain: ankivn.com
 keywords:
   - ankivn

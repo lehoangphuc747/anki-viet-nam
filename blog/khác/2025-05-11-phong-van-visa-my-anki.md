@@ -13,7 +13,7 @@ keywords:
   - luyện phỏng vấn
 tags:
   - khac
-image: http://ankivn.com/images/2025-05-11-phong-van-visa-my-anki-1746968606256.webp
+image: https://ankivn.com/images/2025-05-11-phong-van-visa-my-anki-1746968606256.webp
 ---
 
 ![](../../static/images/2025-05-11-phong-van-visa-my-anki-1746968606256.webp)

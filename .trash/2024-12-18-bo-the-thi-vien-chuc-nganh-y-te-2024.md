@@ -5,7 +5,7 @@ date: 2024-12-18
 description: "Bộ thẻ tổng hợp kiến thức ôn thi viên chức ngành Y tế."
 domain: ankivn.com
 category: Y Dược
-image: http://ankivn.com/img/default-thumbnail.webp
+image: https://ankivn.com/img/default-thumbnail.webp
 keywords:
   - ankivn
 tags:

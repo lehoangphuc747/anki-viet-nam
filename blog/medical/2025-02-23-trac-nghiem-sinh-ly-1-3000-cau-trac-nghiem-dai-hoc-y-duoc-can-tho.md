@@ -5,7 +5,7 @@ date: 2025-02-23
 description: "Bộ thẻ Anki gồm 3000 câu trắc nghiệm Sinh lý 1 từ Đại học Y dược Cần Thơ, hỗ trợ ôn thi hiệu quả."
 domain: ankivn.com
 category: 'Y Dược'
-image: http://ankivn.com/images/2025-02-23-trac-nghiem-sinh-ly-1-3000-cau-trac-nghiem-dai-hoc-y-duoc-can-tho-1743864845139.webp
+image: https://ankivn.com/images/2025-02-23-trac-nghiem-sinh-ly-1-3000-cau-trac-nghiem-dai-hoc-y-duoc-can-tho-1743864845139.webp
 keywords:
   - ankivn
   - sinh lý 1

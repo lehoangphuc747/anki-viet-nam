@@ -16,7 +16,7 @@ keywords:
 tags:
   - deck
   - english
-image: http://ankivn.com/images/2025-05-11-bo-the-giao-tiep-anki-1746969737995.webp
+image: https://ankivn.com/images/2025-05-11-bo-the-giao-tiep-anki-1746969737995.webp
 ---
 
 ![](../../static/images/2025-05-11-bo-the-giao-tiep-anki-1746969737995.webp)

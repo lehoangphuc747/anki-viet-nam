@@ -12,7 +12,7 @@ tags:
   - addons
 slug: smartertypefield-go-dap-an-linh-hoat-trong-anki
 date: 2025-05-17
-image: http://ankivn.com/images/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md-1747493655241.webp
+image: https://ankivn.com/images/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md-1747493655241.webp
 ---
 
 ![](../../static/images/2025-05-17-smartertypefield-go-dap-an-linh-hoat-trong-anki.md-1747493655241.webp)

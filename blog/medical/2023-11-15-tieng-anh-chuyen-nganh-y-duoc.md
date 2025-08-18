@@ -5,7 +5,7 @@ date: 2023-11-15
 description: Giới thiệu về bộ Deck GGC Tiếng Anh chuyên ngành Y dược, một tài liệu học tập bổ ích cho người học tiếng Anh chuyên ngành Y dược.
 domain: ankivn.com
 category: 'Y Dược'
-image: http://ankivn.com/images/2023-11-15-tieng-anh-chuyen-nganh-y-duoc-1743865079419.webp
+image: https://ankivn.com/images/2023-11-15-tieng-anh-chuyen-nganh-y-duoc-1743865079419.webp
 keywords:
   - ankivn
   - english

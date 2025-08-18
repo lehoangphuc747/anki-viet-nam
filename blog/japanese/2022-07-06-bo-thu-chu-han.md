@@ -30,7 +30,7 @@ Bạn có thể vào đây nếu muốn tìm hiểu thêm:
 ### 📤 Lưu ý cài font để hiển thị thứ tự nét
 
 Cần tải và cài đặt font từ trang sau vào máy tính:  
-👉 [Link](http://www.google.com/url?q=http%3A%2F%2Fwww.nihilist.org.uk%2F&sa=D&sntz=1&usg=AOvVaw3GLmjsz92oD91JtHyP9PNX)
+👉 [Link](https://www.google.com/url?q=http%3A%2F%2Fwww.nihilist.org.uk%2F&sa=D&sntz=1&usg=AOvVaw3GLmjsz92oD91JtHyP9PNX)
 
 Chỉ cần tải file font **KanjiStrokeOrders_v3.001.ttf**, sau đó:
 
@@ -43,7 +43,7 @@ Chỉ cần tải file font **KanjiStrokeOrders_v3.001.ttf**, sau đó:
 ### 📌 Ghi chú thêm
 
 Thứ tự của bộ này dựa trên trang sau:  
-👉 [Link](http://www.google.com/url?q=http%3A%2F%2Fwww.kanji-link.com%2Fen%2Fkanji%2Fintro%2F&sa=D&sntz=1&usg=AOvVaw37YqnTj3cq7V-u8tcgUyqg)
+👉 [Link](https://www.google.com/url?q=http%3A%2F%2Fwww.kanji-link.com%2Fen%2Fkanji%2Fintro%2F&sa=D&sntz=1&usg=AOvVaw37YqnTj3cq7V-u8tcgUyqg)
 
 > (Theo đó 48 bộ thủ đầu tiên sẽ tạo nên 75% kanji trong số 2136 Joyo Kanji)
 
