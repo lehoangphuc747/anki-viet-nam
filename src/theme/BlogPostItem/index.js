@@ -2,7 +2,7 @@ import React from 'react';
 import OriginalBlogPostItem from '@theme-original/BlogPostItem';
 import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
-import SupportFooter from '@site/src/components/@BlogPost/SupportFooter';
+import SupportFooter from '@site/src/components/BlogPost/SupportFooter';
 
 // BlogCard moved to @BlogPage/BlogCard
 
