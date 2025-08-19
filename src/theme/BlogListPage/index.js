@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Layout from '@theme/Layout';
-import { BlogCard } from '@theme/BlogPostItem';
+import BlogCard from '@site/src/components/BlogPage/BlogCard';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 import styles from './styles.module.css';
