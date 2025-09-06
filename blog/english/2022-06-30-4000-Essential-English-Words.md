@@ -51,7 +51,7 @@ Anki and its decks are not a complete solution for mastering a foreign language.
 
 [⬇ 4000 Essential English Words 2 - Vietnamese](https://ankiweb.net/shared/info/1113932863)
 
-[⬇ 4000 Essential English Words 3 - Vietnamese](https://ankiweb.net/shared/info/1113932863)
+[⬇ 4000 Essential English Words 3 - Vietnamese](https://ankiweb.net/shared/info/1310966173)
 
 [⬇ 4000 Essential English Words 4 - Vietnamese](https://ankiweb.net/shared/info/887520497)
 

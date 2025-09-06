@@ -147,7 +147,9 @@ body {
 /* Hero Section */
 .heroSection {
   color: var(--color-white);
-  background: linear-gradient(to bottom right, var(--color-red-600), var(--color-red-800));
+  background: linear-gradient(to bottom right, #d83838, #861d1d, #dc2626, #ef4444, var(--color-red-600), var(--color-red-800));
+  background-size: 400% 400%;
+  animation: heroGradientShift 10s ease-in-out infinite;
   /* Full screen height across devices (fallbacks ordered by support) */
   min-height: calc(100vh - 4rem);
   min-height: calc(100dvh - 4rem);
@@ -156,7 +158,10 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  position: relative;
+  overflow: hidden;
 }
+
 .heroTitle {
   font-size: 2.5rem;
   font-weight: 800;
